@@ -1904,3 +1904,416 @@ FPackageName: Skipped package /Game/Animated_Nebulas_Starter_Pack/Planet_System/
 [2025.06.14-00.44.22:741][985]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.06.14-00.44.22:741][985]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.06.14-00.44.22:741][985]AssetCheck: /Game/ActualGame/GameLevel Validating asset
+[2025.06.14-00.45.21:591][815]LogSlate: Window 'BP_ThirdPersonCharacter' being destroyed
+[2025.06.14-00.45.21:603][815]LogSlate: Window 'BP_ThirdPersonCharacter' being destroyed
+[2025.06.14-00.45.21:608][815]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2025.06.14-00.45.21:608][815]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.14-00.45.21:685][815]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2025.06.14-00.45.27:745][370]LogStreaming: Display: FlushAsyncLoading(887): 1 QueuedPackages, 0 AsyncPackages
+[2025.06.14-00.45.34:291][370]LogSlate: Window 'New Level' being destroyed
+[2025.06.14-00.45.34:306][370]LogChaosDD: Creating Chaos Debug Draw Scene for world Untitled
+[2025.06.14-00.45.45:892][370]LogSlate: Window 'Save Level As' being destroyed
+[2025.06.14-00.45.46:003][370]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2025.06.14-00.45.46:015][370]LogSavePackage: Moving output files for package: /Game/ActualGame/SubLevels/Scale
+[2025.06.14-00.45.46:015][370]LogSavePackage: Moving '../../../../../../Unreal engine projects/GameParadeJam/Saved/Scale931E8DA14F4660AB675DE29C2E431853.tmp' to '../../../../../../Unreal engine projects/GameParadeJam/Content/ActualGame/SubLevels/Scale.umap'
+[2025.06.14-00.45.46:029][370]LogFileHelpers: Saving map 'Scale' took 0.114
+[2025.06.14-00.45.46:029][370]LogWorld: UWorld::CleanupWorld for Scale, bSessionEnded=true, bCleanupResources=true
+[2025.06.14-00.45.46:029][370]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.14-00.45.46:173][370]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.14-00.45.46:173][370]LogContentValidation: Enabled validators:
+[2025.06.14-00.45.46:173][370]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.14-00.45.46:173][370]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.14-00.45.46:173][370]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.14-00.45.46:173][370]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.14-00.45.46:173][370]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.14-00.45.46:173][370]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.14-00.45.46:174][370]AssetCheck: /Game/ActualGame/SubLevels/Scale Validating asset
+[2025.06.14-00.45.46:204][370]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Unreal engine projects/GameParadeJam/Saved/SourceControl/UncontrolledChangelists.json
+[2025.06.14-00.45.54:109][826]LogSlate: Window 'New Level' being destroyed
+[2025.06.14-00.45.54:119][826]LogChaosDD: Creating Chaos Debug Draw Scene for world Untitled
+[2025.06.14-00.46.00:189][826]LogSlate: Window 'Save Level As' being destroyed
+[2025.06.14-00.46.00:284][826]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2025.06.14-00.46.00:295][826]LogSavePackage: Moving output files for package: /Game/ActualGame/SubLevels/Lighting
+[2025.06.14-00.46.00:295][826]LogSavePackage: Moving '../../../../../../Unreal engine projects/GameParadeJam/Saved/Lighting9B3212214667FD7757F8C1926D44A1CC.tmp' to '../../../../../../Unreal engine projects/GameParadeJam/Content/ActualGame/SubLevels/Lighting.umap'
+[2025.06.14-00.46.00:310][826]LogFileHelpers: Saving map 'Lighting' took 0.108
+[2025.06.14-00.46.00:310][826]LogStreaming: Display: FlushAsyncLoading(889): 1 QueuedPackages, 0 AsyncPackages
+[2025.06.14-00.46.00:310][826]LogWorld: UWorld::CleanupWorld for Lighting, bSessionEnded=true, bCleanupResources=true
+[2025.06.14-00.46.00:310][826]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.14-00.46.00:441][826]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.14-00.46.00:441][826]LogContentValidation: Enabled validators:
+[2025.06.14-00.46.00:441][826]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.14-00.46.00:441][826]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.14-00.46.00:441][826]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.14-00.46.00:441][826]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.14-00.46.00:441][826]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.14-00.46.00:441][826]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.14-00.46.00:441][826]AssetCheck: /Game/ActualGame/SubLevels/Lighting Validating asset
+[2025.06.14-00.46.00:459][826]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Unreal engine projects/GameParadeJam/Saved/SourceControl/UncontrolledChangelists.json
+[2025.06.14-00.46.05:788][114]LogSlate: Window 'New Level' being destroyed
+[2025.06.14-00.46.05:797][114]LogChaosDD: Creating Chaos Debug Draw Scene for world Untitled
+[2025.06.14-00.46.17:001][114]LogSlate: Window 'Save Level As' being destroyed
+[2025.06.14-00.46.17:103][114]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2025.06.14-00.46.17:114][114]LogSavePackage: Moving output files for package: /Game/ActualGame/SubLevels/StartingRoom
+[2025.06.14-00.46.17:114][114]LogSavePackage: Moving '../../../../../../Unreal engine projects/GameParadeJam/Saved/StartingRoom600D483342EF51D25CEC2395D72D0935.tmp' to '../../../../../../Unreal engine projects/GameParadeJam/Content/ActualGame/SubLevels/StartingRoom.umap'
+[2025.06.14-00.46.17:128][114]LogFileHelpers: Saving map 'StartingRoom' took 0.115
+[2025.06.14-00.46.17:128][114]LogStreaming: Display: FlushAsyncLoading(890): 1 QueuedPackages, 0 AsyncPackages
+[2025.06.14-00.46.17:128][114]LogWorld: UWorld::CleanupWorld for StartingRoom, bSessionEnded=true, bCleanupResources=true
+[2025.06.14-00.46.17:128][114]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.14-00.46.17:257][114]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.14-00.46.17:257][114]LogContentValidation: Enabled validators:
+[2025.06.14-00.46.17:257][114]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.14-00.46.17:257][114]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.14-00.46.17:257][114]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.14-00.46.17:257][114]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.14-00.46.17:257][114]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.14-00.46.17:257][114]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.14-00.46.17:257][114]AssetCheck: /Game/ActualGame/SubLevels/StartingRoom Validating asset
+[2025.06.14-00.46.17:275][114]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Unreal engine projects/GameParadeJam/Saved/SourceControl/UncontrolledChangelists.json
+[2025.06.14-00.46.26:290][507]LogSlate: Window 'New Level' being destroyed
+[2025.06.14-00.46.26:328][507]LogChaosDD: Creating Chaos Debug Draw Scene for world Untitled
+[2025.06.14-00.46.34:968][507]LogSlate: Window 'Save Level As' being destroyed
+[2025.06.14-00.46.35:069][507]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2025.06.14-00.46.35:080][507]LogSavePackage: Moving output files for package: /Game/ActualGame/SubLevels/Room1
+[2025.06.14-00.46.35:080][507]LogSavePackage: Moving '../../../../../../Unreal engine projects/GameParadeJam/Saved/Room11FC4E2774D0DE64A0ECABF9F31C87CCE.tmp' to '../../../../../../Unreal engine projects/GameParadeJam/Content/ActualGame/SubLevels/Room1.umap'
+[2025.06.14-00.46.35:094][507]LogFileHelpers: Saving map 'Room1' took 0.110
+[2025.06.14-00.46.35:094][507]LogStreaming: Display: FlushAsyncLoading(891): 1 QueuedPackages, 0 AsyncPackages
+[2025.06.14-00.46.35:095][507]LogWorld: UWorld::CleanupWorld for Room1, bSessionEnded=true, bCleanupResources=true
+[2025.06.14-00.46.35:095][507]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.14-00.46.35:240][507]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.14-00.46.35:240][507]LogContentValidation: Enabled validators:
+[2025.06.14-00.46.35:240][507]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.14-00.46.35:240][507]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.14-00.46.35:240][507]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.14-00.46.35:240][507]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.14-00.46.35:240][507]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.14-00.46.35:240][507]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.14-00.46.35:240][507]AssetCheck: /Game/ActualGame/SubLevels/Room1 Validating asset
+[2025.06.14-00.46.35:268][507]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Unreal engine projects/GameParadeJam/Saved/SourceControl/UncontrolledChangelists.json
+[2025.06.14-00.46.37:139][672]Cmd: DUPLICATE
+[2025.06.14-00.46.37:139][672]Cmd: ACTOR DUPLICATE
+[2025.06.14-00.46.45:788][404]LogSlate: Window 'New Level' being destroyed
+[2025.06.14-00.46.45:809][404]LogChaosDD: Creating Chaos Debug Draw Scene for world Untitled
+[2025.06.14-00.46.55:639][404]LogSlate: Window 'Save Level As' being destroyed
+[2025.06.14-00.46.55:735][404]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2025.06.14-00.46.55:746][404]LogSavePackage: Moving output files for package: /Game/ActualGame/SubLevels/Room2
+[2025.06.14-00.46.55:746][404]LogSavePackage: Moving '../../../../../../Unreal engine projects/GameParadeJam/Saved/Room24A162A6C4739CAD3C5089D93BF785FE7.tmp' to '../../../../../../Unreal engine projects/GameParadeJam/Content/ActualGame/SubLevels/Room2.umap'
+[2025.06.14-00.46.55:761][404]LogFileHelpers: Saving map 'Room2' took 0.110
+[2025.06.14-00.46.55:761][404]LogStreaming: Display: FlushAsyncLoading(892): 1 QueuedPackages, 0 AsyncPackages
+[2025.06.14-00.46.55:761][404]LogWorld: UWorld::CleanupWorld for Room2, bSessionEnded=true, bCleanupResources=true
+[2025.06.14-00.46.55:761][404]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.14-00.46.55:874][404]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.14-00.46.55:875][404]LogContentValidation: Enabled validators:
+[2025.06.14-00.46.55:875][404]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.14-00.46.55:875][404]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.14-00.46.55:875][404]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.14-00.46.55:875][404]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.14-00.46.55:875][404]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.14-00.46.55:875][404]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.14-00.46.55:875][404]AssetCheck: /Game/ActualGame/SubLevels/Room2 Validating asset
+[2025.06.14-00.46.55:894][404]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Unreal engine projects/GameParadeJam/Saved/SourceControl/UncontrolledChangelists.json
+[2025.06.14-00.46.59:023][596]LogSlate: Window 'New Level' being destroyed
+[2025.06.14-00.46.59:045][596]LogChaosDD: Creating Chaos Debug Draw Scene for world Untitled
+[2025.06.14-00.47.04:006][596]LogSlate: Window 'Save Level As' being destroyed
+[2025.06.14-00.47.04:103][596]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2025.06.14-00.47.04:114][596]LogSavePackage: Moving output files for package: /Game/ActualGame/SubLevels/Room3
+[2025.06.14-00.47.04:114][596]LogSavePackage: Moving '../../../../../../Unreal engine projects/GameParadeJam/Saved/Room3CA9DAD75479FC52C0ED2C5A3180C6974.tmp' to '../../../../../../Unreal engine projects/GameParadeJam/Content/ActualGame/SubLevels/Room3.umap'
+[2025.06.14-00.47.04:128][596]LogFileHelpers: Saving map 'Room3' took 0.109
+[2025.06.14-00.47.04:128][596]LogStreaming: Display: FlushAsyncLoading(893): 1 QueuedPackages, 0 AsyncPackages
+[2025.06.14-00.47.04:128][596]LogWorld: UWorld::CleanupWorld for Room3, bSessionEnded=true, bCleanupResources=true
+[2025.06.14-00.47.04:128][596]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.14-00.47.04:256][596]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.14-00.47.04:256][596]LogContentValidation: Enabled validators:
+[2025.06.14-00.47.04:256][596]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.14-00.47.04:256][596]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.14-00.47.04:256][596]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.14-00.47.04:256][596]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.14-00.47.04:256][596]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.14-00.47.04:256][596]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.14-00.47.04:256][596]AssetCheck: /Game/ActualGame/SubLevels/Room3 Validating asset
+[2025.06.14-00.47.04:278][596]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Unreal engine projects/GameParadeJam/Saved/SourceControl/UncontrolledChangelists.json
+[2025.06.14-00.47.10:305][  9]LogSlate: Window 'New Level' being destroyed
+[2025.06.14-00.47.10:315][  9]LogChaosDD: Creating Chaos Debug Draw Scene for world Untitled
+[2025.06.14-00.47.18:354][  9]LogSlate: Window 'Save Level As' being destroyed
+[2025.06.14-00.47.18:453][  9]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2025.06.14-00.47.18:465][  9]LogSavePackage: Moving output files for package: /Game/ActualGame/SubLevels/Room4
+[2025.06.14-00.47.18:465][  9]LogSavePackage: Moving '../../../../../../Unreal engine projects/GameParadeJam/Saved/Room4DDD2D02643FE48940DEB28A0E229AE8B.tmp' to '../../../../../../Unreal engine projects/GameParadeJam/Content/ActualGame/SubLevels/Room4.umap'
+[2025.06.14-00.47.18:492][  9]LogFileHelpers: Saving map 'Room4' took 0.120
+[2025.06.14-00.47.18:492][  9]LogStreaming: Display: FlushAsyncLoading(894): 1 QueuedPackages, 0 AsyncPackages
+[2025.06.14-00.47.18:492][  9]LogWorld: UWorld::CleanupWorld for Room4, bSessionEnded=true, bCleanupResources=true
+[2025.06.14-00.47.18:493][  9]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.14-00.47.18:646][  9]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.14-00.47.18:646][  9]LogContentValidation: Enabled validators:
+[2025.06.14-00.47.18:646][  9]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.14-00.47.18:646][  9]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.14-00.47.18:646][  9]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.14-00.47.18:646][  9]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.14-00.47.18:646][  9]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.14-00.47.18:646][  9]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.14-00.47.18:646][  9]AssetCheck: /Game/ActualGame/SubLevels/Room4 Validating asset
+[2025.06.14-00.47.18:686][  9]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Unreal engine projects/GameParadeJam/Saved/SourceControl/UncontrolledChangelists.json
+[2025.06.14-00.47.24:188][438]LogSlate: Window 'New Level' being destroyed
+[2025.06.14-00.47.24:210][438]LogChaosDD: Creating Chaos Debug Draw Scene for world Untitled
+[2025.06.14-00.47.29:901][438]LogSlate: Window 'Save Level As' being destroyed
+[2025.06.14-00.47.30:001][438]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2025.06.14-00.47.30:012][438]LogSavePackage: Moving output files for package: /Game/ActualGame/SubLevels/Room5
+[2025.06.14-00.47.30:012][438]LogSavePackage: Moving '../../../../../../Unreal engine projects/GameParadeJam/Saved/Room55B0E015B478CB1051766F982E84D613D.tmp' to '../../../../../../Unreal engine projects/GameParadeJam/Content/ActualGame/SubLevels/Room5.umap'
+[2025.06.14-00.47.30:027][438]LogFileHelpers: Saving map 'Room5' took 0.114
+[2025.06.14-00.47.30:027][438]LogStreaming: Display: FlushAsyncLoading(895): 1 QueuedPackages, 0 AsyncPackages
+[2025.06.14-00.47.30:028][438]LogWorld: UWorld::CleanupWorld for Room5, bSessionEnded=true, bCleanupResources=true
+[2025.06.14-00.47.30:028][438]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.14-00.47.30:156][438]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.14-00.47.30:156][438]LogContentValidation: Enabled validators:
+[2025.06.14-00.47.30:156][438]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.14-00.47.30:156][438]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.14-00.47.30:156][438]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.14-00.47.30:156][438]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.14-00.47.30:156][438]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.14-00.47.30:156][438]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.14-00.47.30:156][438]AssetCheck: /Game/ActualGame/SubLevels/Room5 Validating asset
+[2025.06.14-00.47.30:182][438]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Unreal engine projects/GameParadeJam/Saved/SourceControl/UncontrolledChangelists.json
+[2025.06.14-00.48.22:316][331]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2025.06.14-00.48.22:334][331]LogSavePackage: Moving output files for package: /Game/ActualGame/SubLevels/StartingRoom
+[2025.06.14-00.48.22:335][331]LogSavePackage: Moving '../../../../../../Unreal engine projects/GameParadeJam/Saved/StartingRoom7860119B4950DD6B7B3FD98623CAC4C9.tmp' to '../../../../../../Unreal engine projects/GameParadeJam/Content/ActualGame/SubLevels/StartingRoom.umap'
+[2025.06.14-00.48.22:429][331]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2025.06.14-00.48.22:439][331]LogSavePackage: Moving output files for package: /Game/ActualGame/SubLevels/Scale
+[2025.06.14-00.48.22:439][331]LogSavePackage: Moving '../../../../../../Unreal engine projects/GameParadeJam/Saved/Scale1F3D801E452F54E5DF88849A969F6F82.tmp' to '../../../../../../Unreal engine projects/GameParadeJam/Content/ActualGame/SubLevels/Scale.umap'
+[2025.06.14-00.48.22:531][331]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2025.06.14-00.48.22:541][331]LogSavePackage: Moving output files for package: /Game/ActualGame/SubLevels/Room5
+[2025.06.14-00.48.22:541][331]LogSavePackage: Moving '../../../../../../Unreal engine projects/GameParadeJam/Saved/Room5E30BC0354A7A6448564A65BE9C854B41.tmp' to '../../../../../../Unreal engine projects/GameParadeJam/Content/ActualGame/SubLevels/Room5.umap'
+[2025.06.14-00.48.22:630][331]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2025.06.14-00.48.22:639][331]LogSavePackage: Moving output files for package: /Game/ActualGame/SubLevels/Room4
+[2025.06.14-00.48.22:640][331]LogSavePackage: Moving '../../../../../../Unreal engine projects/GameParadeJam/Saved/Room43366D5AB45A2120F46F3B9A28271A7A1.tmp' to '../../../../../../Unreal engine projects/GameParadeJam/Content/ActualGame/SubLevels/Room4.umap'
+[2025.06.14-00.48.22:730][331]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2025.06.14-00.48.22:739][331]LogSavePackage: Moving output files for package: /Game/ActualGame/SubLevels/Room3
+[2025.06.14-00.48.22:739][331]LogSavePackage: Moving '../../../../../../Unreal engine projects/GameParadeJam/Saved/Room369F15343470674C46B4080B749850E48.tmp' to '../../../../../../Unreal engine projects/GameParadeJam/Content/ActualGame/SubLevels/Room3.umap'
+[2025.06.14-00.48.22:829][331]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2025.06.14-00.48.22:838][331]LogSavePackage: Moving output files for package: /Game/ActualGame/SubLevels/Room2
+[2025.06.14-00.48.22:840][331]LogSavePackage: Moving '../../../../../../Unreal engine projects/GameParadeJam/Saved/Room2E1E32B314FE9136FE8FB188C30F8CE2B.tmp' to '../../../../../../Unreal engine projects/GameParadeJam/Content/ActualGame/SubLevels/Room2.umap'
+[2025.06.14-00.48.22:930][331]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2025.06.14-00.48.22:939][331]LogSavePackage: Moving output files for package: /Game/ActualGame/SubLevels/Room1
+[2025.06.14-00.48.22:940][331]LogSavePackage: Moving '../../../../../../Unreal engine projects/GameParadeJam/Saved/Room1079416224776CCDBF087D6B5235CD2F6.tmp' to '../../../../../../Unreal engine projects/GameParadeJam/Content/ActualGame/SubLevels/Room1.umap'
+[2025.06.14-00.48.23:029][331]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2025.06.14-00.48.23:038][331]LogSavePackage: Moving output files for package: /Game/ActualGame/SubLevels/Lighting
+[2025.06.14-00.48.23:039][331]LogSavePackage: Moving '../../../../../../Unreal engine projects/GameParadeJam/Saved/Lighting91B37C934D669F049C198C8104EB8635.tmp' to '../../../../../../Unreal engine projects/GameParadeJam/Content/ActualGame/SubLevels/Lighting.umap'
+[2025.06.14-00.48.23:643][331]LogContentValidation: Display: Starting to validate 8 assets
+[2025.06.14-00.48.23:643][331]LogContentValidation: Enabled validators:
+[2025.06.14-00.48.23:643][331]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.14-00.48.23:643][331]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.14-00.48.23:643][331]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.14-00.48.23:643][331]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.14-00.48.23:643][331]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.14-00.48.23:643][331]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.14-00.48.23:643][331]AssetCheck: /Game/ActualGame/SubLevels/StartingRoom Validating asset
+[2025.06.14-00.48.23:643][331]AssetCheck: /Game/ActualGame/SubLevels/Scale Validating asset
+[2025.06.14-00.48.23:644][331]AssetCheck: /Game/ActualGame/SubLevels/Room5 Validating asset
+[2025.06.14-00.48.23:644][331]AssetCheck: /Game/ActualGame/SubLevels/Room4 Validating asset
+[2025.06.14-00.48.23:644][331]AssetCheck: /Game/ActualGame/SubLevels/Room3 Validating asset
+[2025.06.14-00.48.23:644][331]AssetCheck: /Game/ActualGame/SubLevels/Room2 Validating asset
+[2025.06.14-00.48.23:644][331]AssetCheck: /Game/ActualGame/SubLevels/Room1 Validating asset
+[2025.06.14-00.48.23:644][331]AssetCheck: /Game/ActualGame/SubLevels/Lighting Validating asset
+[2025.06.14-00.48.27:677][732]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.14-00.48.27:766][732]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2025.06.14-00.48.27:776][732]LogSavePackage: Moving output files for package: /Game/ActualGame/SubLevels/Lighting
+[2025.06.14-00.48.27:776][732]LogSavePackage: Moving '../../../../../../Unreal engine projects/GameParadeJam/Saved/LightingD9DEE1834C001551637678B474D3B407.tmp' to '../../../../../../Unreal engine projects/GameParadeJam/Content/ActualGame/SubLevels/Lighting.umap'
+[2025.06.14-00.48.27:781][732]LogFileHelpers: Saving map 'Lighting' took 0.039
+[2025.06.14-00.48.27:790][732]LogFileHelpers: InternalPromptForCheckoutAndSave took 112.849 ms (total: 687.963 ms)
+[2025.06.14-00.48.27:856][732]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.14-00.48.27:856][732]LogContentValidation: Enabled validators:
+[2025.06.14-00.48.27:856][732]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.14-00.48.27:856][732]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.14-00.48.27:857][732]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.14-00.48.27:857][732]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.14-00.48.27:857][732]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.14-00.48.27:857][732]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.14-00.48.27:857][732]AssetCheck: /Game/ActualGame/SubLevels/Lighting Validating asset
+[2025.06.14-00.48.41:534][ 79]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1031.710083
+[2025.06.14-00.48.41:618][ 87]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.14-00.48.41:618][ 87]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1031.784790, Update Interval: 318.662689
+[2025.06.14-00.48.43:816][277]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2025.06.14-00.48.43:825][277]LogSavePackage: Moving output files for package: /Game/ActualGame/SubLevels/Scale
+[2025.06.14-00.48.43:826][277]LogSavePackage: Moving '../../../../../../Unreal engine projects/GameParadeJam/Saved/Scale414C63F64FD8EA1F62E664AE42051CDC.tmp' to '../../../../../../Unreal engine projects/GameParadeJam/Content/ActualGame/SubLevels/Scale.umap'
+[2025.06.14-00.48.43:956][277]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.14-00.48.43:956][277]LogContentValidation: Enabled validators:
+[2025.06.14-00.48.43:956][277]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.14-00.48.43:956][277]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.14-00.48.43:956][277]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.14-00.48.43:956][277]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.14-00.48.43:956][277]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.14-00.48.43:956][277]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.14-00.48.43:956][277]AssetCheck: /Game/ActualGame/SubLevels/Scale Validating asset
+[2025.06.14-00.49.40:604][784]LogEditorActor: Deleted Actor: DirectionalLight
+[2025.06.14-00.49.40:604][784]LogEditorActor: Deleted Actor: ExponentialHeightFog
+[2025.06.14-00.49.40:606][784]LogEditorActor: Deleted Actor: PostProcessVolume
+[2025.06.14-00.49.40:607][784]LogEditorActor: Deleted Actor: SkyAtmosphere
+[2025.06.14-00.49.40:608][784]LogEditorActor: Deleted Actor: SkyLight
+[2025.06.14-00.49.40:609][784]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.06.14-00.49.40:609][784]LogEditorActor: Deleted Actor: VolumetricCloud
+[2025.06.14-00.49.40:633][784]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2025.06.14-00.49.40:636][784]LogEditorActor: Deleted 7 Actors (0.032 secs)
+[2025.06.14-00.49.42:957][998]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.14-00.49.43:047][998]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2025.06.14-00.49.43:061][998]LogSavePackage: Moving output files for package: /Game/ActualGame/SubLevels/Lighting
+[2025.06.14-00.49.43:061][998]LogSavePackage: Moving '../../../../../../Unreal engine projects/GameParadeJam/Saved/Lighting6E59BF054FD80CB0911024AFA7AD6D2D.tmp' to '../../../../../../Unreal engine projects/GameParadeJam/Content/ActualGame/SubLevels/Lighting.umap'
+[2025.06.14-00.49.43:066][998]LogFileHelpers: Saving map 'Lighting' took 0.044
+[2025.06.14-00.49.43:075][998]LogFileHelpers: InternalPromptForCheckoutAndSave took 119.271 ms (total: 807.235 ms)
+[2025.06.14-00.49.43:137][998]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.14-00.49.43:137][998]LogContentValidation: Enabled validators:
+[2025.06.14-00.49.43:137][998]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.14-00.49.43:137][998]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.14-00.49.43:137][998]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.14-00.49.43:137][998]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.14-00.49.43:137][998]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.14-00.49.43:137][998]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.14-00.49.43:138][998]AssetCheck: /Game/ActualGame/SubLevels/Lighting Validating asset
+[2025.06.14-00.50.38:331][833]Cmd: DELETE
+[2025.06.14-00.50.38:331][833]Cmd: ACTOR DELETE
+[2025.06.14-00.50.49:330][876]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.06.14-00.50.49:330][876]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2025.06.14-00.50.49:355][876]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2025.06.14-00.50.49:361][876]LogEditorActor: Deleted 2 Actors (0.032 secs)
+[2025.06.14-00.50.57:218][637]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.14-00.50.57:313][637]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2025.06.14-00.50.57:326][637]LogSavePackage: Moving output files for package: /Game/ActualGame/SubLevels/Scale
+[2025.06.14-00.50.57:327][637]LogSavePackage: Moving '../../../../../../Unreal engine projects/GameParadeJam/Saved/Scale5D8B94414F7CEE701F8DB0B5EA62D7EA.tmp' to '../../../../../../Unreal engine projects/GameParadeJam/Content/ActualGame/SubLevels/Scale.umap'
+[2025.06.14-00.50.57:332][637]LogFileHelpers: Saving map 'Scale' took 0.040
+[2025.06.14-00.50.57:341][637]LogFileHelpers: InternalPromptForCheckoutAndSave took 123.289 ms (total: 930.524 ms)
+[2025.06.14-00.50.57:406][637]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.14-00.50.57:406][637]LogContentValidation: Enabled validators:
+[2025.06.14-00.50.57:406][637]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.14-00.50.57:406][637]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.14-00.50.57:406][637]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.14-00.50.57:406][637]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.14-00.50.57:406][637]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.14-00.50.57:406][637]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.14-00.50.57:406][637]AssetCheck: /Game/ActualGame/SubLevels/Scale Validating asset
+[2025.06.14-00.51.08:994][762]Cmd: EDIT COPY
+[2025.06.14-00.51.10:726][932]Cmd: EDIT CUT
+[2025.06.14-00.51.10:728][932]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.06.14-00.51.10:759][932]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2025.06.14-00.51.10:762][932]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2025.06.14-00.51.12:054][ 80]Cmd: TRANSACTION UNDO
+[2025.06.14-00.51.12:062][ 80]LogEditorTransaction: Undo Cut
+[2025.06.14-00.51.16:817][475]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.06.14-00.51.16:843][475]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2025.06.14-00.51.16:846][475]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2025.06.14-00.51.19:245][697]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.14-00.51.19:344][697]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2025.06.14-00.51.19:358][697]LogSavePackage: Moving output files for package: /Game/ActualGame/SubLevels/StartingRoom
+[2025.06.14-00.51.19:358][697]LogSavePackage: Moving '../../../../../../Unreal engine projects/GameParadeJam/Saved/StartingRoom36F726294F0ABAA2ED1CB2BDA5D13FCD.tmp' to '../../../../../../Unreal engine projects/GameParadeJam/Content/ActualGame/SubLevels/StartingRoom.umap'
+[2025.06.14-00.51.19:362][697]LogFileHelpers: Saving map 'StartingRoom' took 0.040
+[2025.06.14-00.51.19:371][697]LogFileHelpers: InternalPromptForCheckoutAndSave took 126.231 ms (total: 1.05 sec)
+[2025.06.14-00.51.19:421][697]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.14-00.51.19:421][697]LogContentValidation: Enabled validators:
+[2025.06.14-00.51.19:421][697]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.14-00.51.19:421][697]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.14-00.51.19:421][697]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.14-00.51.19:421][697]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.14-00.51.19:421][697]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.14-00.51.19:421][697]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.14-00.51.19:421][697]AssetCheck: /Game/ActualGame/SubLevels/StartingRoom Validating asset
+[2025.06.14-00.51.23:290][ 77]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.14-00.51.23:378][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2025.06.14-00.51.23:388][ 77]LogSavePackage: Moving output files for package: /Game/ActualGame/SubLevels/Scale
+[2025.06.14-00.51.23:388][ 77]LogSavePackage: Moving '../../../../../../Unreal engine projects/GameParadeJam/Saved/Scale9F2166ED4E6D01C757EE1495A0D3496F.tmp' to '../../../../../../Unreal engine projects/GameParadeJam/Content/ActualGame/SubLevels/Scale.umap'
+[2025.06.14-00.51.23:393][ 77]LogFileHelpers: Saving map 'Scale' took 0.038
+[2025.06.14-00.51.23:402][ 77]LogFileHelpers: InternalPromptForCheckoutAndSave took 112.139 ms (total: 1.16 sec)
+[2025.06.14-00.51.23:454][ 77]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.14-00.51.23:454][ 77]LogContentValidation: Enabled validators:
+[2025.06.14-00.51.23:454][ 77]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.14-00.51.23:454][ 77]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.14-00.51.23:454][ 77]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.14-00.51.23:454][ 77]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.14-00.51.23:454][ 77]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.14-00.51.23:454][ 77]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.14-00.51.23:454][ 77]AssetCheck: /Game/ActualGame/SubLevels/Scale Validating asset
+[2025.06.14-00.51.24:622][193]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.14-00.51.24:696][193]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2025.06.14-00.51.24:706][193]LogSavePackage: Moving output files for package: /Game/ActualGame/SubLevels/Room5
+[2025.06.14-00.51.24:706][193]LogSavePackage: Moving '../../../../../../Unreal engine projects/GameParadeJam/Saved/Room56CEEDC3D486BAF312B5644832BDF5A92.tmp' to '../../../../../../Unreal engine projects/GameParadeJam/Content/ActualGame/SubLevels/Room5.umap'
+[2025.06.14-00.51.24:710][193]LogFileHelpers: Saving map 'Room5' took 0.039
+[2025.06.14-00.51.24:720][193]LogFileHelpers: InternalPromptForCheckoutAndSave took 98.292 ms (total: 1.26 sec)
+[2025.06.14-00.51.24:770][193]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.14-00.51.24:770][193]LogContentValidation: Enabled validators:
+[2025.06.14-00.51.24:770][193]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.14-00.51.24:770][193]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.14-00.51.24:770][193]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.14-00.51.24:770][193]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.14-00.51.24:770][193]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.14-00.51.24:770][193]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.14-00.51.24:770][193]AssetCheck: /Game/ActualGame/SubLevels/Room5 Validating asset
+[2025.06.14-00.51.26:363][351]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.14-00.51.26:446][351]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2025.06.14-00.51.26:455][351]LogSavePackage: Moving output files for package: /Game/ActualGame/SubLevels/Room4
+[2025.06.14-00.51.26:456][351]LogSavePackage: Moving '../../../../../../Unreal engine projects/GameParadeJam/Saved/Room4796BA1EC47ACD531ACA851B3773A5AB5.tmp' to '../../../../../../Unreal engine projects/GameParadeJam/Content/ActualGame/SubLevels/Room4.umap'
+[2025.06.14-00.51.26:459][351]LogFileHelpers: Saving map 'Room4' took 0.037
+[2025.06.14-00.51.26:470][351]LogFileHelpers: InternalPromptForCheckoutAndSave took 106.707 ms (total: 1.37 sec)
+[2025.06.14-00.51.26:520][351]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.14-00.51.26:520][351]LogContentValidation: Enabled validators:
+[2025.06.14-00.51.26:520][351]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.14-00.51.26:520][351]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.14-00.51.26:520][351]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.14-00.51.26:520][351]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.14-00.51.26:520][351]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.14-00.51.26:520][351]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.14-00.51.26:520][351]AssetCheck: /Game/ActualGame/SubLevels/Room4 Validating asset
+[2025.06.14-00.51.27:484][447]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.14-00.51.27:581][447]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2025.06.14-00.51.27:591][447]LogSavePackage: Moving output files for package: /Game/ActualGame/SubLevels/Room3
+[2025.06.14-00.51.27:591][447]LogSavePackage: Moving '../../../../../../Unreal engine projects/GameParadeJam/Saved/Room3C6D32D7943049669E7DD56B5CFD1A6B7.tmp' to '../../../../../../Unreal engine projects/GameParadeJam/Content/ActualGame/SubLevels/Room3.umap'
+[2025.06.14-00.51.27:596][447]LogFileHelpers: Saving map 'Room3' took 0.039
+[2025.06.14-00.51.27:606][447]LogFileHelpers: InternalPromptForCheckoutAndSave took 120.678 ms (total: 1.49 sec)
+[2025.06.14-00.51.27:653][447]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.14-00.51.27:653][447]LogContentValidation: Enabled validators:
+[2025.06.14-00.51.27:653][447]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.14-00.51.27:653][447]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.14-00.51.27:653][447]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.14-00.51.27:653][447]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.14-00.51.27:653][447]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.14-00.51.27:653][447]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.14-00.51.27:653][447]AssetCheck: /Game/ActualGame/SubLevels/Room3 Validating asset
+[2025.06.14-00.51.28:577][538]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.14-00.51.28:666][538]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2025.06.14-00.51.28:676][538]LogSavePackage: Moving output files for package: /Game/ActualGame/SubLevels/Room2
+[2025.06.14-00.51.28:676][538]LogSavePackage: Moving '../../../../../../Unreal engine projects/GameParadeJam/Saved/Room20363BD9947530C19F31BB6BCEE2C468B.tmp' to '../../../../../../Unreal engine projects/GameParadeJam/Content/ActualGame/SubLevels/Room2.umap'
+[2025.06.14-00.51.28:682][538]LogFileHelpers: Saving map 'Room2' took 0.040
+[2025.06.14-00.51.28:691][538]LogFileHelpers: InternalPromptForCheckoutAndSave took 114.383 ms (total: 1.60 sec)
+[2025.06.14-00.51.28:753][538]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.14-00.51.28:754][538]LogContentValidation: Enabled validators:
+[2025.06.14-00.51.28:754][538]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.14-00.51.28:754][538]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.14-00.51.28:754][538]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.14-00.51.28:754][538]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.14-00.51.28:754][538]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.14-00.51.28:754][538]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.14-00.51.28:754][538]AssetCheck: /Game/ActualGame/SubLevels/Room2 Validating asset
+[2025.06.14-00.51.29:912][653]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.14-00.51.29:998][653]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2025.06.14-00.51.30:007][653]LogSavePackage: Moving output files for package: /Game/ActualGame/SubLevels/Room1
+[2025.06.14-00.51.30:008][653]LogSavePackage: Moving '../../../../../../Unreal engine projects/GameParadeJam/Saved/Room114E0DC7D452A57915991E8AB46543DFA.tmp' to '../../../../../../Unreal engine projects/GameParadeJam/Content/ActualGame/SubLevels/Room1.umap'
+[2025.06.14-00.51.30:011][653]LogFileHelpers: Saving map 'Room1' took 0.039
+[2025.06.14-00.51.30:021][653]LogFileHelpers: InternalPromptForCheckoutAndSave took 108.947 ms (total: 1.71 sec)
+[2025.06.14-00.51.30:069][653]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.14-00.51.30:069][653]LogContentValidation: Enabled validators:
+[2025.06.14-00.51.30:069][653]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.14-00.51.30:069][653]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.14-00.51.30:069][653]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.14-00.51.30:069][653]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.14-00.51.30:069][653]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.14-00.51.30:069][653]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.14-00.51.30:069][653]AssetCheck: /Game/ActualGame/SubLevels/Room1 Validating asset
+[2025.06.14-00.51.31:406][777]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ActualGame/GameLevel" FILE="../../../../../../Unreal engine projects/GameParadeJam/Content/ActualGame/GameLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.06.14-00.51.31:444][777]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2025.06.14-00.51.31:454][777]LogSavePackage: Moving output files for package: /Game/ActualGame/GameLevel
+[2025.06.14-00.51.31:455][777]LogSavePackage: Moving '../../../../../../Unreal engine projects/GameParadeJam/Saved/GameLevel90604FCD43BF2100930E09A9199FBA40.tmp' to '../../../../../../Unreal engine projects/GameParadeJam/Content/ActualGame/GameLevel.umap'
+[2025.06.14-00.51.31:538][777]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.14-00.51.31:538][777]LogContentValidation: Enabled validators:
+[2025.06.14-00.51.31:538][777]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.14-00.51.31:538][777]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.14-00.51.31:538][777]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.14-00.51.31:538][777]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.14-00.51.31:538][777]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.14-00.51.31:538][777]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.14-00.51.31:538][777]AssetCheck: /Game/ActualGame/GameLevel Validating asset
+[2025.06.14-00.54.09:046][ 43]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1359.227173
+[2025.06.14-00.54.10:045][ 46]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.14-00.54.10:045][ 46]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1359.892700, Update Interval: 338.925751
