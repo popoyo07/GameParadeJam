@@ -2317,3 +2317,783 @@ FPackageName: Skipped package /Game/Animated_Nebulas_Starter_Pack/Planet_System/
 [2025.06.14-00.54.09:046][ 43]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1359.227173
 [2025.06.14-00.54.10:045][ 46]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.06.14-00.54.10:045][ 46]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1359.892700, Update Interval: 338.925751
+[2025.06.14-00.56.58:017][653]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2025.06.14-00.56.58:021][653]LogStreaming: Display: FlushAsyncLoading(896): 1 QueuedPackages, 0 AsyncPackages
+[2025.06.14-00.56.58:023][653]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2025.06.14-00.56.58:024][653]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2025.06.14-00.56.58:024][653]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.06.14-00.56.58:024][653]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = Inactive, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.06.14-00.56.58:048][653]LogWorldPartition: Display: WorldPartition initialize took 23.553 ms (total: 161.025 ms)
+[2025.06.14-00.56.58:050][653]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson
+[2025.06.14-00.56.58:050][653]Cmd: MAP LOAD FILE="../../../../../../Unreal engine projects/GameParadeJam/Content/ThirdPerson/Lvl_ThirdPerson.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.06.14-00.56.58:070][653]LogWorld: UWorld::CleanupWorld for GameLevel, bSessionEnded=true, bCleanupResources=true
+[2025.06.14-00.56.58:070][653]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.14-00.56.58:070][653]LogWorld: UWorld::CleanupWorld for Scale, bSessionEnded=true, bCleanupResources=true
+[2025.06.14-00.56.58:070][653]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.14-00.56.58:070][653]LogWorld: UWorld::CleanupWorld for Lighting, bSessionEnded=true, bCleanupResources=true
+[2025.06.14-00.56.58:070][653]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.14-00.56.58:070][653]LogWorld: UWorld::CleanupWorld for StartingRoom, bSessionEnded=true, bCleanupResources=true
+[2025.06.14-00.56.58:070][653]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.14-00.56.58:070][653]LogWorld: UWorld::CleanupWorld for Room1, bSessionEnded=true, bCleanupResources=true
+[2025.06.14-00.56.58:070][653]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.14-00.56.58:070][653]LogWorld: UWorld::CleanupWorld for Room2, bSessionEnded=true, bCleanupResources=true
+[2025.06.14-00.56.58:070][653]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.14-00.56.58:070][653]LogWorld: UWorld::CleanupWorld for Room3, bSessionEnded=true, bCleanupResources=true
+[2025.06.14-00.56.58:070][653]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.14-00.56.58:070][653]LogWorld: UWorld::CleanupWorld for Room4, bSessionEnded=true, bCleanupResources=true
+[2025.06.14-00.56.58:070][653]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.14-00.56.58:070][653]LogWorld: UWorld::CleanupWorld for Room5, bSessionEnded=true, bCleanupResources=true
+[2025.06.14-00.56.58:070][653]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.14-00.56.58:096][653]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.06.14-00.56.58:100][653]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2025.06.14-00.56.58:102][653]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2025.06.14-00.56.58:102][653]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.14-00.56.58:102][653]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson
+[2025.06.14-00.56.58:137][653]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2025.06.14-00.56.58:227][653]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2025.06.14-00.56.58:231][653]LogAudio: Display: Audio Device (ID: 1) registered with world 'Lvl_ThirdPerson'.
+[2025.06.14-00.56.58:231][653]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2025.06.14-00.56.58:233][653]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2025.06.14-00.56.58:233][653]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.06.14-00.56.58:233][653]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = Editor, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.06.14-00.56.58:257][653]LogWorldPartition: Display: WorldPartition initialize took 23.665 ms (total: 184.691 ms)
+[2025.06.14-00.56.58:289][653]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.06.14-00.56.58:314][653]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2025.06.14-00.56.58:322][653]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.06.14-00.56.58:322][653]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.479ms to complete.
+[2025.06.14-00.56.58:366][653]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2025.06.14-00.57.28:268][950]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2025.06.14-00.57.28:274][950]LogStreaming: Display: FlushAsyncLoading(1030): 1 QueuedPackages, 0 AsyncPackages
+[2025.06.14-00.57.28:276][950]LogChaosDD: Creating Chaos Debug Draw Scene for world GameLevel
+[2025.06.14-00.57.28:277][950]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ActualGame/GameLevel.GameLevel
+[2025.06.14-00.57.28:277][950]Cmd: MAP LOAD FILE="../../../../../../Unreal engine projects/GameParadeJam/Content/ActualGame/GameLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.06.14-00.57.28:328][950]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2025.06.14-00.57.28:328][950]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.14-00.57.28:328][950]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson
+[2025.06.14-00.57.28:356][950]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.06.14-00.57.28:359][950]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2025.06.14-00.57.28:362][950]LogWorld: UWorld::CleanupWorld for GameLevel, bSessionEnded=true, bCleanupResources=true
+[2025.06.14-00.57.28:362][950]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.14-00.57.28:386][950]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2025.06.14-00.57.28:478][950]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2025.06.14-00.57.28:480][950]LogAudio: Display: Audio Device (ID: 1) registered with world 'GameLevel'.
+[2025.06.14-00.57.28:480][950]LogChaosDD: Creating Chaos Debug Draw Scene for world GameLevel
+[2025.06.14-00.57.28:483][950]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/ActualGame/SubLevels/Room3) is flushing async loading
+[2025.06.14-00.57.28:487][950]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/ActualGame/SubLevels/Scale) is flushing async loading
+[2025.06.14-00.57.28:489][950]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/ActualGame/SubLevels/StartingRoom) is flushing async loading
+[2025.06.14-00.57.28:490][950]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/ActualGame/SubLevels/Room1) is flushing async loading
+[2025.06.14-00.57.28:491][950]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/ActualGame/SubLevels/Lighting) is flushing async loading
+[2025.06.14-00.57.28:493][950]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/ActualGame/SubLevels/Room4) is flushing async loading
+[2025.06.14-00.57.28:494][950]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/ActualGame/SubLevels/Room5) is flushing async loading
+[2025.06.14-00.57.28:495][950]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/ActualGame/SubLevels/Room2) is flushing async loading
+[2025.06.14-00.57.28:521][950]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.06.14-00.57.28:548][950]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2025.06.14-00.57.28:553][950]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.06.14-00.57.28:553][950]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.09ms to complete.
+[2025.06.14-00.57.40:503][186]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.14-00.57.40:570][186]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ActualGame/GameLevel" FILE="../../../../../../Unreal engine projects/GameParadeJam/Content/ActualGame/GameLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.06.14-00.57.40:606][186]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2025.06.14-00.57.40:619][186]LogSavePackage: Moving output files for package: /Game/ActualGame/GameLevel
+[2025.06.14-00.57.40:620][186]LogSavePackage: Moving '../../../../../../Unreal engine projects/GameParadeJam/Saved/GameLevelB63B3AC94F5D9BE8853A769E2841F2CC.tmp' to '../../../../../../Unreal engine projects/GameParadeJam/Content/ActualGame/GameLevel.umap'
+[2025.06.14-00.57.40:626][186]LogFileHelpers: Saving map 'GameLevel' took 0.056
+[2025.06.14-00.57.40:637][186]LogFileHelpers: InternalPromptForCheckoutAndSave took 133.276 ms (total: 1.85 sec)
+[2025.06.14-00.57.40:701][186]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.14-00.57.40:701][186]LogContentValidation: Enabled validators:
+[2025.06.14-00.57.40:701][186]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.14-00.57.40:701][186]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.14-00.57.40:701][186]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.14-00.57.40:701][186]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.14-00.57.40:701][186]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.14-00.57.40:701][186]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.14-00.57.40:701][186]AssetCheck: /Game/ActualGame/GameLevel Validating asset
+[2025.06.14-00.57.57:746][911]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PlayerStart
+[2025.06.14-00.57.57:746][911]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PlayerStart
+[2025.06.14-00.57.57:748][911]LogActorFactory: Actor Factory spawned Class /Script/Engine.PlayerStart as actor: PlayerStart /Game/ActualGame/GameLevel.GameLevel:PersistentLevel.PlayerStart_0
+[2025.06.14-00.57.57:748][911]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.06.14-00.57.57:757][911]LogActorFactory: Actor Factory spawned Class /Script/Engine.PlayerStart as actor: PlayerStart /Game/ActualGame/GameLevel.GameLevel:PersistentLevel.PlayerStart_0
+[2025.06.14-00.57.57:758][911]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.06.14-00.57.57:776][911]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.06.14-00.58.04:114][526]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.06.14-00.58.05:782][692]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.06.14-00.58.12:366][333]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.06.14-00.58.17:691][748]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.06.14-00.58.17:696][748]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.06.14-00.58.17:696][748]LogPlayLevel: Creating play world package: /Game/ActualGame/UEDPIE_0_GameLevel
+[2025.06.14-00.58.17:698][748]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001241s)
+[2025.06.14-00.58.17:698][748]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ActualGame/GameLevel.GameLevel to /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel (0.001274s)
+[2025.06.14-00.58.17:730][748]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2025.06.14-00.58.17:733][748]LogChaosDD: Creating Chaos Debug Draw Scene for world GameLevel
+[2025.06.14-00.58.17:734][748]LogPlayLevel: PIE: World Init took: (0.001642s)
+[2025.06.14-00.58.17:735][748]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2025.06.14-00.58.17:735][748]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.06.14-00.58.17:735][748]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.06.14-00.58.17:735][748]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.06.14-00.58.17:735][748]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.06.14-00.58.17:735][748]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.06.14-00.58.17:735][748]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.06.14-00.58.17:735][748]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.06.14-00.58.17:735][748]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.06.14-00.58.17:735][748]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.06.14-00.58.17:735][748]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.06.14-00.58.17:735][748]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.06.14-00.58.17:737][748]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.06.14-00.58.17:880][748]LogAudioMixer: Display: Using Audio Hardware Device Speakers (3- Logitech PRO X Wireless Gaming Headset)
+[2025.06.14-00.58.17:880][748]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.06.14-00.58.17:880][748]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.06.14-00.58.17:880][748]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.06.14-00.58.17:881][748]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2025.06.14-00.58.17:881][748]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=3
+[2025.06.14-00.58.17:883][748]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2025.06.14-00.58.17:883][748]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2025.06.14-00.58.17:883][748]LogInit: FAudioDevice initialized with ID 3.
+[2025.06.14-00.58.17:883][748]LogAudio: Display: Audio Device (ID: 3) registered with world 'GameLevel'.
+[2025.06.14-00.58.17:883][748]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2025.06.14-00.58.17:886][748]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.06.14-00.58.17:892][748]LogWorld: Bringing World /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel up for play (max tick rate 0) at 2025.06.13-20.58.17
+[2025.06.14-00.58.17:892][748]LogWorld: Bringing up level for play took: 0.000297
+[2025.06.14-00.58.17:895][748]LogOnline: OSS: Created online subsystem instance for: :Context_10
+[2025.06.14-00.58.17:899][748]PIE: Server logged in
+[2025.06.14-00.58.17:901][748]PIE: Play in editor total start time 0.204 seconds.
+[2025.06.14-00.58.27:827][931]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.14-00.58.27:827][931]LogWorld: BeginTearingDown for /Game/ActualGame/UEDPIE_0_GameLevel
+[2025.06.14-00.58.27:837][931]LogWorld: UWorld::CleanupWorld for GameLevel, bSessionEnded=true, bCleanupResources=true
+[2025.06.14-00.58.27:837][931]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.14-00.58.27:947][931]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.06.14-00.58.27:953][931]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.14-00.58.27:981][931]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.14-00.58.27:981][931]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2025.06.14-00.58.27:981][931]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3, StreamState=4
+[2025.06.14-00.58.27:983][931]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3, StreamState=2
+[2025.06.14-00.58.27:993][931]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2025.06.14-00.58.28:140][932]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2025.06.14-00.58.28:164][932]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2025.06.14-00.58.30:922][ 43]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.06.14-00.59.25:404][380]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.14-00.59.25:451][380]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ActualGame/GameLevel" FILE="../../../../../../Unreal engine projects/GameParadeJam/Content/ActualGame/GameLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.06.14-00.59.25:490][380]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2025.06.14-00.59.25:500][380]LogSavePackage: Moving output files for package: /Game/ActualGame/GameLevel
+[2025.06.14-00.59.25:500][380]LogSavePackage: Moving '../../../../../../Unreal engine projects/GameParadeJam/Saved/GameLevel111F59B74157E434FF7A0FA290DB462E.tmp' to '../../../../../../Unreal engine projects/GameParadeJam/Content/ActualGame/GameLevel.umap'
+[2025.06.14-00.59.25:506][380]LogFileHelpers: Saving map 'GameLevel' took 0.055
+[2025.06.14-00.59.25:518][380]LogFileHelpers: InternalPromptForCheckoutAndSave took 111.935 ms (total: 1.96 sec)
+[2025.06.14-00.59.25:583][380]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.14-00.59.25:583][380]LogContentValidation: Enabled validators:
+[2025.06.14-00.59.25:583][380]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.14-00.59.25:583][380]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.14-00.59.25:583][380]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.14-00.59.25:583][380]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.14-00.59.25:583][380]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.14-00.59.25:583][380]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.14-00.59.25:583][380]AssetCheck: /Game/ActualGame/GameLevel Validating asset
+[2025.06.14-01.00.09:426][147]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1719.616821
+[2025.06.14-01.00.09:519][157]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.14-01.00.09:519][157]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1719.700317, Update Interval: 314.881439
+[2025.06.14-01.00.10:398][244]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2025.06.14-01.00.10:403][244]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ActualGame/GameLevel.GameLevel
+[2025.06.14-01.00.10:403][244]Cmd: MAP LOAD FILE="../../../../../../Unreal engine projects/GameParadeJam/Content/ActualGame/GameLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.06.14-01.00.10:422][244]LogWorld: UWorld::CleanupWorld for GameLevel, bSessionEnded=true, bCleanupResources=true
+[2025.06.14-01.00.10:422][244]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.14-01.00.10:422][244]LogWorld: UWorld::CleanupWorld for Room3, bSessionEnded=true, bCleanupResources=true
+[2025.06.14-01.00.10:422][244]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.14-01.00.10:422][244]LogWorld: UWorld::CleanupWorld for Scale, bSessionEnded=true, bCleanupResources=true
+[2025.06.14-01.00.10:422][244]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.14-01.00.10:422][244]LogWorld: UWorld::CleanupWorld for StartingRoom, bSessionEnded=true, bCleanupResources=true
+[2025.06.14-01.00.10:422][244]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.14-01.00.10:422][244]LogWorld: UWorld::CleanupWorld for Room1, bSessionEnded=true, bCleanupResources=true
+[2025.06.14-01.00.10:422][244]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.14-01.00.10:422][244]LogWorld: UWorld::CleanupWorld for Lighting, bSessionEnded=true, bCleanupResources=true
+[2025.06.14-01.00.10:422][244]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.14-01.00.10:422][244]LogWorld: UWorld::CleanupWorld for Room4, bSessionEnded=true, bCleanupResources=true
+[2025.06.14-01.00.10:422][244]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.14-01.00.10:422][244]LogWorld: UWorld::CleanupWorld for Room5, bSessionEnded=true, bCleanupResources=true
+[2025.06.14-01.00.10:422][244]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.14-01.00.10:422][244]LogWorld: UWorld::CleanupWorld for Room2, bSessionEnded=true, bCleanupResources=true
+[2025.06.14-01.00.10:422][244]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.14-01.00.10:446][244]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.06.14-01.00.10:448][244]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2025.06.14-01.00.10:450][244]LogStreaming: Display: FlushAsyncLoading(1040): 1 QueuedPackages, 0 AsyncPackages
+[2025.06.14-01.00.10:451][244]LogAudio: Display: Audio Device (ID: 1) registered with world 'GameLevel'.
+[2025.06.14-01.00.10:451][244]LogChaosDD: Creating Chaos Debug Draw Scene for world GameLevel
+[2025.06.14-01.00.10:454][244]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/ActualGame/SubLevels/Room5) is flushing async loading
+[2025.06.14-01.00.10:460][244]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/ActualGame/SubLevels/Room1) is flushing async loading
+[2025.06.14-01.00.10:462][244]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/ActualGame/SubLevels/Lighting) is flushing async loading
+[2025.06.14-01.00.10:464][244]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/ActualGame/SubLevels/Scale) is flushing async loading
+[2025.06.14-01.00.10:466][244]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/ActualGame/SubLevels/StartingRoom) is flushing async loading
+[2025.06.14-01.00.10:468][244]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/ActualGame/SubLevels/Room4) is flushing async loading
+[2025.06.14-01.00.10:469][244]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/ActualGame/SubLevels/Room2) is flushing async loading
+[2025.06.14-01.00.10:470][244]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/ActualGame/SubLevels/Room3) is flushing async loading
+[2025.06.14-01.00.10:568][244]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.06.14-01.00.10:597][244]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2025.06.14-01.00.10:602][244]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.06.14-01.00.10:602][244]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.089ms to complete.
+[2025.06.14-01.00.10:645][244]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2025.06.14-01.00.30:923][100]LogSlate: Window 'Color Picker' being destroyed
+[2025.06.14-01.00.45:387][126]LogSlate: Window 'Color Picker' being destroyed
+[2025.06.14-01.00.46:849][252]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.14-01.00.46:926][252]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2025.06.14-01.00.46:942][252]LogSavePackage: Moving output files for package: /Game/ActualGame/SubLevels/Lighting
+[2025.06.14-01.00.46:942][252]LogSavePackage: Moving '../../../../../../Unreal engine projects/GameParadeJam/Saved/LightingAF7D64114BEEC672DF741E8D97D7728D.tmp' to '../../../../../../Unreal engine projects/GameParadeJam/Content/ActualGame/SubLevels/Lighting.umap'
+[2025.06.14-01.00.46:947][252]LogFileHelpers: Saving map 'Lighting' took 0.046
+[2025.06.14-01.00.46:957][252]LogFileHelpers: InternalPromptForCheckoutAndSave took 108.722 ms (total: 2.07 sec)
+[2025.06.14-01.00.47:015][252]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.14-01.00.47:015][252]LogContentValidation: Enabled validators:
+[2025.06.14-01.00.47:015][252]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.14-01.00.47:015][252]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.14-01.00.47:015][252]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.14-01.00.47:015][252]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.14-01.00.47:015][252]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.14-01.00.47:015][252]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.14-01.00.47:015][252]AssetCheck: /Game/ActualGame/SubLevels/Lighting Validating asset
+[2025.06.14-01.01.19:830][594]LogSlate: Window 'Color Picker' being destroyed
+[2025.06.14-01.05.58:740][353]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2068.926514
+[2025.06.14-01.05.58:829][362]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.14-01.05.58:829][362]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2069.003906, Update Interval: 347.400116
+[2025.06.14-01.06.14:298][115]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.06.14-01.06.14:343][115]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.06.14-01.06.14:350][115]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.06.14-01.06.14:380][117]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.06.14-01.06.20:590][728]LogContentBrowser: Attempting asset rename: NewBlueprint -> RoomOrder
+[2025.06.14-01.06.20:605][728]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.06.14-01.06.22:075][867]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ActualGame/BluePrints/RoomOrder.RoomOrder
+[2025.06.14-01.06.22:075][867]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_8
+[2025.06.14-01.07.57:528][740]LogSlate: Took 0.006758 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2025.06.14-01.11.18:599][491]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.14-01.11.18:710][491]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2025.06.14-01.11.18:726][491]LogSavePackage: Moving output files for package: /Game/ActualGame/SubLevels/Lighting
+[2025.06.14-01.11.18:726][491]LogSavePackage: Moving '../../../../../../Unreal engine projects/GameParadeJam/Saved/Lighting2964CC324024E2391B319986F500011E.tmp' to '../../../../../../Unreal engine projects/GameParadeJam/Content/ActualGame/SubLevels/Lighting.umap'
+[2025.06.14-01.11.18:730][491]LogFileHelpers: Saving map 'Lighting' took 0.069
+[2025.06.14-01.11.18:741][491]LogFileHelpers: InternalPromptForCheckoutAndSave took 141.187 ms (total: 2.21 sec)
+[2025.06.14-01.11.18:792][491]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.14-01.11.18:793][491]LogContentValidation: Enabled validators:
+[2025.06.14-01.11.18:793][491]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.14-01.11.18:793][491]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.14-01.11.18:793][491]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.14-01.11.18:793][491]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.14-01.11.18:793][491]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.14-01.11.18:793][491]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.14-01.11.18:793][491]AssetCheck: /Game/ActualGame/SubLevels/Lighting Validating asset
+[2025.06.14-01.12.31:599][ 26]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2461.778320
+[2025.06.14-01.12.32:599][ 29]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.14-01.12.32:599][ 29]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2462.445068, Update Interval: 327.411713
+[2025.06.14-01.18.58:256][673]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2848.440674
+[2025.06.14-01.18.59:256][676]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.14-01.18.59:256][676]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2849.108154, Update Interval: 347.076019
+[2025.06.14-01.21.18:764][440]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2025.06.14-01.21.18:769][440]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ActualGame/GameLevel' took 0.031
+[2025.06.14-01.21.18:770][440]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ActualGame/BluePrints/RoomOrder] ([2] browsable assets)...
+[2025.06.14-01.21.18:770][440]OBJ SavePackage: Finished generating thumbnails for package [/Game/ActualGame/BluePrints/RoomOrder]
+[2025.06.14-01.21.18:781][440]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ActualGame/BluePrints/RoomOrder_Auto1
+[2025.06.14-01.21.18:781][440]LogSavePackage: Moving '../../../../../../Unreal engine projects/GameParadeJam/Saved/RoomOrder_Auto1271A469F4C2FA26E3E1463A685F98804.tmp' to '../../../../../../Unreal engine projects/GameParadeJam/Saved/Autosaves/Game/ActualGame/BluePrints/RoomOrder_Auto1.uasset'
+[2025.06.14-01.21.18:781][440]LogFileHelpers: Auto-saving content packages took 0.012
+[2025.06.14-01.22.18:727][620]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.06.14-01.25.30:358][239]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3240.546631
+[2025.06.14-01.25.31:359][242]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.14-01.25.31:359][242]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3241.213623, Update Interval: 340.216675
+[2025.06.14-01.26.42:647][322]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2025.06.14-01.26.44:979][538]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.14-01.26.45:055][538]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ActualGame/BluePrints/RoomOrder] ([2] browsable assets)...
+[2025.06.14-01.26.45:055][538]OBJ SavePackage: Finished generating thumbnails for package [/Game/ActualGame/BluePrints/RoomOrder]
+[2025.06.14-01.26.45:055][538]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ActualGame/BluePrints/RoomOrder" FILE="../../../../../../Unreal engine projects/GameParadeJam/Content/ActualGame/BluePrints/RoomOrder.uasset" SILENT=true
+[2025.06.14-01.26.45:064][538]LogSavePackage: Moving output files for package: /Game/ActualGame/BluePrints/RoomOrder
+[2025.06.14-01.26.45:064][538]LogSavePackage: Moving '../../../../../../Unreal engine projects/GameParadeJam/Saved/RoomOrder41A483EF467C705E3F2A5EA8D4A2D396.tmp' to '../../../../../../Unreal engine projects/GameParadeJam/Content/ActualGame/BluePrints/RoomOrder.uasset'
+[2025.06.14-01.26.45:077][538]LogFileHelpers: InternalPromptForCheckoutAndSave took 98.210 ms (total: 2.31 sec)
+[2025.06.14-01.26.45:136][538]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.14-01.26.45:136][538]LogContentValidation: Enabled validators:
+[2025.06.14-01.26.45:136][538]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.14-01.26.45:136][538]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.14-01.26.45:136][538]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.14-01.26.45:136][538]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.14-01.26.45:136][538]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.14-01.26.45:136][538]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.14-01.26.45:136][538]AssetCheck: /Game/ActualGame/BluePrints/RoomOrder Validating asset
+[2025.06.14-01.26.45:156][538]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Unreal engine projects/GameParadeJam/Saved/SourceControl/UncontrolledChangelists.json
+[2025.06.14-01.26.51:988][ 38]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.06.14-01.26.51:998][ 38]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.06.14-01.26.52:003][ 38]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.06.14-01.26.52:014][ 39]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.06.14-01.26.55:606][376]LogContentBrowser: Attempting asset rename: NewBlueprint -> Teleporter
+[2025.06.14-01.26.55:612][376]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.06.14-01.26.59:030][678]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ActualGame/BluePrints/Teleporter.Teleporter
+[2025.06.14-01.26.59:030][678]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_9
+[2025.06.14-01.27.40:811][463]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2025.06.14-01.31.21:652][947]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2025.06.14-01.31.22:081][964]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.14-01.31.22:169][964]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ActualGame/BluePrints/Teleporter] ([2] browsable assets)...
+[2025.06.14-01.31.22:169][964]OBJ SavePackage: Finished generating thumbnails for package [/Game/ActualGame/BluePrints/Teleporter]
+[2025.06.14-01.31.22:169][964]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ActualGame/BluePrints/Teleporter" FILE="../../../../../../Unreal engine projects/GameParadeJam/Content/ActualGame/BluePrints/Teleporter.uasset" SILENT=true
+[2025.06.14-01.31.22:181][964]LogSavePackage: Moving output files for package: /Game/ActualGame/BluePrints/Teleporter
+[2025.06.14-01.31.22:181][964]LogSavePackage: Moving '../../../../../../Unreal engine projects/GameParadeJam/Saved/Teleporter1A9A69AD492F38AAA5D3B59BB5108E7B.tmp' to '../../../../../../Unreal engine projects/GameParadeJam/Content/ActualGame/BluePrints/Teleporter.uasset'
+[2025.06.14-01.31.22:195][964]LogFileHelpers: InternalPromptForCheckoutAndSave took 113.864 ms (total: 2.42 sec)
+[2025.06.14-01.31.22:233][964]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.14-01.31.22:233][964]LogContentValidation: Enabled validators:
+[2025.06.14-01.31.22:233][964]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.14-01.31.22:233][964]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.14-01.31.22:233][964]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.14-01.31.22:233][964]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.14-01.31.22:233][964]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.14-01.31.22:233][964]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.14-01.31.22:233][964]AssetCheck: /Game/ActualGame/BluePrints/Teleporter Validating asset
+[2025.06.14-01.31.22:257][964]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Unreal engine projects/GameParadeJam/Saved/SourceControl/UncontrolledChangelists.json
+[2025.06.14-01.31.41:613][187]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3611.792725
+[2025.06.14-01.31.42:612][190]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.14-01.31.42:612][190]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3612.459229, Update Interval: 306.169006
+[2025.06.14-01.31.59:134][860]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ActualGame/BluePrints/Teleporter.Teleporter_C
+[2025.06.14-01.31.59:134][860]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ActualGame/BluePrints/Teleporter.Teleporter_C
+[2025.06.14-01.31.59:136][860]LogActorFactory: Actor Factory spawned Blueprint /Game/ActualGame/BluePrints/Teleporter.Teleporter as actor: Teleporter_C /Game/ActualGame/SubLevels/StartingRoom.StartingRoom:PersistentLevel.Teleporter_C_0
+[2025.06.14-01.31.59:137][860]LogActorFactory: Actor Factory spawned Blueprint /Game/ActualGame/BluePrints/Teleporter.Teleporter as actor: Teleporter_C /Game/ActualGame/SubLevels/StartingRoom.StartingRoom:PersistentLevel.Teleporter_C_0
+[2025.06.14-01.32.00:462][961]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2025.06.14-01.32.00:466][961]LogEditorActor: Deleted 0 Actors (0.030 secs)
+[2025.06.14-01.32.04:210][961]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2025.06.14-01.32.04:219][961]Message dialog closed, result: Cancel, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2025.06.14-01.32.12:828][760]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ActualGame/BluePrints/Teleporter.Teleporter_C
+[2025.06.14-01.32.12:828][760]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ActualGame/BluePrints/Teleporter.Teleporter_C
+[2025.06.14-01.32.12:829][760]LogActorFactory: Actor Factory spawned Blueprint /Game/ActualGame/BluePrints/Teleporter.Teleporter as actor: Teleporter_C /Game/ActualGame/SubLevels/StartingRoom.StartingRoom:PersistentLevel.Teleporter_C_1
+[2025.06.14-01.32.12:830][760]LogActorFactory: Actor Factory spawned Blueprint /Game/ActualGame/BluePrints/Teleporter.Teleporter as actor: Teleporter_C /Game/ActualGame/SubLevels/StartingRoom.StartingRoom:PersistentLevel.Teleporter_C_1
+[2025.06.14-01.32.13:280][790]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2025.06.14-01.32.13:282][790]LogEditorActor: Deleted 0 Actors (0.027 secs)
+[2025.06.14-01.32.17:273][790]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2025.06.14-01.32.17:285][790]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2025.06.14-01.32.17:285][790]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ActualGame/BluePrints/Teleporter.Teleporter_C
+[2025.06.14-01.32.17:285][790]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ActualGame/BluePrints/Teleporter.Teleporter_C
+[2025.06.14-01.32.17:287][790]LogActorFactory: Actor Factory spawned Blueprint /Game/ActualGame/BluePrints/Teleporter.Teleporter as actor: Teleporter_C /Game/ActualGame/SubLevels/StartingRoom.StartingRoom:PersistentLevel.Teleporter_C_2
+[2025.06.14-01.32.17:287][790]LogActorFactory: Actor Factory spawned Blueprint /Game/ActualGame/BluePrints/Teleporter.Teleporter as actor: Teleporter_C /Game/ActualGame/SubLevels/StartingRoom.StartingRoom:PersistentLevel.Teleporter_C_2
+[2025.06.14-01.33.02:257][727]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2025.06.14-01.33.02:274][727]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ActualGame/SubLevels/StartingRoom_Auto2
+[2025.06.14-01.33.02:274][727]LogSavePackage: Moving '../../../../../../Unreal engine projects/GameParadeJam/Saved/StartingRoom_Auto244F1477745FED69208B22D9A6648266D.tmp' to '../../../../../../Unreal engine projects/GameParadeJam/Saved/Autosaves/Game/ActualGame/SubLevels/StartingRoom_Auto2.umap'
+[2025.06.14-01.33.02:275][727]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ActualGame/GameLevel' took 0.044
+[2025.06.14-01.33.02:275][727]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.044
+[2025.06.14-01.33.25:774][798]LogDerivedDataCache: C:/Users/Miguel P/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.06.14-01.34.25:886][121]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.06.14-01.34.26:456][154]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.14-01.34.26:536][154]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ActualGame/BluePrints/Teleporter] ([2] browsable assets)...
+[2025.06.14-01.34.26:536][154]OBJ SavePackage: Finished generating thumbnails for package [/Game/ActualGame/BluePrints/Teleporter]
+[2025.06.14-01.34.26:536][154]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ActualGame/BluePrints/Teleporter" FILE="../../../../../../Unreal engine projects/GameParadeJam/Content/ActualGame/BluePrints/Teleporter.uasset" SILENT=true
+[2025.06.14-01.34.26:548][154]LogSavePackage: Moving output files for package: /Game/ActualGame/BluePrints/Teleporter
+[2025.06.14-01.34.26:548][154]LogSavePackage: Moving '../../../../../../Unreal engine projects/GameParadeJam/Saved/TeleporterEA91AA1A4C5FAB19AD20059FBA1DC74C.tmp' to '../../../../../../Unreal engine projects/GameParadeJam/Content/ActualGame/BluePrints/Teleporter.uasset'
+[2025.06.14-01.34.26:559][154]LogFileHelpers: InternalPromptForCheckoutAndSave took 102.698 ms (total: 2.52 sec)
+[2025.06.14-01.34.26:615][154]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.14-01.34.26:615][154]LogContentValidation: Enabled validators:
+[2025.06.14-01.34.26:615][154]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.14-01.34.26:615][154]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.14-01.34.26:615][154]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.14-01.34.26:615][154]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.14-01.34.26:615][154]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.14-01.34.26:615][154]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.14-01.34.26:615][154]AssetCheck: /Game/ActualGame/BluePrints/Teleporter Validating asset
+[2025.06.14-01.36.00:848][240]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.14-01.36.00:908][240]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2025.06.14-01.36.00:922][240]LogSavePackage: Moving output files for package: /Game/ActualGame/SubLevels/StartingRoom
+[2025.06.14-01.36.00:922][240]LogSavePackage: Moving '../../../../../../Unreal engine projects/GameParadeJam/Saved/StartingRoom41E389E545417EA04C11CFAB70B668A1.tmp' to '../../../../../../Unreal engine projects/GameParadeJam/Content/ActualGame/SubLevels/StartingRoom.umap'
+[2025.06.14-01.36.00:927][240]LogFileHelpers: Saving map 'StartingRoom' took 0.044
+[2025.06.14-01.36.00:937][240]LogFileHelpers: InternalPromptForCheckoutAndSave took 89.016 ms (total: 2.61 sec)
+[2025.06.14-01.36.00:998][240]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.14-01.36.00:998][240]LogContentValidation: Enabled validators:
+[2025.06.14-01.36.00:998][240]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.14-01.36.00:998][240]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.14-01.36.00:998][240]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.14-01.36.00:998][240]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.14-01.36.00:998][240]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.14-01.36.00:998][240]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.14-01.36.00:998][240]AssetCheck: /Game/ActualGame/SubLevels/StartingRoom Validating asset
+[2025.06.14-01.36.36:298][762]LogEditorActor: Deleted Actor: Teleporter_C
+[2025.06.14-01.36.36:324][762]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2025.06.14-01.36.36:328][762]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2025.06.14-01.36.38:603][913]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.14-01.36.38:667][913]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ActualGame/GameLevel" FILE="../../../../../../Unreal engine projects/GameParadeJam/Content/ActualGame/GameLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.06.14-01.36.38:707][913]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2025.06.14-01.36.38:719][913]LogSavePackage: Moving output files for package: /Game/ActualGame/GameLevel
+[2025.06.14-01.36.38:720][913]LogSavePackage: Moving '../../../../../../Unreal engine projects/GameParadeJam/Saved/GameLevel1F3ED86E4C55EB491DB76AB53485A90F.tmp' to '../../../../../../Unreal engine projects/GameParadeJam/Content/ActualGame/GameLevel.umap'
+[2025.06.14-01.36.38:726][913]LogFileHelpers: Saving map 'GameLevel' took 0.059
+[2025.06.14-01.36.38:737][913]LogFileHelpers: InternalPromptForCheckoutAndSave took 133.875 ms (total: 2.75 sec)
+[2025.06.14-01.36.38:797][913]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.14-01.36.38:797][913]LogContentValidation: Enabled validators:
+[2025.06.14-01.36.38:797][913]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.14-01.36.38:797][913]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.14-01.36.38:797][913]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.14-01.36.38:797][913]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.14-01.36.38:797][913]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.14-01.36.38:797][913]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.14-01.36.38:798][913]AssetCheck: /Game/ActualGame/GameLevel Validating asset
+[2025.06.14-01.36.42:660][177]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.14-01.36.42:740][177]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2025.06.14-01.36.42:750][177]LogSavePackage: Moving output files for package: /Game/ActualGame/SubLevels/StartingRoom
+[2025.06.14-01.36.42:751][177]LogSavePackage: Moving '../../../../../../Unreal engine projects/GameParadeJam/Saved/StartingRoom7D96CB924BA45917D111FBB6A2A94D73.tmp' to '../../../../../../Unreal engine projects/GameParadeJam/Content/ActualGame/SubLevels/StartingRoom.umap'
+[2025.06.14-01.36.42:755][177]LogFileHelpers: Saving map 'StartingRoom' took 0.040
+[2025.06.14-01.36.42:765][177]LogFileHelpers: InternalPromptForCheckoutAndSave took 105.186 ms (total: 2.85 sec)
+[2025.06.14-01.36.42:831][177]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.14-01.36.42:831][177]LogContentValidation: Enabled validators:
+[2025.06.14-01.36.42:831][177]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.14-01.36.42:831][177]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.14-01.36.42:831][177]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.14-01.36.42:831][177]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.14-01.36.42:831][177]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.14-01.36.42:831][177]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.14-01.36.42:831][177]AssetCheck: /Game/ActualGame/SubLevels/StartingRoom Validating asset
+[2025.06.14-01.36.54:486][873]LogSlate: Window 'Message' being destroyed
+[2025.06.14-01.36.54:539][873]Message dialog closed, result: Cancel, title: Message, text: Can't diff an asset against itself.
+[2025.06.14-01.36.58:094][104]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2025.06.14-01.36.59:137][104]LogSlate: Window 'Delete Assets' being destroyed
+[2025.06.14-01.36.59:242][104]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2025.06.14-01.36.59:242][104]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.14-01.36.59:266][104]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/ActualGame/BluePrints/RoomOrder.RoomOrder
+	Asset Type: Blueprint
+[2025.06.14-01.36.59:567][104]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2025.06.14-01.36.59:596][104]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2025.06.14-01.36.59:621][104]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2025.06.14-01.36.59:654][104]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2025.06.14-01.37.13:196][346]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.06.14-01.37.13:208][346]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.06.14-01.37.13:217][346]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.06.14-01.37.13:234][347]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.06.14-01.37.25:876][293]LogContentBrowser: Attempting asset rename: NewBlueprint -> TeleportsShuffle
+[2025.06.14-01.37.25:882][293]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.06.14-01.37.27:711][407]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ActualGame/BluePrints/TeleportsShuffle.TeleportsShuffle
+[2025.06.14-01.37.27:711][407]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_10
+[2025.06.14-01.37.46:655][715]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3976.822754
+[2025.06.14-01.37.46:734][721]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.14-01.37.46:734][721]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3976.889160, Update Interval: 327.853027
+[2025.06.14-01.38.17:882][735]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.14-01.38.17:948][735]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ActualGame/BluePrints/Teleporter] ([2] browsable assets)...
+[2025.06.14-01.38.17:948][735]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_11
+[2025.06.14-01.38.17:975][735]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ActualGame/BluePrints/Teleporter.Teleporter]
+[2025.06.14-01.38.17:976][735]OBJ SavePackage: Finished generating thumbnails for package [/Game/ActualGame/BluePrints/Teleporter]
+[2025.06.14-01.38.17:976][735]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ActualGame/BluePrints/Teleporter" FILE="../../../../../../Unreal engine projects/GameParadeJam/Content/ActualGame/BluePrints/Teleporter.uasset" SILENT=true
+[2025.06.14-01.38.17:988][735]LogSavePackage: Moving output files for package: /Game/ActualGame/BluePrints/Teleporter
+[2025.06.14-01.38.17:989][735]LogSavePackage: Moving '../../../../../../Unreal engine projects/GameParadeJam/Saved/TeleporterBD7FBD5646BB593FBD1370823454C0CE.tmp' to '../../../../../../Unreal engine projects/GameParadeJam/Content/ActualGame/BluePrints/Teleporter.uasset'
+[2025.06.14-01.38.18:000][735]LogFileHelpers: InternalPromptForCheckoutAndSave took 118.903 ms (total: 2.97 sec)
+[2025.06.14-01.38.18:063][735]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.14-01.38.18:063][735]LogContentValidation: Enabled validators:
+[2025.06.14-01.38.18:063][735]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.14-01.38.18:063][735]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.14-01.38.18:063][735]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.14-01.38.18:063][735]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.14-01.38.18:063][735]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.14-01.38.18:063][735]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.14-01.38.18:063][735]AssetCheck: /Game/ActualGame/BluePrints/Teleporter Validating asset
+[2025.06.14-01.38.35:418][851]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2025.06.14-01.38.36:722][926]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.14-01.38.36:783][926]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ActualGame/BluePrints/Teleporter] ([2] browsable assets)...
+[2025.06.14-01.38.36:794][926]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ActualGame/BluePrints/Teleporter.Teleporter]
+[2025.06.14-01.38.36:794][926]OBJ SavePackage: Finished generating thumbnails for package [/Game/ActualGame/BluePrints/Teleporter]
+[2025.06.14-01.38.36:794][926]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ActualGame/BluePrints/Teleporter" FILE="../../../../../../Unreal engine projects/GameParadeJam/Content/ActualGame/BluePrints/Teleporter.uasset" SILENT=true
+[2025.06.14-01.38.36:806][926]LogSavePackage: Moving output files for package: /Game/ActualGame/BluePrints/Teleporter
+[2025.06.14-01.38.36:806][926]LogSavePackage: Moving '../../../../../../Unreal engine projects/GameParadeJam/Saved/Teleporter5059DCA54D33551FF624E4AC7600A9EE.tmp' to '../../../../../../Unreal engine projects/GameParadeJam/Content/ActualGame/BluePrints/Teleporter.uasset'
+[2025.06.14-01.38.36:816][926]LogFileHelpers: InternalPromptForCheckoutAndSave took 94.116 ms (total: 3.06 sec)
+[2025.06.14-01.38.36:879][926]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.14-01.38.36:879][926]LogContentValidation: Enabled validators:
+[2025.06.14-01.38.36:879][926]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.14-01.38.36:879][926]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.14-01.38.36:879][926]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.14-01.38.36:879][926]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.14-01.38.36:879][926]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.14-01.38.36:879][926]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.14-01.38.36:879][926]AssetCheck: /Game/ActualGame/BluePrints/Teleporter Validating asset
+[2025.06.14-01.44.12:135][405]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4362.310547
+[2025.06.14-01.44.13:135][408]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.14-01.44.13:135][408]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4362.977051, Update Interval: 346.856293
+[2025.06.14-01.47.55:409][840]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2025.06.14-01.47.55:423][840]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ActualGame/GameLevel_Auto3
+[2025.06.14-01.47.55:423][840]LogSavePackage: Moving '../../../../../../Unreal engine projects/GameParadeJam/Saved/GameLevel_Auto31E0E6EA5480190A831C4949AC0931B3C.tmp' to '../../../../../../Unreal engine projects/GameParadeJam/Saved/Autosaves/Game/ActualGame/GameLevel_Auto3.umap'
+[2025.06.14-01.47.55:424][840]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ActualGame/GameLevel' took 0.081
+[2025.06.14-01.47.55:424][840]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.081
+[2025.06.14-01.47.55:426][840]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ActualGame/BluePrints/TeleportsShuffle] ([2] browsable assets)...
+[2025.06.14-01.47.55:426][840]OBJ SavePackage: Finished generating thumbnails for package [/Game/ActualGame/BluePrints/TeleportsShuffle]
+[2025.06.14-01.47.55:434][840]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ActualGame/BluePrints/TeleportsShuffle_Auto3
+[2025.06.14-01.47.55:434][840]LogSavePackage: Moving '../../../../../../Unreal engine projects/GameParadeJam/Saved/TeleportsShuffle_Auto3163D97B849AF1B768692D998C2A63D7C.tmp' to '../../../../../../Unreal engine projects/GameParadeJam/Saved/Autosaves/Game/ActualGame/BluePrints/TeleportsShuffle_Auto3.uasset'
+[2025.06.14-01.47.55:434][840]LogFileHelpers: Auto-saving content packages took 0.010
+[2025.06.14-01.50.52:701][762]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4762.898926
+[2025.06.14-01.50.52:797][769]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.14-01.50.52:797][769]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4762.981445, Update Interval: 350.251160
+[2025.06.14-01.52.15:820][500]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2025.06.14-01.52.32:822][659]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ActualGame/BluePrints/TeleportsShuffle.TeleportsShuffle_C
+[2025.06.14-01.52.32:822][659]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ActualGame/BluePrints/TeleportsShuffle.TeleportsShuffle_C
+[2025.06.14-01.52.32:824][659]LogActorFactory: Actor Factory spawned Blueprint /Game/ActualGame/BluePrints/TeleportsShuffle.TeleportsShuffle as actor: TeleportsShuffle_C /Game/ActualGame/GameLevel.GameLevel:PersistentLevel.TeleportsShuffle_C_0
+[2025.06.14-01.52.32:824][659]LogActorFactory: Actor Factory spawned Blueprint /Game/ActualGame/BluePrints/TeleportsShuffle.TeleportsShuffle as actor: TeleportsShuffle_C /Game/ActualGame/GameLevel.GameLevel:PersistentLevel.TeleportsShuffle_C_0
+[2025.06.14-01.52.33:411][694]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2025.06.14-01.52.33:442][694]LogEditorActor: Deleted 0 Actors (0.060 secs)
+[2025.06.14-01.52.35:098][694]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2025.06.14-01.52.35:108][694]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2025.06.14-01.52.35:108][694]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ActualGame/BluePrints/TeleportsShuffle.TeleportsShuffle_C
+[2025.06.14-01.52.35:108][694]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ActualGame/BluePrints/TeleportsShuffle.TeleportsShuffle_C
+[2025.06.14-01.52.35:111][694]LogActorFactory: Actor Factory spawned Blueprint /Game/ActualGame/BluePrints/TeleportsShuffle.TeleportsShuffle as actor: TeleportsShuffle_C /Game/ActualGame/GameLevel.GameLevel:PersistentLevel.TeleportsShuffle_C_1
+[2025.06.14-01.52.35:111][694]LogActorFactory: Actor Factory spawned Blueprint /Game/ActualGame/BluePrints/TeleportsShuffle.TeleportsShuffle as actor: TeleportsShuffle_C /Game/ActualGame/GameLevel.GameLevel:PersistentLevel.TeleportsShuffle_C_1
+[2025.06.14-01.52.38:597][965]LogSceneOutliner: Outliner Column Item Label does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2025.06.14-01.52.38:597][965]LogSceneOutliner: Outliner Column Type does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2025.06.14-01.52.48:761][771]LogSceneOutliner: Outliner Column Item Label does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2025.06.14-01.52.48:761][771]LogSceneOutliner: Outliner Column Type does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2025.06.14-01.52.59:857][635]LogSceneOutliner: Outliner Column Item Label does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2025.06.14-01.52.59:857][635]LogSceneOutliner: Outliner Column Type does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2025.06.14-01.53.03:645][928]Cmd: DUPLICATE
+[2025.06.14-01.53.03:645][928]Cmd: ACTOR DUPLICATE
+[2025.06.14-01.53.03:843][940]Cmd: DUPLICATE
+[2025.06.14-01.53.03:844][940]Cmd: ACTOR DUPLICATE
+[2025.06.14-01.53.04:044][953]Cmd: DUPLICATE
+[2025.06.14-01.53.04:044][953]Cmd: ACTOR DUPLICATE
+[2025.06.14-01.53.04:227][965]Cmd: DUPLICATE
+[2025.06.14-01.53.04:227][965]Cmd: ACTOR DUPLICATE
+[2025.06.14-01.53.04:398][976]Cmd: DUPLICATE
+[2025.06.14-01.53.04:398][976]Cmd: ACTOR DUPLICATE
+[2025.06.14-01.53.04:605][989]Cmd: DUPLICATE
+[2025.06.14-01.53.04:605][989]Cmd: ACTOR DUPLICATE
+[2025.06.14-01.53.05:155][ 29]Cmd: DUPLICATE
+[2025.06.14-01.53.05:155][ 29]Cmd: ACTOR DUPLICATE
+[2025.06.14-01.53.06:233][109]Cmd: DUPLICATE
+[2025.06.14-01.53.06:233][109]Cmd: ACTOR DUPLICATE
+[2025.06.14-01.53.09:946][394]Cmd: DUPLICATE
+[2025.06.14-01.53.09:946][394]Cmd: ACTOR DUPLICATE
+[2025.06.14-01.53.34:552][189]Cmd: DELETE
+[2025.06.14-01.53.34:552][189]Cmd: ACTOR DELETE
+[2025.06.14-01.55.00:168][587]LogSlate: Window 'Change Variable Type' being destroyed
+[2025.06.14-01.55.13:101][147]LogSlate: Window 'Find in Blueprints' being destroyed
+[2025.06.14-01.55.13:147][147]LogSlate: Window 'Find in Blueprints' being destroyed
+[2025.06.14-01.57.13:644][464]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5143.835938
+[2025.06.14-01.57.13:741][470]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.14-01.57.13:741][470]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5143.916992, Update Interval: 351.836914
+[2025.06.14-01.57.56:149][210]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2025.06.14-01.57.56:167][210]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ActualGame/GameLevel_Auto4
+[2025.06.14-01.57.56:167][210]LogSavePackage: Moving '../../../../../../Unreal engine projects/GameParadeJam/Saved/GameLevel_Auto4D4270873488C24122414D3ADCFF33201.tmp' to '../../../../../../Unreal engine projects/GameParadeJam/Saved/Autosaves/Game/ActualGame/GameLevel_Auto4.umap'
+[2025.06.14-01.57.56:168][210]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ActualGame/GameLevel' took 0.054
+[2025.06.14-01.57.56:168][210]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.054
+[2025.06.14-01.57.56:168][210]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ActualGame/BluePrints/Teleporter] ([2] browsable assets)...
+[2025.06.14-01.57.56:234][210]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ActualGame/BluePrints/Teleporter.Teleporter]
+[2025.06.14-01.57.56:234][210]OBJ SavePackage: Finished generating thumbnails for package [/Game/ActualGame/BluePrints/Teleporter]
+[2025.06.14-01.57.56:247][210]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ActualGame/BluePrints/Teleporter_Auto4
+[2025.06.14-01.57.56:247][210]LogSavePackage: Moving '../../../../../../Unreal engine projects/GameParadeJam/Saved/Teleporter_Auto40006EC8047183ADC16DB6C8628C4671D.tmp' to '../../../../../../Unreal engine projects/GameParadeJam/Saved/Autosaves/Game/ActualGame/BluePrints/Teleporter_Auto4.uasset'
+[2025.06.14-01.57.56:248][210]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ActualGame/BluePrints/TeleportsShuffle] ([2] browsable assets)...
+[2025.06.14-01.57.56:248][210]OBJ SavePackage: Finished generating thumbnails for package [/Game/ActualGame/BluePrints/TeleportsShuffle]
+[2025.06.14-01.57.56:257][210]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ActualGame/BluePrints/TeleportsShuffle_Auto4
+[2025.06.14-01.57.56:257][210]LogSavePackage: Moving '../../../../../../Unreal engine projects/GameParadeJam/Saved/TeleportsShuffle_Auto4C3AA88A9475ACE43D55D1B92C0F1F231.tmp' to '../../../../../../Unreal engine projects/GameParadeJam/Saved/Autosaves/Game/ActualGame/BluePrints/TeleportsShuffle_Auto4.uasset'
+[2025.06.14-01.57.56:258][210]LogFileHelpers: Auto-saving content packages took 0.089
+[2025.06.14-02.02.15:503][519]LogClass: Warning: Type mismatch in tp Pos of Teleporter_C - Previous (StructProperty) Current(ObjectProperty) in package: FObjectReader
+[2025.06.14-02.02.15:561][519]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2025.06.14-02.02.16:329][563]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.14-02.02.16:383][563]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ActualGame/BluePrints/Teleporter] ([2] browsable assets)...
+[2025.06.14-02.02.16:449][563]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ActualGame/BluePrints/Teleporter.Teleporter]
+[2025.06.14-02.02.16:449][563]OBJ SavePackage: Finished generating thumbnails for package [/Game/ActualGame/BluePrints/Teleporter]
+[2025.06.14-02.02.16:449][563]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ActualGame/BluePrints/Teleporter" FILE="../../../../../../Unreal engine projects/GameParadeJam/Content/ActualGame/BluePrints/Teleporter.uasset" SILENT=true
+[2025.06.14-02.02.16:463][563]LogSavePackage: Moving output files for package: /Game/ActualGame/BluePrints/Teleporter
+[2025.06.14-02.02.16:463][563]LogSavePackage: Moving '../../../../../../Unreal engine projects/GameParadeJam/Saved/TeleporterE877036A4EBF6E2F7EEFA5A474EC6773.tmp' to '../../../../../../Unreal engine projects/GameParadeJam/Content/ActualGame/BluePrints/Teleporter.uasset'
+[2025.06.14-02.02.16:475][563]LogFileHelpers: InternalPromptForCheckoutAndSave took 146.050 ms (total: 3.21 sec)
+[2025.06.14-02.02.16:528][563]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.14-02.02.16:529][563]LogContentValidation: Enabled validators:
+[2025.06.14-02.02.16:529][563]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.14-02.02.16:529][563]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.14-02.02.16:529][563]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.14-02.02.16:529][563]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.14-02.02.16:529][563]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.14-02.02.16:529][563]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.14-02.02.16:529][563]AssetCheck: /Game/ActualGame/BluePrints/Teleporter Validating asset
+[2025.06.14-02.02.20:039][823]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_12
+[2025.06.14-02.02.20:094][824]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_13
+[2025.06.14-02.02.20:152][825]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_14
+[2025.06.14-02.03.41:748][535]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5531.917480
+[2025.06.14-02.03.41:869][543]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.14-02.03.41:869][543]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5532.024414, Update Interval: 341.809753
+[2025.06.14-02.03.48:243][845]LogSlate: Window 'Change Variable Type' being destroyed
+[2025.06.14-02.03.56:084][248]LogSlate: Window 'Find in Blueprints' being destroyed
+[2025.06.14-02.03.56:125][248]LogSlate: Window 'Find in Blueprints' being destroyed
+[2025.06.14-02.05.01:236][185]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.14-02.05.01:282][185]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ActualGame/BluePrints/Teleporter] ([2] browsable assets)...
+[2025.06.14-02.05.01:345][185]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ActualGame/BluePrints/Teleporter.Teleporter]
+[2025.06.14-02.05.01:345][185]OBJ SavePackage: Finished generating thumbnails for package [/Game/ActualGame/BluePrints/Teleporter]
+[2025.06.14-02.05.01:345][185]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ActualGame/BluePrints/Teleporter" FILE="../../../../../../Unreal engine projects/GameParadeJam/Content/ActualGame/BluePrints/Teleporter.uasset" SILENT=true
+[2025.06.14-02.05.01:359][185]LogSavePackage: Moving output files for package: /Game/ActualGame/BluePrints/Teleporter
+[2025.06.14-02.05.01:359][185]LogSavePackage: Moving '../../../../../../Unreal engine projects/GameParadeJam/Saved/Teleporter0C9C5B55490705406A0AC9A3380EEA83.tmp' to '../../../../../../Unreal engine projects/GameParadeJam/Content/ActualGame/BluePrints/Teleporter.uasset'
+[2025.06.14-02.05.01:373][185]LogFileHelpers: InternalPromptForCheckoutAndSave took 135.935 ms (total: 3.35 sec)
+[2025.06.14-02.05.01:431][185]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.14-02.05.01:431][185]LogContentValidation: Enabled validators:
+[2025.06.14-02.05.01:431][185]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.14-02.05.01:431][185]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.14-02.05.01:431][185]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.14-02.05.01:431][185]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.14-02.05.01:431][185]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.14-02.05.01:431][185]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.14-02.05.01:431][185]AssetCheck: /Game/ActualGame/BluePrints/Teleporter Validating asset
+[2025.06.14-02.06.27:813][391]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.Actor
+[2025.06.14-02.06.27:813][391]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.Actor
+[2025.06.14-02.06.27:816][391]LogActorFactory: Actor Factory spawned Class /Script/Engine.Actor as actor: Actor /Game/ActualGame/GameLevel.GameLevel:PersistentLevel.Actor_0
+[2025.06.14-02.06.27:816][391]LogActorFactory: Actor Factory spawned Class /Script/Engine.Actor as actor: Actor /Game/ActualGame/GameLevel.GameLevel:PersistentLevel.Actor_0
+[2025.06.14-02.06.48:172][924]Cmd: DUPLICATE
+[2025.06.14-02.06.48:172][924]Cmd: ACTOR DUPLICATE
+[2025.06.14-02.06.48:636][959]Cmd: DUPLICATE
+[2025.06.14-02.06.48:636][959]Cmd: ACTOR DUPLICATE
+[2025.06.14-02.06.48:823][972]Cmd: DUPLICATE
+[2025.06.14-02.06.48:823][972]Cmd: ACTOR DUPLICATE
+[2025.06.14-02.06.49:019][985]Cmd: DUPLICATE
+[2025.06.14-02.06.49:019][985]Cmd: ACTOR DUPLICATE
+[2025.06.14-02.06.49:212][998]Cmd: DUPLICATE
+[2025.06.14-02.06.49:212][998]Cmd: ACTOR DUPLICATE
+[2025.06.14-02.06.49:744][ 38]Cmd: DUPLICATE
+[2025.06.14-02.06.49:744][ 38]Cmd: ACTOR DUPLICATE
+[2025.06.14-02.06.50:161][ 69]Cmd: DUPLICATE
+[2025.06.14-02.06.50:161][ 69]Cmd: ACTOR DUPLICATE
+[2025.06.14-02.06.50:393][ 85]Cmd: DUPLICATE
+[2025.06.14-02.06.50:393][ 85]Cmd: ACTOR DUPLICATE
+[2025.06.14-02.06.51:784][195]Cmd: DUPLICATE
+[2025.06.14-02.06.51:784][195]Cmd: ACTOR DUPLICATE
+[2025.06.14-02.07.12:121][819]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.14-02.07.12:185][819]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ActualGame/GameLevel" FILE="../../../../../../Unreal engine projects/GameParadeJam/Content/ActualGame/GameLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.06.14-02.07.12:245][819]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2025.06.14-02.07.12:264][819]LogSavePackage: Moving output files for package: /Game/ActualGame/GameLevel
+[2025.06.14-02.07.12:264][819]LogSavePackage: Moving '../../../../../../Unreal engine projects/GameParadeJam/Saved/GameLevel27126E394931124DA549A6A729221F04.tmp' to '../../../../../../Unreal engine projects/GameParadeJam/Content/ActualGame/GameLevel.umap'
+[2025.06.14-02.07.12:271][819]LogFileHelpers: Saving map 'GameLevel' took 0.086
+[2025.06.14-02.07.12:286][819]LogFileHelpers: InternalPromptForCheckoutAndSave took 164.762 ms (total: 3.51 sec)
+[2025.06.14-02.07.12:345][819]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.14-02.07.12:345][819]LogContentValidation: Enabled validators:
+[2025.06.14-02.07.12:345][819]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.14-02.07.12:345][819]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.14-02.07.12:345][819]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.14-02.07.12:345][819]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.14-02.07.12:346][819]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.14-02.07.12:346][819]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.14-02.07.12:346][819]AssetCheck: /Game/ActualGame/GameLevel Validating asset
+[2025.06.14-02.07.27:539][ 34]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_15
+[2025.06.14-02.07.28:120][ 44]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_16
+[2025.06.14-02.07.51:216][731]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.06.14-02.07.51:227][731]LogPlayLevel: [PlayLevel] Compiling Teleporter before play...
+[2025.06.14-02.07.51:292][731]LogPlayLevel: [PlayLevel] Compiling TeleportsShuffle before play...
+[2025.06.14-02.07.51:342][731]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2025.06.14-02.07.51:347][731]LogPlayLevel: PlayLevel: Blueprint regeneration took 124 ms (2 blueprints)
+[2025.06.14-02.07.51:377][731]LogPlayLevel: Creating play world package: /Game/ActualGame/UEDPIE_0_GameLevel
+[2025.06.14-02.07.51:380][731]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003735s)
+[2025.06.14-02.07.51:380][731]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ActualGame/GameLevel.GameLevel to /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel (0.003779s)
+[2025.06.14-02.07.51:408][731]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2025.06.14-02.07.51:410][731]LogChaosDD: Creating Chaos Debug Draw Scene for world GameLevel
+[2025.06.14-02.07.51:412][731]LogPlayLevel: PIE: World Init took: (0.001503s)
+[2025.06.14-02.07.51:412][731]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2025.06.14-02.07.51:412][731]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.06.14-02.07.51:412][731]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.06.14-02.07.51:412][731]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.06.14-02.07.51:412][731]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.06.14-02.07.51:412][731]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.06.14-02.07.51:413][731]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.06.14-02.07.51:413][731]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.06.14-02.07.51:413][731]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.06.14-02.07.51:413][731]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.06.14-02.07.51:413][731]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.06.14-02.07.51:413][731]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.06.14-02.07.51:415][731]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.06.14-02.07.51:566][731]LogAudioMixer: Display: Using Audio Hardware Device Speakers (3- Logitech PRO X Wireless Gaming Headset)
+[2025.06.14-02.07.51:566][731]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.06.14-02.07.51:566][731]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.06.14-02.07.51:566][731]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.06.14-02.07.51:566][731]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2025.06.14-02.07.51:566][731]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=4
+[2025.06.14-02.07.51:570][731]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2025.06.14-02.07.51:570][731]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2025.06.14-02.07.51:570][731]LogInit: FAudioDevice initialized with ID 4.
+[2025.06.14-02.07.51:570][731]LogAudio: Display: Audio Device (ID: 4) registered with world 'GameLevel'.
+[2025.06.14-02.07.51:570][731]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2025.06.14-02.07.51:574][731]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.06.14-02.07.51:582][731]LogWorld: Bringing World /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel up for play (max tick rate 0) at 2025.06.13-22.07.51
+[2025.06.14-02.07.51:582][731]LogWorld: Bringing up level for play took: 0.000934
+[2025.06.14-02.07.51:584][731]LogOnline: OSS: Created online subsystem instance for: :Context_20
+[2025.06.14-02.07.51:589][731]PIE: Server logged in
+[2025.06.14-02.07.51:592][731]PIE: Play in editor total start time 0.37 seconds.
+[2025.06.14-02.08.04:928][859]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.14-02.08.04:928][859]LogWorld: BeginTearingDown for /Game/ActualGame/UEDPIE_0_GameLevel
+[2025.06.14-02.08.04:929][859]LogWorld: UWorld::CleanupWorld for GameLevel, bSessionEnded=true, bCleanupResources=true
+[2025.06.14-02.08.04:929][859]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.14-02.08.04:932][859]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.06.14-02.08.04:938][859]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.14-02.08.04:979][859]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.14-02.08.04:980][859]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2025.06.14-02.08.04:980][859]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4, StreamState=4
+[2025.06.14-02.08.04:981][859]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4, StreamState=2
+[2025.06.14-02.08.04:993][859]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2025.06.14-02.08.05:044][860]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2025.06.14-02.08.05:075][860]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2025.06.14-02.10.04:669][760]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5914.872559
+[2025.06.14-02.10.04:754][766]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.14-02.10.04:754][766]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5914.943848, Update Interval: 324.758453
+[2025.06.14-02.11.00:629][308]LogBlueprint: Warning: [AssetLog] A:\Unreal engine projects\GameParadeJam\Content\ActualGame\BluePrints\Teleporter.uasset: [Compiler] Set tr transform  was pruned because its Exec pin is not connected, the connected value is not available and will instead be read as default
+[2025.06.14-02.11.00:630][308]LogBlueprint: Error: [AssetLog] A:\Unreal engine projects\GameParadeJam\Content\ActualGame\BluePrints\Teleporter.uasset: [Compiler] The current value of the ' T ' pin is invalid: 'T' in action 'Transform Location' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2025.06.14-02.11.00:664][308]LogStreaming: Display: FlushAsyncLoading(1049): 1 QueuedPackages, 0 AsyncPackages
+[2025.06.14-02.11.00:715][308]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2025.06.14-02.11.01:360][338]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.14-02.11.01:428][338]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ActualGame/BluePrints/Teleporter] ([2] browsable assets)...
+[2025.06.14-02.11.01:496][338]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ActualGame/BluePrints/Teleporter.Teleporter]
+[2025.06.14-02.11.01:496][338]OBJ SavePackage: Finished generating thumbnails for package [/Game/ActualGame/BluePrints/Teleporter]
+[2025.06.14-02.11.01:496][338]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ActualGame/BluePrints/Teleporter" FILE="../../../../../../Unreal engine projects/GameParadeJam/Content/ActualGame/BluePrints/Teleporter.uasset" SILENT=true
+[2025.06.14-02.11.01:509][338]LogSavePackage: Moving output files for package: /Game/ActualGame/BluePrints/Teleporter
+[2025.06.14-02.11.01:509][338]LogSavePackage: Moving '../../../../../../Unreal engine projects/GameParadeJam/Saved/Teleporter6806D5E24D7E82C3451B3CB4A8C7D29F.tmp' to '../../../../../../Unreal engine projects/GameParadeJam/Content/ActualGame/BluePrints/Teleporter.uasset'
+[2025.06.14-02.11.01:522][338]LogFileHelpers: InternalPromptForCheckoutAndSave took 161.707 ms (total: 3.67 sec)
+[2025.06.14-02.11.01:576][338]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.14-02.11.01:576][338]LogContentValidation: Enabled validators:
+[2025.06.14-02.11.01:576][338]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.14-02.11.01:576][338]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.14-02.11.01:576][338]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.14-02.11.01:576][338]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.14-02.11.01:576][338]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.14-02.11.01:576][338]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.14-02.11.01:576][338]AssetCheck: /Game/ActualGame/BluePrints/Teleporter Validating asset
+[2025.06.14-02.12.27:756][815]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2025.06.14-02.12.29:739][935]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.14-02.12.29:793][935]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ActualGame/BluePrints/Teleporter] ([2] browsable assets)...
+[2025.06.14-02.12.29:892][935]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ActualGame/BluePrints/Teleporter.Teleporter]
+[2025.06.14-02.12.29:892][935]OBJ SavePackage: Finished generating thumbnails for package [/Game/ActualGame/BluePrints/Teleporter]
+[2025.06.14-02.12.29:892][935]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ActualGame/BluePrints/Teleporter" FILE="../../../../../../Unreal engine projects/GameParadeJam/Content/ActualGame/BluePrints/Teleporter.uasset" SILENT=true
+[2025.06.14-02.12.29:905][935]LogSavePackage: Moving output files for package: /Game/ActualGame/BluePrints/Teleporter
+[2025.06.14-02.12.29:905][935]LogSavePackage: Moving '../../../../../../Unreal engine projects/GameParadeJam/Saved/Teleporter93B888D9406A0DA4EE0FCE992E01D0B2.tmp' to '../../../../../../Unreal engine projects/GameParadeJam/Content/ActualGame/BluePrints/Teleporter.uasset'
+[2025.06.14-02.12.29:918][935]LogFileHelpers: InternalPromptForCheckoutAndSave took 178.860 ms (total: 3.85 sec)
+[2025.06.14-02.12.29:973][935]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.14-02.12.29:973][935]LogContentValidation: Enabled validators:
+[2025.06.14-02.12.29:973][935]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.14-02.12.29:973][935]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.14-02.12.29:973][935]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.14-02.12.29:973][935]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.14-02.12.29:973][935]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.14-02.12.29:973][935]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.14-02.12.29:973][935]AssetCheck: /Game/ActualGame/BluePrints/Teleporter Validating asset
+[2025.06.14-02.12.36:842][374]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.06.14-02.12.36:848][374]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.06.14-02.12.36:848][374]LogPlayLevel: Creating play world package: /Game/ActualGame/UEDPIE_0_GameLevel
+[2025.06.14-02.12.36:851][374]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003647s)
+[2025.06.14-02.12.36:852][374]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ActualGame/GameLevel.GameLevel to /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel (0.003683s)
+[2025.06.14-02.12.36:881][374]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2025.06.14-02.12.36:887][374]LogChaosDD: Creating Chaos Debug Draw Scene for world GameLevel
+[2025.06.14-02.12.36:888][374]LogPlayLevel: PIE: World Init took: (0.001608s)
+[2025.06.14-02.12.36:889][374]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2025.06.14-02.12.36:889][374]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.06.14-02.12.36:889][374]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.06.14-02.12.36:889][374]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.06.14-02.12.36:889][374]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.06.14-02.12.36:889][374]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.06.14-02.12.36:889][374]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.06.14-02.12.36:889][374]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.06.14-02.12.36:889][374]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.06.14-02.12.36:889][374]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.06.14-02.12.36:889][374]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.06.14-02.12.36:889][374]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.06.14-02.12.36:892][374]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.06.14-02.12.37:061][374]LogAudioMixer: Display: Using Audio Hardware Device Speakers (3- Logitech PRO X Wireless Gaming Headset)
+[2025.06.14-02.12.37:061][374]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.06.14-02.12.37:062][374]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.06.14-02.12.37:062][374]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.06.14-02.12.37:062][374]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2025.06.14-02.12.37:062][374]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=5
+[2025.06.14-02.12.37:064][374]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2025.06.14-02.12.37:064][374]LogInit: FAudioDevice initialized with ID 5.
+[2025.06.14-02.12.37:064][374]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2025.06.14-02.12.37:064][374]LogAudio: Display: Audio Device (ID: 5) registered with world 'GameLevel'.
+[2025.06.14-02.12.37:064][374]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2025.06.14-02.12.37:067][374]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.06.14-02.12.37:076][374]LogWorld: Bringing World /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel up for play (max tick rate 0) at 2025.06.13-22.12.37
+[2025.06.14-02.12.37:076][374]LogWorld: Bringing up level for play took: 0.000866
+[2025.06.14-02.12.37:078][374]LogOnline: OSS: Created online subsystem instance for: :Context_21
+[2025.06.14-02.12.37:082][374]PIE: Server logged in
+[2025.06.14-02.12.37:083][374]PIE: Play in editor total start time 0.237 seconds.
+[2025.06.14-02.12.49:099][670]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.14-02.12.49:099][670]LogWorld: BeginTearingDown for /Game/ActualGame/UEDPIE_0_GameLevel
+[2025.06.14-02.12.49:100][670]LogWorld: UWorld::CleanupWorld for GameLevel, bSessionEnded=true, bCleanupResources=true
+[2025.06.14-02.12.49:100][670]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.14-02.12.49:104][670]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.06.14-02.12.49:110][670]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.14-02.12.49:138][670]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.06.14-02.12.49:138][670]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2025.06.14-02.12.49:138][670]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5, StreamState=4
+[2025.06.14-02.12.49:140][670]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5, StreamState=2
+[2025.06.14-02.12.49:143][670]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.14-02.12.49:147][670]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2025.06.14-02.12.49:236][671]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2025.06.14-02.12.49:264][671]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
