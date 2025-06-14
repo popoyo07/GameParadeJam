@@ -45,7 +45,9 @@
 				"A:/Unreal engine projects/GameParadeJam/Content/Animated_Nebulas_Starter_Pack/Planet_System/Textures/T_HDRIs/TC_Stars_Near_Small.uasset",
 				"A:/Unreal engine projects/GameParadeJam/Content/Animated_Nebulas_Starter_Pack/Planet_System/Textures/T_HDRIs/TC_Stars_Far_Blue.uasset",
 				"A:/Unreal engine projects/GameParadeJam/Content/Animated_Nebulas_Starter_Pack/Planet_System/Textures/T_HDRIs/TC_Skybox_01_Alpha.uasset",
-				"A:/Unreal engine projects/GameParadeJam/Content/Animated_Nebulas_Starter_Pack/Maps/HDRI_Example_Map_BuiltData.uasset"
+				"A:/Unreal engine projects/GameParadeJam/Content/Animated_Nebulas_Starter_Pack/Maps/HDRI_Example_Map_BuiltData.uasset",
+				"A:/Unreal engine projects/GameParadeJam/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"A:/Unreal engine projects/GameParadeJam/Content/ActualGame/GameLevel.umap"
 			]
 		}
 	]
