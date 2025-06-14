@@ -5,6 +5,19 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"A:/Unreal engine projects/GameParadeJam/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"A:/Unreal engine projects/GameParadeJam/Content/ActualGame/GameLevel.umap",
+				"A:/Unreal engine projects/GameParadeJam/Content/ActualGame/SubLevels/Scale.umap",
+				"A:/Unreal engine projects/GameParadeJam/Content/ActualGame/SubLevels/Lighting.umap",
+				"A:/Unreal engine projects/GameParadeJam/Content/ActualGame/SubLevels/StartingRoom.umap",
+				"A:/Unreal engine projects/GameParadeJam/Content/ActualGame/SubLevels/Room1.umap",
+				"A:/Unreal engine projects/GameParadeJam/Content/ActualGame/SubLevels/Room2.umap",
+				"A:/Unreal engine projects/GameParadeJam/Content/ActualGame/SubLevels/Room3.umap",
+				"A:/Unreal engine projects/GameParadeJam/Content/ActualGame/SubLevels/Room4.umap",
+				"A:/Unreal engine projects/GameParadeJam/Content/ActualGame/SubLevels/Room5.umap",
+				"A:/Unreal engine projects/GameParadeJam/Content/ActualGame/BluePrints/Teleporter.uasset",
+				"A:/Unreal engine projects/GameParadeJam/Content/ActualGame/BluePrints/TeleportsShuffle.uasset",
+				"A:/Unreal engine projects/GameParadeJam/Content/ActualGame/SubLevels/TpFunctionality.umap",
 				"A:/Unreal engine projects/GameParadeJam/Content/Animated_Nebulas_Starter_Pack/Maps/Overview_BuiltData.uasset",
 				"A:/Unreal engine projects/GameParadeJam/Content/Animated_Nebulas_Starter_Pack/Maps/Overview.umap",
 				"A:/Unreal engine projects/GameParadeJam/Content/Animated_Nebulas_Starter_Pack/Maps/HDRI_Example_Map.umap",
@@ -46,19 +59,7 @@
 				"A:/Unreal engine projects/GameParadeJam/Content/Animated_Nebulas_Starter_Pack/Planet_System/Textures/T_HDRIs/TC_Stars_Far_Blue.uasset",
 				"A:/Unreal engine projects/GameParadeJam/Content/Animated_Nebulas_Starter_Pack/Planet_System/Textures/T_HDRIs/TC_Skybox_01_Alpha.uasset",
 				"A:/Unreal engine projects/GameParadeJam/Content/Animated_Nebulas_Starter_Pack/Maps/HDRI_Example_Map_BuiltData.uasset",
-				"A:/Unreal engine projects/GameParadeJam/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
-				"A:/Unreal engine projects/GameParadeJam/Content/ActualGame/GameLevel.umap",
-				"A:/Unreal engine projects/GameParadeJam/Content/ActualGame/SubLevels/Scale.umap",
-				"A:/Unreal engine projects/GameParadeJam/Content/ActualGame/SubLevels/Lighting.umap",
-				"A:/Unreal engine projects/GameParadeJam/Content/ActualGame/SubLevels/StartingRoom.umap",
-				"A:/Unreal engine projects/GameParadeJam/Content/ActualGame/SubLevels/Room1.umap",
-				"A:/Unreal engine projects/GameParadeJam/Content/ActualGame/SubLevels/Room2.umap",
-				"A:/Unreal engine projects/GameParadeJam/Content/ActualGame/SubLevels/Room3.umap",
-				"A:/Unreal engine projects/GameParadeJam/Content/ActualGame/SubLevels/Room4.umap",
-				"A:/Unreal engine projects/GameParadeJam/Content/ActualGame/SubLevels/Room5.umap",
-				"A:/Unreal engine projects/GameParadeJam/Content/ActualGame/BluePrints/RoomOrder.uasset",
-				"A:/Unreal engine projects/GameParadeJam/Content/ActualGame/BluePrints/Teleporter.uasset",
-				"A:/Unreal engine projects/GameParadeJam/Content/ActualGame/BluePrints/TeleportsShuffle.uasset"
+				"A:/Unreal engine projects/GameParadeJam/Content/ActualGame/BluePrints/RoomOrder.uasset"
 			]
 		}
 	]
