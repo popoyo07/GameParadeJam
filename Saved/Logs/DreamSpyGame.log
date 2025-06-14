@@ -1682,3 +1682,676 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.06.14-18.46.42:960][593]LogSavePackage: Moving '../../../../../../Unreal engine projects/GameParadeJam/Saved/BP_PistolPickup_Auto303F699374BC021AEB09B669CFBABAB8A.tmp' to '../../../../../../Unreal engine projects/GameParadeJam/Saved/Autosaves/Game/ActualGame/Props/PickUps/BP_PistolPickup_Auto3.uasset'
 [2025.06.14-18.46.42:961][593]LogFileHelpers: Auto-saving content packages took 0.347
 [2025.06.14-18.47.26:519][793]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2025.06.14-18.48.57:394][797]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.14-18.48.57:478][797]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.06.14-18.48.57:559][797]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2025.06.14-18.48.57:559][797]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2025.06.14-18.48.57:585][797]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2025.06.14-18.48.57:586][797]LogSavePackage: Moving '../../../../../../Unreal engine projects/GameParadeJam/Saved/BP_ThirdPersonCharacterEB109896449EA0E8FD05D280CF68CB79.tmp' to '../../../../../../Unreal engine projects/GameParadeJam/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2025.06.14-18.48.57:596][797]LogFileHelpers: InternalPromptForCheckoutAndSave took 202.342 ms (total: 2.20 sec)
+[2025.06.14-18.48.57:660][797]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.14-18.48.57:660][797]LogContentValidation: Enabled validators:
+[2025.06.14-18.48.57:660][797]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.14-18.48.57:660][797]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.14-18.48.57:660][797]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.14-18.48.57:660][797]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.14-18.48.57:660][797]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.14-18.48.57:660][797]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.14-18.48.57:660][797]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2025.06.14-18.49.30:778][583]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2025.06.14-18.50.28:270][ 92]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2832.763916
+[2025.06.14-18.50.28:503][ 96]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.14-18.50.28:503][ 96]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2832.938232, Update Interval: 346.184265
+[2025.06.14-18.51.08:220][631]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ActualGame/Props/PickUps/BP_PistolPickup.BP_PistolPickup_C
+[2025.06.14-18.51.08:220][631]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ActualGame/Props/PickUps/BP_PistolPickup.BP_PistolPickup_C
+[2025.06.14-18.51.08:222][631]LogActorFactory: Actor Factory spawned Blueprint /Game/ActualGame/Props/PickUps/BP_PistolPickup.BP_PistolPickup as actor: BP_PistolPickup_C /Game/ActualGame/SubLevels/StartingRoom.StartingRoom:PersistentLevel.BP_PistolPickup_C_0
+[2025.06.14-18.51.08:223][631]LogActorFactory: Actor Factory spawned Blueprint /Game/ActualGame/Props/PickUps/BP_PistolPickup.BP_PistolPickup as actor: BP_PistolPickup_C /Game/ActualGame/SubLevels/StartingRoom.StartingRoom:PersistentLevel.BP_PistolPickup_C_0
+[2025.06.14-18.51.08:227][631]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2025.06.14-18.51.08:349][632]LogPSOHitching: Encountered 600 PSO creation hitches so far (174 graphics, 426 compute). 0 of them were precached.
+[2025.06.14-18.51.09:643][684]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2025.06.14-18.51.09:646][684]LogEditorActor: Deleted 0 Actors (0.026 secs)
+[2025.06.14-18.51.09:660][684]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ActualGame/Props/PickUps/BP_PistolPickup.BP_PistolPickup_C
+[2025.06.14-18.51.09:660][684]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ActualGame/Props/PickUps/BP_PistolPickup.BP_PistolPickup_C
+[2025.06.14-18.51.09:662][684]LogActorFactory: Actor Factory spawned Blueprint /Game/ActualGame/Props/PickUps/BP_PistolPickup.BP_PistolPickup as actor: BP_PistolPickup_C /Game/ActualGame/SubLevels/StartingRoom.StartingRoom:PersistentLevel.BP_PistolPickup_C_1
+[2025.06.14-18.51.09:663][684]LogActorFactory: Actor Factory spawned Blueprint /Game/ActualGame/Props/PickUps/BP_PistolPickup.BP_PistolPickup as actor: BP_PistolPickup_C /Game/ActualGame/SubLevels/StartingRoom.StartingRoom:PersistentLevel.BP_PistolPickup_C_1
+[2025.06.14-18.51.17:372][812]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.14-18.51.17:583][812]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2025.06.14-18.51.17:594][812]LogSavePackage: Moving output files for package: /Game/ActualGame/SubLevels/StartingRoom
+[2025.06.14-18.51.17:595][812]LogSavePackage: Moving '../../../../../../Unreal engine projects/GameParadeJam/Saved/StartingRoomF5521AB440169B3FBA48F0B0E21811FE.tmp' to '../../../../../../Unreal engine projects/GameParadeJam/Content/ActualGame/SubLevels/StartingRoom.umap'
+[2025.06.14-18.51.17:600][812]LogFileHelpers: Saving map 'StartingRoom' took 0.038
+[2025.06.14-18.51.17:610][812]LogFileHelpers: InternalPromptForCheckoutAndSave took 238.296 ms (total: 2.44 sec)
+[2025.06.14-18.51.17:674][812]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.14-18.51.17:674][812]LogContentValidation: Enabled validators:
+[2025.06.14-18.51.17:674][812]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.14-18.51.17:674][812]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.14-18.51.17:674][812]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.14-18.51.17:674][812]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.14-18.51.17:674][812]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.14-18.51.17:674][812]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.14-18.51.17:674][812]AssetCheck: /Game/ActualGame/SubLevels/StartingRoom Validating asset
+[2025.06.14-18.51.18:372][827]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.06.14-18.51.18:391][827]LogPlayLevel: [PlayLevel] Compiling PROTO_BP_AnimBlueprint_0 before play...
+[2025.06.14-18.51.18:425][827]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2025.06.14-18.51.18:427][827]LogPlayLevel: PlayLevel: Blueprint regeneration took 36 ms (1 blueprints)
+[2025.06.14-18.51.18:431][827]LogOnline: OSS: Created online subsystem instance for: NULL
+[2025.06.14-18.51.18:431][827]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2025.06.14-18.51.18:432][827]LogPlayLevel: Creating play world package: /Game/ActualGame/UEDPIE_0_GameLevel
+[2025.06.14-18.51.18:433][827]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001215s)
+[2025.06.14-18.51.18:433][827]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ActualGame/GameLevel.GameLevel to /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel (0.001274s)
+[2025.06.14-18.51.18:456][827]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2025.06.14-18.51.18:459][827]LogChaosDD: Creating Chaos Debug Draw Scene for world GameLevel
+[2025.06.14-18.51.18:460][827]LogPlayLevel: PIE: World Init took: (0.001509s)
+[2025.06.14-18.51.18:461][827]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2025.06.14-18.51.18:461][827]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.06.14-18.51.18:461][827]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.06.14-18.51.18:461][827]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.06.14-18.51.18:461][827]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.06.14-18.51.18:461][827]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.06.14-18.51.18:461][827]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.06.14-18.51.18:461][827]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.06.14-18.51.18:461][827]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.06.14-18.51.18:461][827]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.06.14-18.51.18:461][827]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.06.14-18.51.18:461][827]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.06.14-18.51.18:463][827]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.06.14-18.51.18:513][827]LogAudioMixer: Display: Using Audio Hardware Device Speakers (3- Logitech PRO X Wireless Gaming Headset)
+[2025.06.14-18.51.18:513][827]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.06.14-18.51.18:513][827]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.06.14-18.51.18:513][827]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.06.14-18.51.18:514][827]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2025.06.14-18.51.18:514][827]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=2
+[2025.06.14-18.51.18:515][827]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2025.06.14-18.51.18:516][827]LogInit: FAudioDevice initialized with ID 2.
+[2025.06.14-18.51.18:516][827]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2025.06.14-18.51.18:516][827]LogAudio: Display: Audio Device (ID: 2) registered with world 'GameLevel'.
+[2025.06.14-18.51.18:516][827]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2025.06.14-18.51.18:519][827]LogStreaming: Display: FlushAsyncLoading(547): 1 QueuedPackages, 0 AsyncPackages
+[2025.06.14-18.51.18:526][827]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.06.14-18.51.18:536][827]LogWorld: Bringing World /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel up for play (max tick rate 0) at 2025.06.14-14.51.18
+[2025.06.14-18.51.18:536][827]LogWorld: Bringing up level for play took: 0.000335
+[2025.06.14-18.51.18:538][827]LogOnline: OSS: Created online subsystem instance for: :Context_22
+[2025.06.14-18.51.18:548][827]PIE: Server logged in
+[2025.06.14-18.51.18:550][827]PIE: Play in editor total start time 0.169 seconds.
+[2025.06.14-18.51.19:345][829]LogSlate: Took 0.000201 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2025.06.14-18.51.26:827][939]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter'!
+[2025.06.14-18.51.26:827][939]LogScript: Warning: Script Msg called by: BP_ThirdPersonCharacter_C /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2025.06.14-18.51.26:876][940]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter'!
+[2025.06.14-18.51.26:876][940]LogScript: Warning: Script Msg called by: BP_ThirdPersonCharacter_C /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2025.06.14-18.51.28:795][ 28]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2025.06.14-18.51.28:795][ 28]LogScript: Warning: Accessed None trying to read (real) property Current weapon in BP_ThirdPersonCharacter_C
+	BP_ThirdPersonCharacter_C /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.BP_ThirdPersonCharacter_C_0
+	Function /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter:048F
+[2025.06.14-18.51.28:796][ 28]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Current weapon in BP_ThirdPersonCharacter_C". Node:  Switch on Enum_weaponName Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Character Blueprint:  BP_ThirdPersonCharacter
+[2025.06.14-18.51.28:811][ 29]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter'!
+[2025.06.14-18.51.28:811][ 29]LogScript: Warning: Script Msg called by: BP_ThirdPersonCharacter_C /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2025.06.14-18.51.28:825][ 30]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter'!
+[2025.06.14-18.51.28:826][ 30]LogScript: Warning: Script Msg called by: BP_ThirdPersonCharacter_C /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2025.06.14-18.51.28:848][ 31]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter'!
+[2025.06.14-18.51.28:848][ 31]LogScript: Warning: Script Msg called by: BP_ThirdPersonCharacter_C /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2025.06.14-18.51.28:867][ 32]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter'!
+[2025.06.14-18.51.28:867][ 32]LogScript: Warning: Script Msg called by: BP_ThirdPersonCharacter_C /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2025.06.14-18.51.28:889][ 33]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter'!
+[2025.06.14-18.51.28:890][ 33]LogScript: Warning: Script Msg called by: BP_ThirdPersonCharacter_C /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2025.06.14-18.51.28:909][ 34]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter'!
+[2025.06.14-18.51.28:910][ 34]LogScript: Warning: Script Msg called by: BP_ThirdPersonCharacter_C /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2025.06.14-18.51.33:677][262]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.14-18.51.33:677][262]LogWorld: BeginTearingDown for /Game/ActualGame/UEDPIE_0_GameLevel
+[2025.06.14-18.51.33:678][262]LogWorld: UWorld::CleanupWorld for GameLevel, bSessionEnded=true, bCleanupResources=true
+[2025.06.14-18.51.33:678][262]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.14-18.51.33:687][262]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.06.14-18.51.33:692][262]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.14-18.51.33:718][262]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.14-18.51.33:718][262]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2025.06.14-18.51.33:718][262]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2, StreamState=4
+[2025.06.14-18.51.33:720][262]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2, StreamState=2
+[2025.06.14-18.51.33:725][262]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.06.14-18.51.33:926][263]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2025.06.14-18.51.33:951][263]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2025.06.14-18.51.38:679][302]LogSlate: Window 'Message Log' being destroyed
+[2025.06.14-18.51.38:828][302]LogSlate: Window 'Message Log' being destroyed
+[2025.06.14-18.55.43:170][245]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2025.06.14-18.55.44:192][296]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.14-18.55.44:270][296]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ActualGame/Props/PickUps/BP_WeaponPickup] ([2] browsable assets)...
+[2025.06.14-18.55.44:311][296]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ActualGame/Props/PickUps/BP_WeaponPickup.BP_WeaponPickup]
+[2025.06.14-18.55.44:311][296]OBJ SavePackage: Finished generating thumbnails for package [/Game/ActualGame/Props/PickUps/BP_WeaponPickup]
+[2025.06.14-18.55.44:322][296]LogSavePackage: Moving output files for package: /Game/ActualGame/Props/PickUps/BP_WeaponPickup
+[2025.06.14-18.55.44:322][296]LogSavePackage: Moving '../../../../../../Unreal engine projects/GameParadeJam/Saved/BP_WeaponPickupF150DC8045DF5AEF7007FC92D06D2A3D.tmp' to '../../../../../../Unreal engine projects/GameParadeJam/Content/ActualGame/Props/PickUps/BP_WeaponPickup.uasset'
+[2025.06.14-18.55.44:333][296]LogFileHelpers: InternalPromptForCheckoutAndSave took 140.117 ms (total: 2.58 sec)
+[2025.06.14-18.55.44:385][296]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.14-18.55.44:385][296]LogContentValidation: Enabled validators:
+[2025.06.14-18.55.44:385][296]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.14-18.55.44:385][296]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.14-18.55.44:385][296]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.14-18.55.44:385][296]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.14-18.55.44:385][296]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.14-18.55.44:385][296]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.14-18.55.44:385][296]AssetCheck: /Game/ActualGame/Props/PickUps/BP_WeaponPickup Validating asset
+[2025.06.14-18.56.10:750][355]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ActualGame/Props/PickUps/BP_PistolPickup.BP_PistolPickup
+[2025.06.14-18.56.10:750][355]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_21
+[2025.06.14-18.56.15:986][574]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2025.06.14-18.56.16:553][599]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.14-18.56.16:637][599]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ActualGame/Props/PickUps/BP_PistolPickup] ([2] browsable assets)...
+[2025.06.14-18.56.16:644][599]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ActualGame/Props/PickUps/BP_PistolPickup.BP_PistolPickup]
+[2025.06.14-18.56.16:645][599]OBJ SavePackage: Finished generating thumbnails for package [/Game/ActualGame/Props/PickUps/BP_PistolPickup]
+[2025.06.14-18.56.16:655][599]LogSavePackage: Moving output files for package: /Game/ActualGame/Props/PickUps/BP_PistolPickup
+[2025.06.14-18.56.16:655][599]LogSavePackage: Moving '../../../../../../Unreal engine projects/GameParadeJam/Saved/BP_PistolPickup19C448BB41C9A8096C9D78A15DC21A54.tmp' to '../../../../../../Unreal engine projects/GameParadeJam/Content/ActualGame/Props/PickUps/BP_PistolPickup.uasset'
+[2025.06.14-18.56.16:667][599]LogFileHelpers: InternalPromptForCheckoutAndSave took 114.530 ms (total: 2.69 sec)
+[2025.06.14-18.56.16:719][599]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.14-18.56.16:719][599]LogContentValidation: Enabled validators:
+[2025.06.14-18.56.16:719][599]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.14-18.56.16:719][599]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.14-18.56.16:719][599]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.14-18.56.16:719][599]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.14-18.56.16:719][599]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.14-18.56.16:719][599]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.14-18.56.16:719][599]AssetCheck: /Game/ActualGame/Props/PickUps/BP_PistolPickup Validating asset
+[2025.06.14-18.56.16:744][599]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Unreal engine projects/GameParadeJam/Saved/SourceControl/UncontrolledChangelists.json
+[2025.06.14-18.56.18:878][714]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.14-18.56.18:953][714]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.06.14-18.56.18:994][714]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2025.06.14-18.56.18:994][714]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2025.06.14-18.56.19:021][714]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2025.06.14-18.56.19:022][714]LogSavePackage: Moving '../../../../../../Unreal engine projects/GameParadeJam/Saved/BP_ThirdPersonCharacter41C264D24C8C3CB4BB409CBA4A41FE7D.tmp' to '../../../../../../Unreal engine projects/GameParadeJam/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2025.06.14-18.56.19:033][714]LogFileHelpers: InternalPromptForCheckoutAndSave took 154.501 ms (total: 2.85 sec)
+[2025.06.14-18.56.19:085][714]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.14-18.56.19:085][714]LogContentValidation: Enabled validators:
+[2025.06.14-18.56.19:085][714]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.14-18.56.19:085][714]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.14-18.56.19:085][714]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.14-18.56.19:085][714]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.14-18.56.19:085][714]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.14-18.56.19:085][714]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.14-18.56.19:085][714]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2025.06.14-18.57.07:246][905]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3231.727539
+[2025.06.14-18.57.08:246][908]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.14-18.57.08:246][908]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3232.393799, Update Interval: 335.682861
+[2025.06.14-18.57.26:644][ 45]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ActualGame/Props/PickUps/BP_PistolPickup.BP_PistolPickup_C
+[2025.06.14-18.57.26:644][ 45]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ActualGame/Props/PickUps/BP_PistolPickup.BP_PistolPickup_C
+[2025.06.14-18.57.26:645][ 45]LogActorFactory: Actor Factory spawned Blueprint /Game/ActualGame/Props/PickUps/BP_PistolPickup.BP_PistolPickup as actor: BP_PistolPickup_C /Game/ActualGame/SubLevels/StartingRoom.StartingRoom:PersistentLevel.BP_PistolPickup_C_2
+[2025.06.14-18.57.26:646][ 45]LogActorFactory: Actor Factory spawned Blueprint /Game/ActualGame/Props/PickUps/BP_PistolPickup.BP_PistolPickup as actor: BP_PistolPickup_C /Game/ActualGame/SubLevels/StartingRoom.StartingRoom:PersistentLevel.BP_PistolPickup_C_2
+[2025.06.14-18.57.27:571][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2025.06.14-18.57.27:574][ 95]LogEditorActor: Deleted 0 Actors (0.029 secs)
+[2025.06.14-18.57.27:578][ 95]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ActualGame/Props/PickUps/BP_PistolPickup.BP_PistolPickup_C
+[2025.06.14-18.57.27:578][ 95]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ActualGame/Props/PickUps/BP_PistolPickup.BP_PistolPickup_C
+[2025.06.14-18.57.27:580][ 95]LogActorFactory: Actor Factory spawned Blueprint /Game/ActualGame/Props/PickUps/BP_PistolPickup.BP_PistolPickup as actor: BP_PistolPickup_C /Game/ActualGame/SubLevels/StartingRoom.StartingRoom:PersistentLevel.BP_PistolPickup_C_3
+[2025.06.14-18.57.27:581][ 95]LogActorFactory: Actor Factory spawned Blueprint /Game/ActualGame/Props/PickUps/BP_PistolPickup.BP_PistolPickup as actor: BP_PistolPickup_C /Game/ActualGame/SubLevels/StartingRoom.StartingRoom:PersistentLevel.BP_PistolPickup_C_3
+[2025.06.14-18.57.30:699][277]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.06.14-18.57.30:706][277]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.06.14-18.57.30:706][277]LogPlayLevel: Creating play world package: /Game/ActualGame/UEDPIE_0_GameLevel
+[2025.06.14-18.57.30:707][277]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001066s)
+[2025.06.14-18.57.30:707][277]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ActualGame/GameLevel.GameLevel to /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel (0.001104s)
+[2025.06.14-18.57.30:735][277]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2025.06.14-18.57.30:738][277]LogChaosDD: Creating Chaos Debug Draw Scene for world GameLevel
+[2025.06.14-18.57.30:740][277]LogPlayLevel: PIE: World Init took: (0.001605s)
+[2025.06.14-18.57.30:740][277]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2025.06.14-18.57.30:740][277]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.06.14-18.57.30:740][277]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.06.14-18.57.30:740][277]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.06.14-18.57.30:740][277]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.06.14-18.57.30:740][277]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.06.14-18.57.30:740][277]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.06.14-18.57.30:740][277]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.06.14-18.57.30:740][277]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.06.14-18.57.30:740][277]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.06.14-18.57.30:740][277]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.06.14-18.57.30:740][277]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.06.14-18.57.30:743][277]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.06.14-18.57.30:795][277]LogAudioMixer: Display: Using Audio Hardware Device Speakers (3- Logitech PRO X Wireless Gaming Headset)
+[2025.06.14-18.57.30:795][277]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.06.14-18.57.30:795][277]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.06.14-18.57.30:795][277]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.06.14-18.57.30:797][277]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2025.06.14-18.57.30:797][277]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=3
+[2025.06.14-18.57.30:799][277]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2025.06.14-18.57.30:799][277]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2025.06.14-18.57.30:799][277]LogInit: FAudioDevice initialized with ID 3.
+[2025.06.14-18.57.30:799][277]LogAudio: Display: Audio Device (ID: 3) registered with world 'GameLevel'.
+[2025.06.14-18.57.30:799][277]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2025.06.14-18.57.30:803][277]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.06.14-18.57.30:812][277]LogWorld: Bringing World /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel up for play (max tick rate 0) at 2025.06.14-14.57.30
+[2025.06.14-18.57.30:812][277]LogWorld: Bringing up level for play took: 0.000296
+[2025.06.14-18.57.30:814][277]LogOnline: OSS: Created online subsystem instance for: :Context_24
+[2025.06.14-18.57.30:819][277]PIE: Server logged in
+[2025.06.14-18.57.30:821][277]PIE: Play in editor total start time 0.115 seconds.
+[2025.06.14-18.57.31:074][279]LogPSOHitching: Encountered 650 PSO creation hitches so far (180 graphics, 470 compute). 0 of them were precached.
+[2025.06.14-18.57.35:268][449]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2025.06.14-18.57.35:268][449]LogScript: Warning: Accessed None trying to read (real) property Current weapon in BP_ThirdPersonCharacter_C
+	BP_ThirdPersonCharacter_C /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.BP_ThirdPersonCharacter_C_0
+	Function /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter:048F
+[2025.06.14-18.57.35:268][449]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Current weapon in BP_ThirdPersonCharacter_C". Node:  Switch on Enum_weaponName Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Character Blueprint:  BP_ThirdPersonCharacter
+[2025.06.14-18.57.35:281][450]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter'!
+[2025.06.14-18.57.35:281][450]LogScript: Warning: Script Msg called by: BP_ThirdPersonCharacter_C /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2025.06.14-18.57.35:292][451]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter'!
+[2025.06.14-18.57.35:292][451]LogScript: Warning: Script Msg called by: BP_ThirdPersonCharacter_C /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2025.06.14-18.57.35:305][452]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter'!
+[2025.06.14-18.57.35:305][452]LogScript: Warning: Script Msg called by: BP_ThirdPersonCharacter_C /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2025.06.14-18.57.35:320][453]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter'!
+[2025.06.14-18.57.35:320][453]LogScript: Warning: Script Msg called by: BP_ThirdPersonCharacter_C /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2025.06.14-18.57.37:396][603]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter'!
+[2025.06.14-18.57.37:396][603]LogScript: Warning: Script Msg called by: BP_ThirdPersonCharacter_C /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2025.06.14-18.57.37:407][604]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter'!
+[2025.06.14-18.57.37:407][604]LogScript: Warning: Script Msg called by: BP_ThirdPersonCharacter_C /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2025.06.14-18.57.37:420][605]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter'!
+[2025.06.14-18.57.37:420][605]LogScript: Warning: Script Msg called by: BP_ThirdPersonCharacter_C /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2025.06.14-18.57.37:433][606]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter'!
+[2025.06.14-18.57.37:433][606]LogScript: Warning: Script Msg called by: BP_ThirdPersonCharacter_C /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2025.06.14-18.57.37:448][607]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter'!
+[2025.06.14-18.57.37:448][607]LogScript: Warning: Script Msg called by: BP_ThirdPersonCharacter_C /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2025.06.14-18.57.37:459][608]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter'!
+[2025.06.14-18.57.37:459][608]LogScript: Warning: Script Msg called by: BP_ThirdPersonCharacter_C /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2025.06.14-18.57.37:472][609]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter'!
+[2025.06.14-18.57.37:472][609]LogScript: Warning: Script Msg called by: BP_ThirdPersonCharacter_C /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2025.06.14-18.57.38:084][657]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter'!
+[2025.06.14-18.57.38:086][657]LogScript: Warning: Script Msg called by: BP_ThirdPersonCharacter_C /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2025.06.14-18.57.38:098][658]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter'!
+[2025.06.14-18.57.38:098][658]LogScript: Warning: Script Msg called by: BP_ThirdPersonCharacter_C /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2025.06.14-18.57.38:110][659]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter'!
+[2025.06.14-18.57.38:110][659]LogScript: Warning: Script Msg called by: BP_ThirdPersonCharacter_C /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2025.06.14-18.57.38:123][660]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter'!
+[2025.06.14-18.57.38:123][660]LogScript: Warning: Script Msg called by: BP_ThirdPersonCharacter_C /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2025.06.14-18.57.38:136][661]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter'!
+[2025.06.14-18.57.38:136][661]LogScript: Warning: Script Msg called by: BP_ThirdPersonCharacter_C /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2025.06.14-18.57.38:148][662]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter'!
+[2025.06.14-18.57.38:148][662]LogScript: Warning: Script Msg called by: BP_ThirdPersonCharacter_C /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2025.06.14-18.57.38:162][663]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter'!
+[2025.06.14-18.57.38:162][663]LogScript: Warning: Script Msg called by: BP_ThirdPersonCharacter_C /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2025.06.14-18.57.38:806][712]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2025.06.14-18.57.38:806][712]LogScript: Warning: Accessed None trying to read (real) property Current weapon in BP_ThirdPersonCharacter_C
+	BP_ThirdPersonCharacter_C /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.BP_ThirdPersonCharacter_C_0
+	Function /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter:048F
+[2025.06.14-18.57.38:806][712]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Current weapon in BP_ThirdPersonCharacter_C". Node:  Switch on Enum_weaponName Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Character Blueprint:  BP_ThirdPersonCharacter
+[2025.06.14-18.57.38:820][713]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter'!
+[2025.06.14-18.57.38:820][713]LogScript: Warning: Script Msg called by: BP_ThirdPersonCharacter_C /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2025.06.14-18.57.38:834][714]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter'!
+[2025.06.14-18.57.38:835][714]LogScript: Warning: Script Msg called by: BP_ThirdPersonCharacter_C /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2025.06.14-18.57.38:849][715]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter'!
+[2025.06.14-18.57.38:849][715]LogScript: Warning: Script Msg called by: BP_ThirdPersonCharacter_C /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2025.06.14-18.57.38:861][716]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter'!
+[2025.06.14-18.57.38:861][716]LogScript: Warning: Script Msg called by: BP_ThirdPersonCharacter_C /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2025.06.14-18.57.38:872][717]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter'!
+[2025.06.14-18.57.38:873][717]LogScript: Warning: Script Msg called by: BP_ThirdPersonCharacter_C /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2025.06.14-18.57.38:885][718]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter'!
+[2025.06.14-18.57.38:885][718]LogScript: Warning: Script Msg called by: BP_ThirdPersonCharacter_C /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2025.06.14-18.57.38:897][719]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter'!
+[2025.06.14-18.57.38:897][719]LogScript: Warning: Script Msg called by: BP_ThirdPersonCharacter_C /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2025.06.14-18.57.51:158][587]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.14-18.57.51:158][587]LogWorld: BeginTearingDown for /Game/ActualGame/UEDPIE_0_GameLevel
+[2025.06.14-18.57.51:159][587]LogWorld: UWorld::CleanupWorld for GameLevel, bSessionEnded=true, bCleanupResources=true
+[2025.06.14-18.57.51:159][587]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.14-18.57.51:160][587]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.06.14-18.57.51:165][587]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.14-18.57.51:190][587]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.06.14-18.57.51:190][587]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2025.06.14-18.57.51:190][587]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3, StreamState=4
+[2025.06.14-18.57.51:192][587]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3, StreamState=2
+[2025.06.14-18.57.51:196][587]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.14-18.57.51:200][587]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.06.14-18.57.51:388][588]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2025.06.14-18.57.51:415][588]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2025.06.14-18.59.11:155][111]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2025.06.14-18.59.12:028][155]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.14-18.59.12:066][155]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.06.14-18.59.12:110][155]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2025.06.14-18.59.12:110][155]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2025.06.14-18.59.12:136][155]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2025.06.14-18.59.12:136][155]LogSavePackage: Moving '../../../../../../Unreal engine projects/GameParadeJam/Saved/BP_ThirdPersonCharacterB55978BB4F70ECFE0C41BF84AFCC3724.tmp' to '../../../../../../Unreal engine projects/GameParadeJam/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2025.06.14-18.59.12:147][155]LogFileHelpers: InternalPromptForCheckoutAndSave took 118.863 ms (total: 2.96 sec)
+[2025.06.14-18.59.12:198][155]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.14-18.59.12:198][155]LogContentValidation: Enabled validators:
+[2025.06.14-18.59.12:198][155]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.14-18.59.12:198][155]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.14-18.59.12:198][155]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.14-18.59.12:198][155]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.14-18.59.12:198][155]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.14-18.59.12:198][155]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.14-18.59.12:198][155]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2025.06.14-18.59.15:100][318]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.06.14-18.59.15:107][318]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.06.14-18.59.15:107][318]LogPlayLevel: Creating play world package: /Game/ActualGame/UEDPIE_0_GameLevel
+[2025.06.14-18.59.15:108][318]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000934s)
+[2025.06.14-18.59.15:108][318]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ActualGame/GameLevel.GameLevel to /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel (0.000963s)
+[2025.06.14-18.59.15:132][318]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.06.14-18.59.15:136][318]LogChaosDD: Creating Chaos Debug Draw Scene for world GameLevel
+[2025.06.14-18.59.15:138][318]LogPlayLevel: PIE: World Init took: (0.001562s)
+[2025.06.14-18.59.15:138][318]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2025.06.14-18.59.15:138][318]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.06.14-18.59.15:138][318]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.06.14-18.59.15:138][318]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.06.14-18.59.15:138][318]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.06.14-18.59.15:138][318]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.06.14-18.59.15:138][318]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.06.14-18.59.15:138][318]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.06.14-18.59.15:138][318]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.06.14-18.59.15:138][318]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.06.14-18.59.15:138][318]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.06.14-18.59.15:138][318]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.06.14-18.59.15:140][318]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.06.14-18.59.15:191][318]LogAudioMixer: Display: Using Audio Hardware Device Speakers (3- Logitech PRO X Wireless Gaming Headset)
+[2025.06.14-18.59.15:191][318]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.06.14-18.59.15:192][318]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.06.14-18.59.15:192][318]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.06.14-18.59.15:192][318]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2025.06.14-18.59.15:192][318]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=4
+[2025.06.14-18.59.15:194][318]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2025.06.14-18.59.15:194][318]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2025.06.14-18.59.15:194][318]LogInit: FAudioDevice initialized with ID 4.
+[2025.06.14-18.59.15:194][318]LogAudio: Display: Audio Device (ID: 4) registered with world 'GameLevel'.
+[2025.06.14-18.59.15:194][318]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2025.06.14-18.59.15:204][318]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.06.14-18.59.15:217][318]LogWorld: Bringing World /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel up for play (max tick rate 0) at 2025.06.14-14.59.15
+[2025.06.14-18.59.15:217][318]LogWorld: Bringing up level for play took: 0.000477
+[2025.06.14-18.59.15:219][318]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2025.06.14-18.59.15:223][318]PIE: Server logged in
+[2025.06.14-18.59.15:226][318]PIE: Play in editor total start time 0.119 seconds.
+[2025.06.14-18.59.20:321][543]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2025.06.14-18.59.20:321][543]LogScript: Warning: Accessed None trying to read (real) property Current weapon in BP_ThirdPersonCharacter_C
+	BP_ThirdPersonCharacter_C /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.BP_ThirdPersonCharacter_C_0
+	Function /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter:048F
+[2025.06.14-18.59.20:321][543]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Current weapon in BP_ThirdPersonCharacter_C". Node:  Switch on Enum_weaponName Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Character Blueprint:  BP_ThirdPersonCharacter
+[2025.06.14-18.59.20:321][543]LogScript: Warning: Accessed None trying to read (real) property Current weapon in BP_ThirdPersonCharacter_C
+	BP_ThirdPersonCharacter_C /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.BP_ThirdPersonCharacter_C_0
+	Function /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter:04D3
+[2025.06.14-18.59.20:321][543]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Current weapon in BP_ThirdPersonCharacter_C". Node:  Switch on Enum_weaponName Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Character Blueprint:  BP_ThirdPersonCharacter
+[2025.06.14-18.59.20:335][544]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter'!
+[2025.06.14-18.59.20:335][544]LogScript: Warning: Script Msg called by: BP_ThirdPersonCharacter_C /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2025.06.14-18.59.20:351][545]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter'!
+[2025.06.14-18.59.20:351][545]LogScript: Warning: Script Msg called by: BP_ThirdPersonCharacter_C /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2025.06.14-18.59.20:374][546]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter'!
+[2025.06.14-18.59.20:374][546]LogScript: Warning: Script Msg called by: BP_ThirdPersonCharacter_C /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2025.06.14-18.59.20:382][547]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter'!
+[2025.06.14-18.59.20:382][547]LogScript: Warning: Script Msg called by: BP_ThirdPersonCharacter_C /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2025.06.14-18.59.23:604][676]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2025.06.14-18.59.23:604][676]LogScript: Warning: Accessed None trying to read (real) property Current weapon in BP_ThirdPersonCharacter_C
+	BP_ThirdPersonCharacter_C /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.BP_ThirdPersonCharacter_C_0
+	Function /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter:048F
+[2025.06.14-18.59.23:604][676]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Current weapon in BP_ThirdPersonCharacter_C". Node:  Switch on Enum_weaponName Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Character Blueprint:  BP_ThirdPersonCharacter
+[2025.06.14-18.59.23:604][676]LogScript: Warning: Accessed None trying to read (real) property Current weapon in BP_ThirdPersonCharacter_C
+	BP_ThirdPersonCharacter_C /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.BP_ThirdPersonCharacter_C_0
+	Function /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter:04D3
+[2025.06.14-18.59.23:604][676]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Current weapon in BP_ThirdPersonCharacter_C". Node:  Switch on Enum_weaponName Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Character Blueprint:  BP_ThirdPersonCharacter
+[2025.06.14-18.59.23:619][677]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter'!
+[2025.06.14-18.59.23:619][677]LogScript: Warning: Script Msg called by: BP_ThirdPersonCharacter_C /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2025.06.14-18.59.23:634][678]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter'!
+[2025.06.14-18.59.23:634][678]LogScript: Warning: Script Msg called by: BP_ThirdPersonCharacter_C /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2025.06.14-18.59.23:649][679]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter'!
+[2025.06.14-18.59.23:649][679]LogScript: Warning: Script Msg called by: BP_ThirdPersonCharacter_C /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2025.06.14-18.59.23:664][680]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter'!
+[2025.06.14-18.59.23:664][680]LogScript: Warning: Script Msg called by: BP_ThirdPersonCharacter_C /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2025.06.14-18.59.23:897][697]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.14-18.59.23:897][697]LogWorld: BeginTearingDown for /Game/ActualGame/UEDPIE_0_GameLevel
+[2025.06.14-18.59.23:898][697]LogWorld: UWorld::CleanupWorld for GameLevel, bSessionEnded=true, bCleanupResources=true
+[2025.06.14-18.59.23:898][697]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.14-18.59.23:899][697]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.06.14-18.59.23:904][697]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.14-18.59.23:929][697]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.06.14-18.59.23:929][697]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2025.06.14-18.59.23:929][697]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4, StreamState=4
+[2025.06.14-18.59.23:930][697]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4, StreamState=2
+[2025.06.14-18.59.23:933][697]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.14-18.59.23:937][697]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2025.06.14-18.59.24:064][698]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2025.06.14-18.59.24:090][698]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.06.14-19.00.18:065][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2025.06.14-19.00.18:700][111]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.14-19.00.18:767][111]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.06.14-19.00.18:810][111]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2025.06.14-19.00.18:810][111]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2025.06.14-19.00.18:836][111]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2025.06.14-19.00.18:837][111]LogSavePackage: Moving '../../../../../../Unreal engine projects/GameParadeJam/Saved/BP_ThirdPersonCharacterD15B50C64E767DE81F4A46801323DAF5.tmp' to '../../../../../../Unreal engine projects/GameParadeJam/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2025.06.14-19.00.18:846][111]LogFileHelpers: InternalPromptForCheckoutAndSave took 146.547 ms (total: 3.11 sec)
+[2025.06.14-19.00.18:898][111]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.14-19.00.18:898][111]LogContentValidation: Enabled validators:
+[2025.06.14-19.00.18:898][111]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.14-19.00.18:898][111]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.14-19.00.18:898][111]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.14-19.00.18:898][111]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.14-19.00.18:898][111]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.14-19.00.18:898][111]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.14-19.00.18:898][111]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2025.06.14-19.00.25:186][529]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.06.14-19.00.25:731][556]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.14-19.00.25:782][556]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.06.14-19.00.25:824][556]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2025.06.14-19.00.25:824][556]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2025.06.14-19.00.25:850][556]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2025.06.14-19.00.25:851][556]LogSavePackage: Moving '../../../../../../Unreal engine projects/GameParadeJam/Saved/BP_ThirdPersonCharacterB5EAEA7A4F3BBAC4AB35188EFC9716BE.tmp' to '../../../../../../Unreal engine projects/GameParadeJam/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2025.06.14-19.00.25:861][556]LogFileHelpers: InternalPromptForCheckoutAndSave took 130.608 ms (total: 3.24 sec)
+[2025.06.14-19.00.25:915][556]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.14-19.00.25:915][556]LogContentValidation: Enabled validators:
+[2025.06.14-19.00.25:915][556]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.14-19.00.25:915][556]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.14-19.00.25:915][556]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.14-19.00.25:915][556]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.14-19.00.25:915][556]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.14-19.00.25:915][556]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.14-19.00.25:916][556]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2025.06.14-19.00.27:224][643]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.06.14-19.00.27:230][643]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.06.14-19.00.27:230][643]LogPlayLevel: Creating play world package: /Game/ActualGame/UEDPIE_0_GameLevel
+[2025.06.14-19.00.27:231][643]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001157s)
+[2025.06.14-19.00.27:231][643]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ActualGame/GameLevel.GameLevel to /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel (0.001189s)
+[2025.06.14-19.00.27:258][643]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.06.14-19.00.27:262][643]LogChaosDD: Creating Chaos Debug Draw Scene for world GameLevel
+[2025.06.14-19.00.27:263][643]LogPlayLevel: PIE: World Init took: (0.001568s)
+[2025.06.14-19.00.27:264][643]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2025.06.14-19.00.27:264][643]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.06.14-19.00.27:264][643]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.06.14-19.00.27:264][643]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.06.14-19.00.27:264][643]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.06.14-19.00.27:264][643]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.06.14-19.00.27:264][643]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.06.14-19.00.27:264][643]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.06.14-19.00.27:264][643]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.06.14-19.00.27:264][643]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.06.14-19.00.27:264][643]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.06.14-19.00.27:264][643]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.06.14-19.00.27:265][643]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.06.14-19.00.27:323][643]LogAudioMixer: Display: Using Audio Hardware Device Speakers (3- Logitech PRO X Wireless Gaming Headset)
+[2025.06.14-19.00.27:323][643]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.06.14-19.00.27:324][643]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.06.14-19.00.27:324][643]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.06.14-19.00.27:324][643]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2025.06.14-19.00.27:324][643]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=5
+[2025.06.14-19.00.27:327][643]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2025.06.14-19.00.27:327][643]LogInit: FAudioDevice initialized with ID 5.
+[2025.06.14-19.00.27:327][643]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2025.06.14-19.00.27:327][643]LogAudio: Display: Audio Device (ID: 5) registered with world 'GameLevel'.
+[2025.06.14-19.00.27:327][643]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2025.06.14-19.00.27:335][643]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.06.14-19.00.27:348][643]LogWorld: Bringing World /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel up for play (max tick rate 0) at 2025.06.14-15.00.27
+[2025.06.14-19.00.27:348][643]LogWorld: Bringing up level for play took: 0.000317
+[2025.06.14-19.00.27:350][643]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2025.06.14-19.00.27:354][643]PIE: Server logged in
+[2025.06.14-19.00.27:357][643]PIE: Play in editor total start time 0.126 seconds.
+[2025.06.14-19.00.31:414][766]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter'!
+[2025.06.14-19.00.31:414][766]LogScript: Warning: Script Msg called by: BP_ThirdPersonCharacter_C /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2025.06.14-19.00.31:429][767]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter'!
+[2025.06.14-19.00.31:429][767]LogScript: Warning: Script Msg called by: BP_ThirdPersonCharacter_C /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2025.06.14-19.00.31:445][768]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter'!
+[2025.06.14-19.00.31:445][768]LogScript: Warning: Script Msg called by: BP_ThirdPersonCharacter_C /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2025.06.14-19.00.31:459][769]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter'!
+[2025.06.14-19.00.31:460][769]LogScript: Warning: Script Msg called by: BP_ThirdPersonCharacter_C /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2025.06.14-19.00.31:473][770]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter'!
+[2025.06.14-19.00.31:473][770]LogScript: Warning: Script Msg called by: BP_ThirdPersonCharacter_C /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2025.06.14-19.00.32:001][804]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter'!
+[2025.06.14-19.00.32:001][804]LogScript: Warning: Script Msg called by: BP_ThirdPersonCharacter_C /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2025.06.14-19.00.32:017][805]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter'!
+[2025.06.14-19.00.32:017][805]LogScript: Warning: Script Msg called by: BP_ThirdPersonCharacter_C /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2025.06.14-19.00.32:039][806]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter'!
+[2025.06.14-19.00.32:039][806]LogScript: Warning: Script Msg called by: BP_ThirdPersonCharacter_C /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2025.06.14-19.00.32:056][807]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter'!
+[2025.06.14-19.00.32:056][807]LogScript: Warning: Script Msg called by: BP_ThirdPersonCharacter_C /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2025.06.14-19.00.32:069][808]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter'!
+[2025.06.14-19.00.32:069][808]LogScript: Warning: Script Msg called by: BP_ThirdPersonCharacter_C /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2025.06.14-19.00.32:636][844]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2025.06.14-19.00.32:636][844]LogScript: Warning: Accessed None trying to read (real) property Current weapon in BP_ThirdPersonCharacter_C
+	BP_ThirdPersonCharacter_C /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.BP_ThirdPersonCharacter_C_0
+	Function /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter:087F
+[2025.06.14-19.00.32:636][844]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Current weapon in BP_ThirdPersonCharacter_C". Node:  Attach Actor To Component Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Character Blueprint:  BP_ThirdPersonCharacter
+[2025.06.14-19.00.32:658][845]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter'!
+[2025.06.14-19.00.32:658][845]LogScript: Warning: Script Msg called by: BP_ThirdPersonCharacter_C /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2025.06.14-19.00.32:672][846]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter'!
+[2025.06.14-19.00.32:672][846]LogScript: Warning: Script Msg called by: BP_ThirdPersonCharacter_C /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2025.06.14-19.00.32:684][847]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter'!
+[2025.06.14-19.00.32:684][847]LogScript: Warning: Script Msg called by: BP_ThirdPersonCharacter_C /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2025.06.14-19.00.32:704][848]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter'!
+[2025.06.14-19.00.32:706][848]LogScript: Warning: Script Msg called by: BP_ThirdPersonCharacter_C /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2025.06.14-19.00.32:717][849]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter'!
+[2025.06.14-19.00.32:717][849]LogScript: Warning: Script Msg called by: BP_ThirdPersonCharacter_C /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2025.06.14-19.00.34:343][955]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2025.06.14-19.00.34:343][955]LogScript: Warning: Accessed None trying to read (real) property Current weapon in BP_ThirdPersonCharacter_C
+	BP_ThirdPersonCharacter_C /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.BP_ThirdPersonCharacter_C_0
+	Function /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter:087F
+[2025.06.14-19.00.34:343][955]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Current weapon in BP_ThirdPersonCharacter_C". Node:  Attach Actor To Component Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Character Blueprint:  BP_ThirdPersonCharacter
+[2025.06.14-19.00.34:358][956]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter'!
+[2025.06.14-19.00.34:358][956]LogScript: Warning: Script Msg called by: BP_ThirdPersonCharacter_C /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2025.06.14-19.00.34:374][957]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter'!
+[2025.06.14-19.00.34:374][957]LogScript: Warning: Script Msg called by: BP_ThirdPersonCharacter_C /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2025.06.14-19.00.34:389][958]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter'!
+[2025.06.14-19.00.34:389][958]LogScript: Warning: Script Msg called by: BP_ThirdPersonCharacter_C /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2025.06.14-19.00.34:412][959]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter'!
+[2025.06.14-19.00.34:412][959]LogScript: Warning: Script Msg called by: BP_ThirdPersonCharacter_C /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2025.06.14-19.00.35:647][ 38]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.14-19.00.35:647][ 38]LogWorld: BeginTearingDown for /Game/ActualGame/UEDPIE_0_GameLevel
+[2025.06.14-19.00.35:649][ 38]LogWorld: UWorld::CleanupWorld for GameLevel, bSessionEnded=true, bCleanupResources=true
+[2025.06.14-19.00.35:649][ 38]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.14-19.00.35:650][ 38]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.06.14-19.00.35:656][ 38]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.14-19.00.35:680][ 38]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.06.14-19.00.35:680][ 38]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2025.06.14-19.00.35:680][ 38]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5, StreamState=4
+[2025.06.14-19.00.35:682][ 38]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5, StreamState=2
+[2025.06.14-19.00.35:685][ 38]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.14-19.00.35:689][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2025.06.14-19.00.35:870][ 39]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2025.06.14-19.00.35:895][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2025.06.14-19.00.35:975][ 39]LogPSOHitching: Encountered 700 PSO creation hitches so far (187 graphics, 513 compute). 0 of them were precached.
+[2025.06.14-19.00.48:512][659]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.14-19.00.48:599][659]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Mannequins/Meshes/SK_Mannequin] ([1] browsable assets)...
+[2025.06.14-19.00.48:599][659]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequins/Meshes/SK_Mannequin]
+[2025.06.14-19.00.48:617][659]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Meshes/SK_Mannequin
+[2025.06.14-19.00.48:617][659]LogSavePackage: Moving '../../../../../../Unreal engine projects/GameParadeJam/Saved/SK_Mannequin55B97027469D0861AEBD6B81841D295A.tmp' to '../../../../../../Unreal engine projects/GameParadeJam/Content/Characters/Mannequins/Meshes/SK_Mannequin.uasset'
+[2025.06.14-19.00.48:629][659]LogFileHelpers: InternalPromptForCheckoutAndSave took 116.939 ms (total: 3.36 sec)
+[2025.06.14-19.00.48:681][659]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.14-19.00.48:681][659]LogContentValidation: Enabled validators:
+[2025.06.14-19.00.48:681][659]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.14-19.00.48:681][659]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.14-19.00.48:681][659]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.14-19.00.48:681][659]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.14-19.00.48:681][659]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.14-19.00.48:681][659]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.14-19.00.48:681][659]AssetCheck: /Game/Characters/Mannequins/Meshes/SK_Mannequin Validating asset
+[2025.06.14-19.00.56:598][978]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.06.14-19.00.56:607][978]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.06.14-19.00.56:607][978]LogPlayLevel: Creating play world package: /Game/ActualGame/UEDPIE_0_GameLevel
+[2025.06.14-19.00.56:609][978]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001506s)
+[2025.06.14-19.00.56:609][978]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ActualGame/GameLevel.GameLevel to /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel (0.001547s)
+[2025.06.14-19.00.56:635][978]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2025.06.14-19.00.56:639][978]LogChaosDD: Creating Chaos Debug Draw Scene for world GameLevel
+[2025.06.14-19.00.56:641][978]LogPlayLevel: PIE: World Init took: (0.001556s)
+[2025.06.14-19.00.56:641][978]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2025.06.14-19.00.56:642][978]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.06.14-19.00.56:642][978]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.06.14-19.00.56:642][978]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.06.14-19.00.56:642][978]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.06.14-19.00.56:642][978]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.06.14-19.00.56:642][978]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.06.14-19.00.56:642][978]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.06.14-19.00.56:642][978]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.06.14-19.00.56:642][978]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.06.14-19.00.56:642][978]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.06.14-19.00.56:642][978]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.06.14-19.00.56:643][978]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.06.14-19.00.56:705][978]LogAudioMixer: Display: Using Audio Hardware Device Speakers (3- Logitech PRO X Wireless Gaming Headset)
+[2025.06.14-19.00.56:706][978]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.06.14-19.00.56:706][978]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.06.14-19.00.56:706][978]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.06.14-19.00.56:706][978]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2025.06.14-19.00.56:706][978]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=6
+[2025.06.14-19.00.56:710][978]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2025.06.14-19.00.56:710][978]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2025.06.14-19.00.56:710][978]LogInit: FAudioDevice initialized with ID 6.
+[2025.06.14-19.00.56:710][978]LogAudio: Display: Audio Device (ID: 6) registered with world 'GameLevel'.
+[2025.06.14-19.00.56:710][978]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2025.06.14-19.00.56:713][978]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.06.14-19.00.56:722][978]LogWorld: Bringing World /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel up for play (max tick rate 0) at 2025.06.14-15.00.56
+[2025.06.14-19.00.56:723][978]LogWorld: Bringing up level for play took: 0.000305
+[2025.06.14-19.00.56:724][978]LogOnline: OSS: Created online subsystem instance for: :Context_27
+[2025.06.14-19.00.56:729][978]PIE: Server logged in
+[2025.06.14-19.00.56:731][978]PIE: Play in editor total start time 0.125 seconds.
+[2025.06.14-19.01.01:291][ 63]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2025.06.14-19.01.01:291][ 63]LogScript: Warning: Accessed None trying to read (real) property Current weapon in BP_ThirdPersonCharacter_C
+	BP_ThirdPersonCharacter_C /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.BP_ThirdPersonCharacter_C_0
+	Function /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter:087F
+[2025.06.14-19.01.01:291][ 63]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Current weapon in BP_ThirdPersonCharacter_C". Node:  Attach Actor To Component Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Character Blueprint:  BP_ThirdPersonCharacter
+[2025.06.14-19.01.01:311][ 64]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter'!
+[2025.06.14-19.01.01:311][ 64]LogScript: Warning: Script Msg called by: BP_ThirdPersonCharacter_C /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2025.06.14-19.01.01:334][ 65]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter'!
+[2025.06.14-19.01.01:334][ 65]LogScript: Warning: Script Msg called by: BP_ThirdPersonCharacter_C /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2025.06.14-19.01.01:356][ 66]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter'!
+[2025.06.14-19.01.01:356][ 66]LogScript: Warning: Script Msg called by: BP_ThirdPersonCharacter_C /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2025.06.14-19.01.02:923][139]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter'!
+[2025.06.14-19.01.02:923][139]LogScript: Warning: Script Msg called by: BP_ThirdPersonCharacter_C /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2025.06.14-19.01.02:944][140]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2025.06.14-19.01.02:944][140]LogScript: Warning: Accessed None trying to read (real) property Current weapon in BP_ThirdPersonCharacter_C
+	BP_ThirdPersonCharacter_C /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.BP_ThirdPersonCharacter_C_0
+	Function /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter:087F
+[2025.06.14-19.01.02:944][140]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Current weapon in BP_ThirdPersonCharacter_C". Node:  Attach Actor To Component Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Character Blueprint:  BP_ThirdPersonCharacter
+[2025.06.14-19.01.02:966][141]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter'!
+[2025.06.14-19.01.02:966][141]LogScript: Warning: Script Msg called by: BP_ThirdPersonCharacter_C /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2025.06.14-19.01.02:989][142]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter'!
+[2025.06.14-19.01.02:990][142]LogScript: Warning: Script Msg called by: BP_ThirdPersonCharacter_C /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2025.06.14-19.01.03:327][156]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.14-19.01.03:328][156]LogWorld: BeginTearingDown for /Game/ActualGame/UEDPIE_0_GameLevel
+[2025.06.14-19.01.03:329][156]LogWorld: UWorld::CleanupWorld for GameLevel, bSessionEnded=true, bCleanupResources=true
+[2025.06.14-19.01.03:329][156]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.14-19.01.03:329][156]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.06.14-19.01.03:334][156]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.14-19.01.03:360][156]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.14-19.01.03:360][156]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2025.06.14-19.01.03:360][156]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6, StreamState=4
+[2025.06.14-19.01.03:362][156]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6, StreamState=2
+[2025.06.14-19.01.03:367][156]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2025.06.14-19.01.03:470][157]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2025.06.14-19.01.03:495][157]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2025.06.14-19.01.06:639][204]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.14-19.01.06:809][204]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2025.06.14-19.01.06:820][204]LogSavePackage: Moving output files for package: /Game/ActualGame/SubLevels/StartingRoom
+[2025.06.14-19.01.06:820][204]LogSavePackage: Moving '../../../../../../Unreal engine projects/GameParadeJam/Saved/StartingRoom446BD3F44AF18DBF5A0B8AACA8F81486.tmp' to '../../../../../../Unreal engine projects/GameParadeJam/Content/ActualGame/SubLevels/StartingRoom.umap'
+[2025.06.14-19.01.06:825][204]LogFileHelpers: Saving map 'StartingRoom' took 0.040
+[2025.06.14-19.01.06:840][204]LogFileHelpers: InternalPromptForCheckoutAndSave took 201.381 ms (total: 3.56 sec)
+[2025.06.14-19.01.06:897][204]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.14-19.01.06:897][204]LogContentValidation: Enabled validators:
+[2025.06.14-19.01.06:897][204]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.14-19.01.06:897][204]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.14-19.01.06:897][204]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.14-19.01.06:897][204]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.14-19.01.06:897][204]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.14-19.01.06:897][204]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.14-19.01.06:897][204]AssetCheck: /Game/ActualGame/SubLevels/StartingRoom Validating asset
+[2025.06.14-19.01.08:706][243]LogSlate: Window 'BP_PistolPickup' being destroyed
+[2025.06.14-19.01.08:715][243]LogSlate: Window 'BP_PistolPickup' being destroyed
+[2025.06.14-19.01.08:721][243]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2025.06.14-19.01.08:721][243]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.14-19.01.08:771][243]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.06.14-19.01.08:771][243]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2025.06.14-19.01.08:771][243]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.14-19.01.08:816][243]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.06.14-19.01.08:816][243]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2025.06.14-19.01.08:816][243]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.14-19.01.08:877][243]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.06.14-19.01.08:877][243]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2025.06.14-19.01.08:877][243]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.14-19.01.08:918][243]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.06.14-19.01.08:918][243]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2025.06.14-19.01.08:918][243]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.14-19.01.09:017][243]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2025.06.14-19.01.09:017][243]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.14-19.01.09:054][243]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2025.06.14-19.01.09:054][243]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.14-19.01.09:096][243]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2025.06.14-19.01.09:096][243]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.14-19.01.09:106][243]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.06.14-19.01.09:106][243]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2025.06.14-19.01.09:106][243]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.14-19.01.09:173][243]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
