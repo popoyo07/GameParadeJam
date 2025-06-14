@@ -3828,3 +3828,1092 @@ FPackageName: Skipped package /Game/Animated_Nebulas_Starter_Pack/Planet_System/
 [2025.06.14-02.51.01:506][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
 [2025.06.14-02.51.01:622][ 22]LogPlayLevel: Display: Destroying online subsystem :Context_27
 [2025.06.14-02.51.01:651][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2025.06.14-02.52.00:544][470]LogSceneOutliner: Outliner Column Item Label does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2025.06.14-02.52.00:544][470]LogSceneOutliner: Outliner Column Type does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2025.06.14-02.52.13:232][369]LogSceneOutliner: Outliner Column Item Label does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2025.06.14-02.52.13:233][369]LogSceneOutliner: Outliner Column Type does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2025.06.14-02.52.30:979][631]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.14-02.52.31:054][631]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ActualGame/GameLevel" FILE="../../../../../../Unreal engine projects/GameParadeJam/Content/ActualGame/GameLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.06.14-02.52.31:096][631]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2025.06.14-02.52.31:114][631]LogSavePackage: Moving output files for package: /Game/ActualGame/GameLevel
+[2025.06.14-02.52.31:114][631]LogSavePackage: Moving '../../../../../../Unreal engine projects/GameParadeJam/Saved/GameLevel0FE1BF614F75735501AFD18D92B3C175.tmp' to '../../../../../../Unreal engine projects/GameParadeJam/Content/ActualGame/GameLevel.umap'
+[2025.06.14-02.52.31:121][631]LogFileHelpers: Saving map 'GameLevel' took 0.066
+[2025.06.14-02.52.31:132][631]LogFileHelpers: InternalPromptForCheckoutAndSave took 153.823 ms (total: 5.33 sec)
+[2025.06.14-02.52.31:201][631]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.14-02.52.31:201][631]LogContentValidation: Enabled validators:
+[2025.06.14-02.52.31:201][631]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.14-02.52.31:201][631]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.14-02.52.31:201][631]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.14-02.52.31:201][631]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.14-02.52.31:201][631]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.14-02.52.31:201][631]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.14-02.52.31:201][631]AssetCheck: /Game/ActualGame/GameLevel Validating asset
+[2025.06.14-02.52.31:504][653]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.06.14-02.52.31:510][653]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.06.14-02.52.31:537][653]LogPlayLevel: Creating play world package: /Game/ActualGame/UEDPIE_0_GameLevel
+[2025.06.14-02.52.31:540][653]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003444s)
+[2025.06.14-02.52.31:540][653]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ActualGame/GameLevel.GameLevel to /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel (0.003487s)
+[2025.06.14-02.52.31:566][653]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.06.14-02.52.31:568][653]LogChaosDD: Creating Chaos Debug Draw Scene for world GameLevel
+[2025.06.14-02.52.31:569][653]LogPlayLevel: PIE: World Init took: (0.001456s)
+[2025.06.14-02.52.31:570][653]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2025.06.14-02.52.31:570][653]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.06.14-02.52.31:570][653]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.06.14-02.52.31:570][653]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.06.14-02.52.31:570][653]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.06.14-02.52.31:570][653]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.06.14-02.52.31:570][653]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.06.14-02.52.31:570][653]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.06.14-02.52.31:570][653]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.06.14-02.52.31:570][653]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.06.14-02.52.31:570][653]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.06.14-02.52.31:570][653]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.06.14-02.52.31:572][653]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.06.14-02.52.31:771][653]LogAudioMixer: Display: Using Audio Hardware Device Speakers (3- Logitech PRO X Wireless Gaming Headset)
+[2025.06.14-02.52.31:772][653]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.06.14-02.52.31:772][653]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.06.14-02.52.31:772][653]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.06.14-02.52.31:772][653]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2025.06.14-02.52.31:772][653]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=12
+[2025.06.14-02.52.31:775][653]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2025.06.14-02.52.31:775][653]LogInit: FAudioDevice initialized with ID 12.
+[2025.06.14-02.52.31:775][653]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2025.06.14-02.52.31:775][653]LogAudio: Display: Audio Device (ID: 12) registered with world 'GameLevel'.
+[2025.06.14-02.52.31:775][653]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2025.06.14-02.52.31:779][653]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.06.14-02.52.31:787][653]LogWorld: Bringing World /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel up for play (max tick rate 0) at 2025.06.13-22.52.31
+[2025.06.14-02.52.31:787][653]LogWorld: Bringing up level for play took: 0.000921
+[2025.06.14-02.52.31:789][653]LogOnline: OSS: Created online subsystem instance for: :Context_28
+[2025.06.14-02.52.31:793][653]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Waypoint' of length 0 in '/Game/ActualGame/BluePrints/TeleportsShuffle.TeleportsShuffle_C'!
+[2025.06.14-02.52.31:793][653]LogScript: Warning: Script Msg called by: TeleportsShuffle_C /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.TeleportsShuffle_C_1
+[2025.06.14-02.52.31:793][653]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Teleporter  in TeleportsShuffle_C". Node:  Set tp Pos Graph:  EventGraph Function:  Execute Ubergraph Teleports Shuffle Blueprint:  TeleportsShuffle
+[2025.06.14-02.52.31:793][653]PIE: Error: Blueprint Runtime Error: "Accessed None attempting to assign variable on an object". Node:  Set tp Pos Graph:  EventGraph Function:  Execute Ubergraph Teleports Shuffle Blueprint:  TeleportsShuffle
+[2025.06.14-02.52.31:793][653]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Teleporter  in TeleportsShuffle_C". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph Teleports Shuffle Blueprint:  TeleportsShuffle
+[2025.06.14-02.52.31:793][653]LogBlueprintUserMessages: [TeleportsShuffle_C_1] 
+[2025.06.14-02.52.31:793][653]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Waypoint' of length 0 in '/Game/ActualGame/BluePrints/TeleportsShuffle.TeleportsShuffle_C'!
+[2025.06.14-02.52.31:793][653]LogScript: Warning: Script Msg called by: TeleportsShuffle_C /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.TeleportsShuffle_C_1
+[2025.06.14-02.52.31:793][653]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Teleporter  in TeleportsShuffle_C". Node:  Set tp Pos Graph:  EventGraph Function:  Execute Ubergraph Teleports Shuffle Blueprint:  TeleportsShuffle
+[2025.06.14-02.52.31:793][653]PIE: Error: Blueprint Runtime Error: "Accessed None attempting to assign variable on an object". Node:  Set tp Pos Graph:  EventGraph Function:  Execute Ubergraph Teleports Shuffle Blueprint:  TeleportsShuffle
+[2025.06.14-02.52.31:793][653]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Teleporter  in TeleportsShuffle_C". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph Teleports Shuffle Blueprint:  TeleportsShuffle
+[2025.06.14-02.52.31:793][653]LogBlueprintUserMessages: [TeleportsShuffle_C_1] 
+[2025.06.14-02.52.31:793][653]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Waypoint' of length 0 in '/Game/ActualGame/BluePrints/TeleportsShuffle.TeleportsShuffle_C'!
+[2025.06.14-02.52.31:793][653]LogScript: Warning: Script Msg called by: TeleportsShuffle_C /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.TeleportsShuffle_C_1
+[2025.06.14-02.52.31:793][653]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Teleporter  in TeleportsShuffle_C". Node:  Set tp Pos Graph:  EventGraph Function:  Execute Ubergraph Teleports Shuffle Blueprint:  TeleportsShuffle
+[2025.06.14-02.52.31:793][653]PIE: Error: Blueprint Runtime Error: "Accessed None attempting to assign variable on an object". Node:  Set tp Pos Graph:  EventGraph Function:  Execute Ubergraph Teleports Shuffle Blueprint:  TeleportsShuffle
+[2025.06.14-02.52.31:793][653]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Teleporter  in TeleportsShuffle_C". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph Teleports Shuffle Blueprint:  TeleportsShuffle
+[2025.06.14-02.52.31:793][653]LogBlueprintUserMessages: [TeleportsShuffle_C_1] 
+[2025.06.14-02.52.31:793][653]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'Waypoint' of length 0 in '/Game/ActualGame/BluePrints/TeleportsShuffle.TeleportsShuffle_C'!
+[2025.06.14-02.52.31:793][653]LogScript: Warning: Script Msg called by: TeleportsShuffle_C /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.TeleportsShuffle_C_1
+[2025.06.14-02.52.31:793][653]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Teleporter  in TeleportsShuffle_C". Node:  Set tp Pos Graph:  EventGraph Function:  Execute Ubergraph Teleports Shuffle Blueprint:  TeleportsShuffle
+[2025.06.14-02.52.31:793][653]PIE: Error: Blueprint Runtime Error: "Accessed None attempting to assign variable on an object". Node:  Set tp Pos Graph:  EventGraph Function:  Execute Ubergraph Teleports Shuffle Blueprint:  TeleportsShuffle
+[2025.06.14-02.52.31:793][653]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Teleporter  in TeleportsShuffle_C". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph Teleports Shuffle Blueprint:  TeleportsShuffle
+[2025.06.14-02.52.31:793][653]LogBlueprintUserMessages: [TeleportsShuffle_C_1] 
+[2025.06.14-02.52.31:793][653]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'Waypoint' of length 0 in '/Game/ActualGame/BluePrints/TeleportsShuffle.TeleportsShuffle_C'!
+[2025.06.14-02.52.31:793][653]LogScript: Warning: Script Msg called by: TeleportsShuffle_C /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.TeleportsShuffle_C_1
+[2025.06.14-02.52.31:793][653]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Teleporter  in TeleportsShuffle_C". Node:  Set tp Pos Graph:  EventGraph Function:  Execute Ubergraph Teleports Shuffle Blueprint:  TeleportsShuffle
+[2025.06.14-02.52.31:793][653]PIE: Error: Blueprint Runtime Error: "Accessed None attempting to assign variable on an object". Node:  Set tp Pos Graph:  EventGraph Function:  Execute Ubergraph Teleports Shuffle Blueprint:  TeleportsShuffle
+[2025.06.14-02.52.31:793][653]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Teleporter  in TeleportsShuffle_C". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph Teleports Shuffle Blueprint:  TeleportsShuffle
+[2025.06.14-02.52.31:793][653]LogBlueprintUserMessages: [TeleportsShuffle_C_1] 
+[2025.06.14-02.52.31:793][653]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'Waypoint' of length 0 in '/Game/ActualGame/BluePrints/TeleportsShuffle.TeleportsShuffle_C'!
+[2025.06.14-02.52.31:793][653]LogScript: Warning: Script Msg called by: TeleportsShuffle_C /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.TeleportsShuffle_C_1
+[2025.06.14-02.52.31:793][653]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Teleporter  in TeleportsShuffle_C". Node:  Set tp Pos Graph:  EventGraph Function:  Execute Ubergraph Teleports Shuffle Blueprint:  TeleportsShuffle
+[2025.06.14-02.52.31:793][653]PIE: Error: Blueprint Runtime Error: "Accessed None attempting to assign variable on an object". Node:  Set tp Pos Graph:  EventGraph Function:  Execute Ubergraph Teleports Shuffle Blueprint:  TeleportsShuffle
+[2025.06.14-02.52.31:793][653]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Teleporter  in TeleportsShuffle_C". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph Teleports Shuffle Blueprint:  TeleportsShuffle
+[2025.06.14-02.52.31:793][653]LogBlueprintUserMessages: [TeleportsShuffle_C_1] 
+[2025.06.14-02.52.31:793][653]LogScript: Warning: Script Msg: Attempted to access index 6 from array 'Waypoint' of length 0 in '/Game/ActualGame/BluePrints/TeleportsShuffle.TeleportsShuffle_C'!
+[2025.06.14-02.52.31:793][653]LogScript: Warning: Script Msg called by: TeleportsShuffle_C /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.TeleportsShuffle_C_1
+[2025.06.14-02.52.31:793][653]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Teleporter  in TeleportsShuffle_C". Node:  Set tp Pos Graph:  EventGraph Function:  Execute Ubergraph Teleports Shuffle Blueprint:  TeleportsShuffle
+[2025.06.14-02.52.31:793][653]PIE: Error: Blueprint Runtime Error: "Accessed None attempting to assign variable on an object". Node:  Set tp Pos Graph:  EventGraph Function:  Execute Ubergraph Teleports Shuffle Blueprint:  TeleportsShuffle
+[2025.06.14-02.52.31:793][653]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Teleporter  in TeleportsShuffle_C". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph Teleports Shuffle Blueprint:  TeleportsShuffle
+[2025.06.14-02.52.31:793][653]LogBlueprintUserMessages: [TeleportsShuffle_C_1] 
+[2025.06.14-02.52.31:793][653]LogScript: Warning: Script Msg: Attempted to access index 7 from array 'Waypoint' of length 0 in '/Game/ActualGame/BluePrints/TeleportsShuffle.TeleportsShuffle_C'!
+[2025.06.14-02.52.31:793][653]LogScript: Warning: Script Msg called by: TeleportsShuffle_C /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.TeleportsShuffle_C_1
+[2025.06.14-02.52.31:793][653]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Teleporter  in TeleportsShuffle_C". Node:  Set tp Pos Graph:  EventGraph Function:  Execute Ubergraph Teleports Shuffle Blueprint:  TeleportsShuffle
+[2025.06.14-02.52.31:793][653]PIE: Error: Blueprint Runtime Error: "Accessed None attempting to assign variable on an object". Node:  Set tp Pos Graph:  EventGraph Function:  Execute Ubergraph Teleports Shuffle Blueprint:  TeleportsShuffle
+[2025.06.14-02.52.31:793][653]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Teleporter  in TeleportsShuffle_C". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph Teleports Shuffle Blueprint:  TeleportsShuffle
+[2025.06.14-02.52.31:793][653]LogBlueprintUserMessages: [TeleportsShuffle_C_1] 
+[2025.06.14-02.52.31:793][653]LogScript: Warning: Script Msg: Attempted to access index 8 from array 'Waypoint' of length 0 in '/Game/ActualGame/BluePrints/TeleportsShuffle.TeleportsShuffle_C'!
+[2025.06.14-02.52.31:793][653]LogScript: Warning: Script Msg called by: TeleportsShuffle_C /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.TeleportsShuffle_C_1
+[2025.06.14-02.52.31:793][653]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Teleporter  in TeleportsShuffle_C". Node:  Set tp Pos Graph:  EventGraph Function:  Execute Ubergraph Teleports Shuffle Blueprint:  TeleportsShuffle
+[2025.06.14-02.52.31:793][653]PIE: Error: Blueprint Runtime Error: "Accessed None attempting to assign variable on an object". Node:  Set tp Pos Graph:  EventGraph Function:  Execute Ubergraph Teleports Shuffle Blueprint:  TeleportsShuffle
+[2025.06.14-02.52.31:795][653]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Teleporter  in TeleportsShuffle_C". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph Teleports Shuffle Blueprint:  TeleportsShuffle
+[2025.06.14-02.52.31:795][653]LogBlueprintUserMessages: [TeleportsShuffle_C_1] 
+[2025.06.14-02.52.31:795][653]LogScript: Warning: Script Msg: Attempted to access index 9 from array 'Waypoint' of length 0 in '/Game/ActualGame/BluePrints/TeleportsShuffle.TeleportsShuffle_C'!
+[2025.06.14-02.52.31:795][653]LogScript: Warning: Script Msg called by: TeleportsShuffle_C /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.TeleportsShuffle_C_1
+[2025.06.14-02.52.31:795][653]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Teleporter  in TeleportsShuffle_C". Node:  Set tp Pos Graph:  EventGraph Function:  Execute Ubergraph Teleports Shuffle Blueprint:  TeleportsShuffle
+[2025.06.14-02.52.31:795][653]PIE: Error: Blueprint Runtime Error: "Accessed None attempting to assign variable on an object". Node:  Set tp Pos Graph:  EventGraph Function:  Execute Ubergraph Teleports Shuffle Blueprint:  TeleportsShuffle
+[2025.06.14-02.52.31:795][653]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Teleporter  in TeleportsShuffle_C". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph Teleports Shuffle Blueprint:  TeleportsShuffle
+[2025.06.14-02.52.31:795][653]LogBlueprintUserMessages: [TeleportsShuffle_C_1] 
+[2025.06.14-02.52.31:796][653]PIE: Server logged in
+[2025.06.14-02.52.31:798][653]PIE: Play in editor total start time 0.288 seconds.
+[2025.06.14-02.52.39:649][876]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.14-02.52.39:649][876]LogWorld: BeginTearingDown for /Game/ActualGame/UEDPIE_0_GameLevel
+[2025.06.14-02.52.39:650][876]LogWorld: UWorld::CleanupWorld for GameLevel, bSessionEnded=true, bCleanupResources=true
+[2025.06.14-02.52.39:650][876]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.14-02.52.39:728][876]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.06.14-02.52.39:736][876]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.14-02.52.39:765][876]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.06.14-02.52.39:765][876]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2025.06.14-02.52.39:765][876]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12, StreamState=4
+[2025.06.14-02.52.39:767][876]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12, StreamState=2
+[2025.06.14-02.52.39:771][876]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.14-02.52.39:776][876]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2025.06.14-02.52.39:893][877]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2025.06.14-02.52.39:919][877]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2025.06.14-02.54.04:923][460]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8555.162109
+[2025.06.14-02.54.05:096][467]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.14-02.54.05:096][467]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8555.260742, Update Interval: 348.119751
+[2025.06.14-02.55.27:496][ 81]LogEditorTransaction: Undo Move Node
+[2025.06.14-02.55.27:691][ 83]LogEditorTransaction: Undo Move Node
+[2025.06.14-02.55.27:910][ 86]LogEditorTransaction: Undo Move Node
+[2025.06.14-02.55.28:095][ 88]LogEditorTransaction: Undo Create Pin Link
+[2025.06.14-02.55.28:259][ 94]LogEditorTransaction: Undo Move Node
+[2025.06.14-02.55.28:485][104]LogEditorTransaction: Undo Create Pin Link
+[2025.06.14-02.55.28:700][113]LogEditorTransaction: Undo Create Pin Link
+[2025.06.14-02.55.28:925][123]LogEditorTransaction: Undo Move Node
+[2025.06.14-02.55.29:148][133]LogEditorTransaction: Undo Add Node
+[2025.06.14-02.55.29:381][143]LogEditorTransaction: Undo Move Node
+[2025.06.14-02.55.29:615][153]LogEditorTransaction: Undo Move Node
+[2025.06.14-02.55.29:843][163]LogEditorTransaction: Undo Break Pin Links
+[2025.06.14-02.55.30:078][173]LogEditorTransaction: Undo Move Node
+[2025.06.14-02.55.30:357][186]LogEditorTransaction: Undo Move Node
+[2025.06.14-02.55.30:661][200]LogEditorTransaction: Undo Move Node
+[2025.06.14-02.55.31:114][220]LogEditorTransaction: Undo Move Node
+[2025.06.14-02.55.31:611][227]LogEditorTransaction: Undo Move Node
+[2025.06.14-02.55.32:242][256]LogEditorTransaction: Undo Move Node
+[2025.06.14-02.55.32:894][291]LogEditorTransaction: Undo Move Node
+[2025.06.14-02.55.33:370][316]LogEditorTransaction: Undo Create Pin Link
+[2025.06.14-02.55.33:824][339]LogEditorTransaction: Undo Add Node
+[2025.06.14-02.55.34:237][360]LogEditorTransaction: Undo Move Node
+[2025.06.14-02.55.34:747][385]LogEditorTransaction: Undo Delete current selection
+[2025.06.14-02.55.35:312][396]LogEditorTransaction: Undo Delete current selection
+[2025.06.14-02.56.19:774][915]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find source file and line number for 'UKismetArrayLibrary::Array_Shuffle' [Element not found.]
+[2025.06.14-02.56.20:110][921]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find source file and line number for 'UKismetArrayLibrary::Array_Shuffle' [The specified module could not be found.]
+[2025.06.14-03.00.46:963][710]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8957.162109
+[2025.06.14-03.00.47:071][716]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.14-03.00.47:071][716]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8957.250977, Update Interval: 353.874939
+[2025.06.14-03.00.59:335][420]LogEditorTransaction: Undo Move Node
+[2025.06.14-03.00.59:538][422]LogEditorTransaction: Undo Create Pin Link
+[2025.06.14-03.00.59:741][424]LogEditorTransaction: Undo Create Pin Link
+[2025.06.14-03.00.59:880][425]LogEditorTransaction: Undo Move Node
+[2025.06.14-03.01.00:055][427]LogEditorTransaction: Undo Create Pin Link
+[2025.06.14-03.01.00:209][430]LogEditorTransaction: Undo Change Bool Pin Value
+[2025.06.14-03.01.00:373][434]LogEditorTransaction: Undo Move Node
+[2025.06.14-03.01.00:540][438]LogEditorTransaction: Undo Move Node
+[2025.06.14-03.01.00:723][443]LogEditorTransaction: Undo Move Node
+[2025.06.14-03.01.00:910][448]LogEditorTransaction: Undo Paste clipboard contents
+[2025.06.14-03.01.01:075][452]LogEditorTransaction: Undo Move Node
+[2025.06.14-03.01.01:260][457]LogEditorTransaction: Undo Move Node
+[2025.06.14-03.01.01:441][462]LogEditorTransaction: Undo Paste clipboard contents
+[2025.06.14-03.01.01:642][468]LogEditorTransaction: Undo Move Node
+[2025.06.14-03.01.01:825][473]LogEditorTransaction: Undo Move Node
+[2025.06.14-03.01.02:024][479]LogEditorTransaction: Undo Break Pin Links
+[2025.06.14-03.01.02:263][487]LogEditorTransaction: Undo Move Node
+[2025.06.14-03.01.02:495][495]LogEditorTransaction: Undo Move Node
+[2025.06.14-03.01.02:821][508]LogEditorTransaction: Undo Add Node
+[2025.06.14-03.01.03:278][528]LogEditorTransaction: Undo Move Node
+[2025.06.14-03.02.34:943][734]LogClass: Warning: Type mismatch in RoomOrder of TeleportsShuffle_C - Previous (IntProperty) Current(ArrayProperty) in package: FObjectReader
+[2025.06.14-03.02.34:999][734]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2025.06.14-03.03.01:862][290]LogClass: Warning: Type mismatch in WaypointOrder of TeleportsShuffle_C - Previous (IntProperty) Current(ArrayProperty) in package: FObjectReader
+[2025.06.14-03.03.01:914][290]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.06.14-03.04.05:685][897]LogSlate: Window 'Delete Variable' being destroyed
+[2025.06.14-03.04.07:919][ 19]LogEditorTransaction: Undo Remove Variable
+[2025.06.14-03.06.14:091][330]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2025.06.14-03.06.15:111][390]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.14-03.06.15:191][390]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ActualGame/BluePrints/TeleportsShuffle] ([2] browsable assets)...
+[2025.06.14-03.06.15:191][390]OBJ SavePackage: Finished generating thumbnails for package [/Game/ActualGame/BluePrints/TeleportsShuffle]
+[2025.06.14-03.06.15:191][390]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ActualGame/BluePrints/TeleportsShuffle" FILE="../../../../../../Unreal engine projects/GameParadeJam/Content/ActualGame/BluePrints/TeleportsShuffle.uasset" SILENT=true
+[2025.06.14-03.06.15:203][390]LogSavePackage: Moving output files for package: /Game/ActualGame/BluePrints/TeleportsShuffle
+[2025.06.14-03.06.15:203][390]LogSavePackage: Moving '../../../../../../Unreal engine projects/GameParadeJam/Saved/TeleportsShuffle82AD16D1479CB8220708949015E4ECD6.tmp' to '../../../../../../Unreal engine projects/GameParadeJam/Content/ActualGame/BluePrints/TeleportsShuffle.uasset'
+[2025.06.14-03.06.15:218][390]LogFileHelpers: InternalPromptForCheckoutAndSave took 106.326 ms (total: 5.44 sec)
+[2025.06.14-03.06.15:272][390]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.14-03.06.15:272][390]LogContentValidation: Enabled validators:
+[2025.06.14-03.06.15:272][390]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.14-03.06.15:272][390]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.14-03.06.15:272][390]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.14-03.06.15:272][390]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.14-03.06.15:272][390]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.14-03.06.15:272][390]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.14-03.06.15:272][390]AssetCheck: /Game/ActualGame/BluePrints/TeleportsShuffle Validating asset
+[2025.06.14-03.06.16:851][486]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.06.14-03.06.16:857][486]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.06.14-03.06.16:857][486]LogPlayLevel: Creating play world package: /Game/ActualGame/UEDPIE_0_GameLevel
+[2025.06.14-03.06.16:861][486]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003355s)
+[2025.06.14-03.06.16:861][486]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ActualGame/GameLevel.GameLevel to /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel (0.003392s)
+[2025.06.14-03.06.16:894][486]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2025.06.14-03.06.16:897][486]LogChaosDD: Creating Chaos Debug Draw Scene for world GameLevel
+[2025.06.14-03.06.16:900][486]LogPlayLevel: PIE: World Init took: (0.001883s)
+[2025.06.14-03.06.16:901][486]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2025.06.14-03.06.16:901][486]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.06.14-03.06.16:901][486]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.06.14-03.06.16:901][486]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.06.14-03.06.16:901][486]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.06.14-03.06.16:901][486]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.06.14-03.06.16:901][486]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.06.14-03.06.16:901][486]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.06.14-03.06.16:901][486]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.06.14-03.06.16:901][486]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.06.14-03.06.16:901][486]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.06.14-03.06.16:901][486]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.06.14-03.06.16:903][486]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.06.14-03.06.17:069][486]LogAudioMixer: Display: Using Audio Hardware Device Speakers (3- Logitech PRO X Wireless Gaming Headset)
+[2025.06.14-03.06.17:069][486]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.06.14-03.06.17:069][486]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.06.14-03.06.17:069][486]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.06.14-03.06.17:070][486]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2025.06.14-03.06.17:070][486]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=13
+[2025.06.14-03.06.17:071][486]LogInit: FAudioDevice initialized with ID 13.
+[2025.06.14-03.06.17:071][486]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2025.06.14-03.06.17:071][486]LogAudio: Display: Audio Device (ID: 13) registered with world 'GameLevel'.
+[2025.06.14-03.06.17:071][486]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2025.06.14-03.06.17:071][486]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2025.06.14-03.06.17:083][486]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.06.14-03.06.17:091][486]LogWorld: Bringing World /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel up for play (max tick rate 0) at 2025.06.13-23.06.17
+[2025.06.14-03.06.17:092][486]LogWorld: Bringing up level for play took: 0.000987
+[2025.06.14-03.06.17:093][486]LogOnline: OSS: Created online subsystem instance for: :Context_29
+[2025.06.14-03.06.17:097][486]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Waypoint' of length 0 in '/Game/ActualGame/BluePrints/TeleportsShuffle.TeleportsShuffle_C'!
+[2025.06.14-03.06.17:097][486]LogScript: Warning: Script Msg called by: TeleportsShuffle_C /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.TeleportsShuffle_C_1
+[2025.06.14-03.06.17:097][486]LogBlueprintUserMessages: [TeleportsShuffle_C_1] Hello
+[2025.06.14-03.06.17:097][486]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Waypoint' of length 0 in '/Game/ActualGame/BluePrints/TeleportsShuffle.TeleportsShuffle_C'!
+[2025.06.14-03.06.17:097][486]LogScript: Warning: Script Msg called by: TeleportsShuffle_C /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.TeleportsShuffle_C_1
+[2025.06.14-03.06.17:097][486]LogBlueprintUserMessages: [TeleportsShuffle_C_1] Hello
+[2025.06.14-03.06.17:097][486]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Waypoint' of length 0 in '/Game/ActualGame/BluePrints/TeleportsShuffle.TeleportsShuffle_C'!
+[2025.06.14-03.06.17:099][486]LogScript: Warning: Script Msg called by: TeleportsShuffle_C /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.TeleportsShuffle_C_1
+[2025.06.14-03.06.17:099][486]LogBlueprintUserMessages: [TeleportsShuffle_C_1] Hello
+[2025.06.14-03.06.17:099][486]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'Waypoint' of length 0 in '/Game/ActualGame/BluePrints/TeleportsShuffle.TeleportsShuffle_C'!
+[2025.06.14-03.06.17:099][486]LogScript: Warning: Script Msg called by: TeleportsShuffle_C /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.TeleportsShuffle_C_1
+[2025.06.14-03.06.17:099][486]LogBlueprintUserMessages: [TeleportsShuffle_C_1] Hello
+[2025.06.14-03.06.17:099][486]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'Waypoint' of length 0 in '/Game/ActualGame/BluePrints/TeleportsShuffle.TeleportsShuffle_C'!
+[2025.06.14-03.06.17:099][486]LogScript: Warning: Script Msg called by: TeleportsShuffle_C /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.TeleportsShuffle_C_1
+[2025.06.14-03.06.17:099][486]LogBlueprintUserMessages: [TeleportsShuffle_C_1] Hello
+[2025.06.14-03.06.17:099][486]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'Waypoint' of length 0 in '/Game/ActualGame/BluePrints/TeleportsShuffle.TeleportsShuffle_C'!
+[2025.06.14-03.06.17:099][486]LogScript: Warning: Script Msg called by: TeleportsShuffle_C /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.TeleportsShuffle_C_1
+[2025.06.14-03.06.17:099][486]LogBlueprintUserMessages: [TeleportsShuffle_C_1] Hello
+[2025.06.14-03.06.17:099][486]LogScript: Warning: Script Msg: Attempted to access index 6 from array 'Waypoint' of length 0 in '/Game/ActualGame/BluePrints/TeleportsShuffle.TeleportsShuffle_C'!
+[2025.06.14-03.06.17:099][486]LogScript: Warning: Script Msg called by: TeleportsShuffle_C /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.TeleportsShuffle_C_1
+[2025.06.14-03.06.17:099][486]LogBlueprintUserMessages: [TeleportsShuffle_C_1] Hello
+[2025.06.14-03.06.17:099][486]LogScript: Warning: Script Msg: Attempted to access index 7 from array 'Waypoint' of length 0 in '/Game/ActualGame/BluePrints/TeleportsShuffle.TeleportsShuffle_C'!
+[2025.06.14-03.06.17:099][486]LogScript: Warning: Script Msg called by: TeleportsShuffle_C /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.TeleportsShuffle_C_1
+[2025.06.14-03.06.17:099][486]LogBlueprintUserMessages: [TeleportsShuffle_C_1] Hello
+[2025.06.14-03.06.17:099][486]LogScript: Warning: Script Msg: Attempted to access index 8 from array 'Waypoint' of length 0 in '/Game/ActualGame/BluePrints/TeleportsShuffle.TeleportsShuffle_C'!
+[2025.06.14-03.06.17:099][486]LogScript: Warning: Script Msg called by: TeleportsShuffle_C /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.TeleportsShuffle_C_1
+[2025.06.14-03.06.17:099][486]LogBlueprintUserMessages: [TeleportsShuffle_C_1] Hello
+[2025.06.14-03.06.17:099][486]LogScript: Warning: Script Msg: Attempted to access index 9 from array 'Waypoint' of length 0 in '/Game/ActualGame/BluePrints/TeleportsShuffle.TeleportsShuffle_C'!
+[2025.06.14-03.06.17:099][486]LogScript: Warning: Script Msg called by: TeleportsShuffle_C /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.TeleportsShuffle_C_1
+[2025.06.14-03.06.17:099][486]LogBlueprintUserMessages: [TeleportsShuffle_C_1] Hello
+[2025.06.14-03.06.17:100][486]PIE: Server logged in
+[2025.06.14-03.06.17:101][486]PIE: Play in editor total start time 0.244 seconds.
+[2025.06.14-03.06.32:777][359]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.14-03.06.32:777][359]LogWorld: BeginTearingDown for /Game/ActualGame/UEDPIE_0_GameLevel
+[2025.06.14-03.06.32:779][359]LogWorld: UWorld::CleanupWorld for GameLevel, bSessionEnded=true, bCleanupResources=true
+[2025.06.14-03.06.32:779][359]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.14-03.06.32:786][359]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.06.14-03.06.32:792][359]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.14-03.06.32:818][359]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.14-03.06.32:820][359]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2025.06.14-03.06.32:820][359]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13, StreamState=4
+[2025.06.14-03.06.32:821][359]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13, StreamState=2
+[2025.06.14-03.06.32:828][359]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2025.06.14-03.06.32:909][360]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2025.06.14-03.06.32:936][360]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.06.14-03.06.59:209][805]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.06.14-03.07.00:565][885]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.14-03.07.00:658][885]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ActualGame/BluePrints/TeleportsShuffle] ([2] browsable assets)...
+[2025.06.14-03.07.00:658][885]OBJ SavePackage: Finished generating thumbnails for package [/Game/ActualGame/BluePrints/TeleportsShuffle]
+[2025.06.14-03.07.00:658][885]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ActualGame/BluePrints/TeleportsShuffle" FILE="../../../../../../Unreal engine projects/GameParadeJam/Content/ActualGame/BluePrints/TeleportsShuffle.uasset" SILENT=true
+[2025.06.14-03.07.00:671][885]LogSavePackage: Moving output files for package: /Game/ActualGame/BluePrints/TeleportsShuffle
+[2025.06.14-03.07.00:672][885]LogSavePackage: Moving '../../../../../../Unreal engine projects/GameParadeJam/Saved/TeleportsShuffle1A3FEB804E8FEA207525D6A23DD4C737.tmp' to '../../../../../../Unreal engine projects/GameParadeJam/Content/ActualGame/BluePrints/TeleportsShuffle.uasset'
+[2025.06.14-03.07.00:685][885]LogFileHelpers: InternalPromptForCheckoutAndSave took 119.555 ms (total: 5.56 sec)
+[2025.06.14-03.07.00:738][885]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.14-03.07.00:738][885]LogContentValidation: Enabled validators:
+[2025.06.14-03.07.00:738][885]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.14-03.07.00:738][885]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.14-03.07.00:738][885]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.14-03.07.00:738][885]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.14-03.07.00:738][885]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.14-03.07.00:738][885]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.14-03.07.00:738][885]AssetCheck: /Game/ActualGame/BluePrints/TeleportsShuffle Validating asset
+[2025.06.14-03.07.01:882][955]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.06.14-03.07.01:888][955]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.06.14-03.07.01:926][955]LogPlayLevel: Creating play world package: /Game/ActualGame/UEDPIE_0_GameLevel
+[2025.06.14-03.07.01:930][955]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003268s)
+[2025.06.14-03.07.01:930][955]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ActualGame/GameLevel.GameLevel to /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel (0.003309s)
+[2025.06.14-03.07.01:958][955]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2025.06.14-03.07.01:963][955]LogChaosDD: Creating Chaos Debug Draw Scene for world GameLevel
+[2025.06.14-03.07.01:964][955]LogPlayLevel: PIE: World Init took: (0.001538s)
+[2025.06.14-03.07.01:965][955]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2025.06.14-03.07.01:965][955]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.06.14-03.07.01:965][955]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.06.14-03.07.01:965][955]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.06.14-03.07.01:965][955]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.06.14-03.07.01:965][955]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.06.14-03.07.01:965][955]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.06.14-03.07.01:965][955]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.06.14-03.07.01:965][955]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.06.14-03.07.01:965][955]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.06.14-03.07.01:965][955]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.06.14-03.07.01:965][955]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.06.14-03.07.01:967][955]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.06.14-03.07.02:052][955]LogAudioMixer: Display: Using Audio Hardware Device Speakers (3- Logitech PRO X Wireless Gaming Headset)
+[2025.06.14-03.07.02:053][955]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.06.14-03.07.02:053][955]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.06.14-03.07.02:053][955]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.06.14-03.07.02:053][955]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2025.06.14-03.07.02:053][955]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=14
+[2025.06.14-03.07.02:056][955]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2025.06.14-03.07.02:056][955]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2025.06.14-03.07.02:056][955]LogInit: FAudioDevice initialized with ID 14.
+[2025.06.14-03.07.02:056][955]LogAudio: Display: Audio Device (ID: 14) registered with world 'GameLevel'.
+[2025.06.14-03.07.02:056][955]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2025.06.14-03.07.02:066][955]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.06.14-03.07.02:075][955]LogWorld: Bringing World /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel up for play (max tick rate 0) at 2025.06.13-23.07.02
+[2025.06.14-03.07.02:076][955]LogWorld: Bringing up level for play took: 0.000926
+[2025.06.14-03.07.02:078][955]LogOnline: OSS: Created online subsystem instance for: :Context_30
+[2025.06.14-03.07.02:082][955]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Waypoint' of length 0 in '/Game/ActualGame/BluePrints/TeleportsShuffle.TeleportsShuffle_C'!
+[2025.06.14-03.07.02:082][955]LogScript: Warning: Script Msg called by: TeleportsShuffle_C /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.TeleportsShuffle_C_1
+[2025.06.14-03.07.02:082][955]LogBlueprintUserMessages: [TeleportsShuffle_C_1] 
+[2025.06.14-03.07.02:082][955]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Waypoint' of length 0 in '/Game/ActualGame/BluePrints/TeleportsShuffle.TeleportsShuffle_C'!
+[2025.06.14-03.07.02:082][955]LogScript: Warning: Script Msg called by: TeleportsShuffle_C /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.TeleportsShuffle_C_1
+[2025.06.14-03.07.02:082][955]LogBlueprintUserMessages: [TeleportsShuffle_C_1] 
+[2025.06.14-03.07.02:082][955]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Waypoint' of length 0 in '/Game/ActualGame/BluePrints/TeleportsShuffle.TeleportsShuffle_C'!
+[2025.06.14-03.07.02:082][955]LogScript: Warning: Script Msg called by: TeleportsShuffle_C /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.TeleportsShuffle_C_1
+[2025.06.14-03.07.02:082][955]LogBlueprintUserMessages: [TeleportsShuffle_C_1] 
+[2025.06.14-03.07.02:082][955]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'Waypoint' of length 0 in '/Game/ActualGame/BluePrints/TeleportsShuffle.TeleportsShuffle_C'!
+[2025.06.14-03.07.02:082][955]LogScript: Warning: Script Msg called by: TeleportsShuffle_C /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.TeleportsShuffle_C_1
+[2025.06.14-03.07.02:082][955]LogBlueprintUserMessages: [TeleportsShuffle_C_1] 
+[2025.06.14-03.07.02:082][955]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'Waypoint' of length 0 in '/Game/ActualGame/BluePrints/TeleportsShuffle.TeleportsShuffle_C'!
+[2025.06.14-03.07.02:082][955]LogScript: Warning: Script Msg called by: TeleportsShuffle_C /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.TeleportsShuffle_C_1
+[2025.06.14-03.07.02:082][955]LogBlueprintUserMessages: [TeleportsShuffle_C_1] 
+[2025.06.14-03.07.02:082][955]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'Waypoint' of length 0 in '/Game/ActualGame/BluePrints/TeleportsShuffle.TeleportsShuffle_C'!
+[2025.06.14-03.07.02:082][955]LogScript: Warning: Script Msg called by: TeleportsShuffle_C /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.TeleportsShuffle_C_1
+[2025.06.14-03.07.02:082][955]LogBlueprintUserMessages: [TeleportsShuffle_C_1] 
+[2025.06.14-03.07.02:082][955]LogScript: Warning: Script Msg: Attempted to access index 6 from array 'Waypoint' of length 0 in '/Game/ActualGame/BluePrints/TeleportsShuffle.TeleportsShuffle_C'!
+[2025.06.14-03.07.02:082][955]LogScript: Warning: Script Msg called by: TeleportsShuffle_C /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.TeleportsShuffle_C_1
+[2025.06.14-03.07.02:082][955]LogBlueprintUserMessages: [TeleportsShuffle_C_1] 
+[2025.06.14-03.07.02:082][955]LogScript: Warning: Script Msg: Attempted to access index 7 from array 'Waypoint' of length 0 in '/Game/ActualGame/BluePrints/TeleportsShuffle.TeleportsShuffle_C'!
+[2025.06.14-03.07.02:082][955]LogScript: Warning: Script Msg called by: TeleportsShuffle_C /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.TeleportsShuffle_C_1
+[2025.06.14-03.07.02:082][955]LogBlueprintUserMessages: [TeleportsShuffle_C_1] 
+[2025.06.14-03.07.02:082][955]LogScript: Warning: Script Msg: Attempted to access index 8 from array 'Waypoint' of length 0 in '/Game/ActualGame/BluePrints/TeleportsShuffle.TeleportsShuffle_C'!
+[2025.06.14-03.07.02:082][955]LogScript: Warning: Script Msg called by: TeleportsShuffle_C /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.TeleportsShuffle_C_1
+[2025.06.14-03.07.02:082][955]LogBlueprintUserMessages: [TeleportsShuffle_C_1] 
+[2025.06.14-03.07.02:082][955]LogScript: Warning: Script Msg: Attempted to access index 9 from array 'Waypoint' of length 0 in '/Game/ActualGame/BluePrints/TeleportsShuffle.TeleportsShuffle_C'!
+[2025.06.14-03.07.02:082][955]LogScript: Warning: Script Msg called by: TeleportsShuffle_C /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.TeleportsShuffle_C_1
+[2025.06.14-03.07.02:082][955]LogBlueprintUserMessages: [TeleportsShuffle_C_1] 
+[2025.06.14-03.07.02:083][955]PIE: Server logged in
+[2025.06.14-03.07.02:085][955]PIE: Play in editor total start time 0.197 seconds.
+[2025.06.14-03.07.06:509][ 35]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.14-03.07.06:509][ 35]LogWorld: BeginTearingDown for /Game/ActualGame/UEDPIE_0_GameLevel
+[2025.06.14-03.07.06:509][ 35]LogWorld: UWorld::CleanupWorld for GameLevel, bSessionEnded=true, bCleanupResources=true
+[2025.06.14-03.07.06:510][ 35]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.14-03.07.06:516][ 35]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.06.14-03.07.06:521][ 35]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.14-03.07.06:548][ 35]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.14-03.07.06:548][ 35]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2025.06.14-03.07.06:550][ 35]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14, StreamState=4
+[2025.06.14-03.07.06:551][ 35]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14, StreamState=2
+[2025.06.14-03.07.06:559][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2025.06.14-03.07.06:646][ 36]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2025.06.14-03.07.06:670][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.06.14-03.07.12:653][322]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2025.06.14-03.07.13:533][374]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.14-03.07.13:608][374]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ActualGame/BluePrints/TeleportsShuffle] ([2] browsable assets)...
+[2025.06.14-03.07.13:608][374]OBJ SavePackage: Finished generating thumbnails for package [/Game/ActualGame/BluePrints/TeleportsShuffle]
+[2025.06.14-03.07.13:608][374]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ActualGame/BluePrints/TeleportsShuffle" FILE="../../../../../../Unreal engine projects/GameParadeJam/Content/ActualGame/BluePrints/TeleportsShuffle.uasset" SILENT=true
+[2025.06.14-03.07.13:620][374]LogSavePackage: Moving output files for package: /Game/ActualGame/BluePrints/TeleportsShuffle
+[2025.06.14-03.07.13:621][374]LogSavePackage: Moving '../../../../../../Unreal engine projects/GameParadeJam/Saved/TeleportsShuffle905BC3DE4A76BCC29EDFA2A2565C79C6.tmp' to '../../../../../../Unreal engine projects/GameParadeJam/Content/ActualGame/BluePrints/TeleportsShuffle.uasset'
+[2025.06.14-03.07.13:635][374]LogFileHelpers: InternalPromptForCheckoutAndSave took 102.846 ms (total: 5.66 sec)
+[2025.06.14-03.07.13:673][374]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.14-03.07.13:673][374]LogContentValidation: Enabled validators:
+[2025.06.14-03.07.13:673][374]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.14-03.07.13:673][374]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.14-03.07.13:673][374]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.14-03.07.13:673][374]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.14-03.07.13:673][374]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.14-03.07.13:673][374]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.14-03.07.13:674][374]AssetCheck: /Game/ActualGame/BluePrints/TeleportsShuffle Validating asset
+[2025.06.14-03.07.14:727][439]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.06.14-03.07.14:732][439]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.06.14-03.07.14:732][439]LogPlayLevel: Creating play world package: /Game/ActualGame/UEDPIE_0_GameLevel
+[2025.06.14-03.07.14:735][439]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002982s)
+[2025.06.14-03.07.14:735][439]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ActualGame/GameLevel.GameLevel to /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel (0.003013s)
+[2025.06.14-03.07.14:767][439]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.06.14-03.07.14:772][439]LogChaosDD: Creating Chaos Debug Draw Scene for world GameLevel
+[2025.06.14-03.07.14:773][439]LogPlayLevel: PIE: World Init took: (0.001628s)
+[2025.06.14-03.07.14:774][439]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2025.06.14-03.07.14:774][439]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.06.14-03.07.14:774][439]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.06.14-03.07.14:774][439]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.06.14-03.07.14:774][439]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.06.14-03.07.14:774][439]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.06.14-03.07.14:774][439]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.06.14-03.07.14:774][439]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.06.14-03.07.14:774][439]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.06.14-03.07.14:774][439]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.06.14-03.07.14:774][439]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.06.14-03.07.14:774][439]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.06.14-03.07.14:776][439]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.06.14-03.07.14:912][439]LogAudioMixer: Display: Using Audio Hardware Device Speakers (3- Logitech PRO X Wireless Gaming Headset)
+[2025.06.14-03.07.14:912][439]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.06.14-03.07.14:912][439]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.06.14-03.07.14:912][439]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.06.14-03.07.14:913][439]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2025.06.14-03.07.14:913][439]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=15
+[2025.06.14-03.07.14:914][439]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2025.06.14-03.07.14:914][439]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2025.06.14-03.07.14:914][439]LogInit: FAudioDevice initialized with ID 15.
+[2025.06.14-03.07.14:914][439]LogAudio: Display: Audio Device (ID: 15) registered with world 'GameLevel'.
+[2025.06.14-03.07.14:914][439]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2025.06.14-03.07.14:925][439]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.06.14-03.07.14:933][439]LogWorld: Bringing World /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel up for play (max tick rate 0) at 2025.06.13-23.07.14
+[2025.06.14-03.07.14:933][439]LogWorld: Bringing up level for play took: 0.000889
+[2025.06.14-03.07.14:936][439]LogOnline: OSS: Created online subsystem instance for: :Context_31
+[2025.06.14-03.07.14:938][439]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Waypoint' of length 0 in '/Game/ActualGame/BluePrints/TeleportsShuffle.TeleportsShuffle_C'!
+[2025.06.14-03.07.14:938][439]LogScript: Warning: Script Msg called by: TeleportsShuffle_C /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.TeleportsShuffle_C_1
+[2025.06.14-03.07.14:938][439]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Waypoint' of length 0 in '/Game/ActualGame/BluePrints/TeleportsShuffle.TeleportsShuffle_C'!
+[2025.06.14-03.07.14:938][439]LogScript: Warning: Script Msg called by: TeleportsShuffle_C /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.TeleportsShuffle_C_1
+[2025.06.14-03.07.14:938][439]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Waypoint' of length 0 in '/Game/ActualGame/BluePrints/TeleportsShuffle.TeleportsShuffle_C'!
+[2025.06.14-03.07.14:938][439]LogScript: Warning: Script Msg called by: TeleportsShuffle_C /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.TeleportsShuffle_C_1
+[2025.06.14-03.07.14:938][439]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'Waypoint' of length 0 in '/Game/ActualGame/BluePrints/TeleportsShuffle.TeleportsShuffle_C'!
+[2025.06.14-03.07.14:938][439]LogScript: Warning: Script Msg called by: TeleportsShuffle_C /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.TeleportsShuffle_C_1
+[2025.06.14-03.07.14:938][439]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'Waypoint' of length 0 in '/Game/ActualGame/BluePrints/TeleportsShuffle.TeleportsShuffle_C'!
+[2025.06.14-03.07.14:938][439]LogScript: Warning: Script Msg called by: TeleportsShuffle_C /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.TeleportsShuffle_C_1
+[2025.06.14-03.07.14:938][439]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'Waypoint' of length 0 in '/Game/ActualGame/BluePrints/TeleportsShuffle.TeleportsShuffle_C'!
+[2025.06.14-03.07.14:938][439]LogScript: Warning: Script Msg called by: TeleportsShuffle_C /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.TeleportsShuffle_C_1
+[2025.06.14-03.07.14:938][439]LogScript: Warning: Script Msg: Attempted to access index 6 from array 'Waypoint' of length 0 in '/Game/ActualGame/BluePrints/TeleportsShuffle.TeleportsShuffle_C'!
+[2025.06.14-03.07.14:938][439]LogScript: Warning: Script Msg called by: TeleportsShuffle_C /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.TeleportsShuffle_C_1
+[2025.06.14-03.07.14:938][439]LogScript: Warning: Script Msg: Attempted to access index 7 from array 'Waypoint' of length 0 in '/Game/ActualGame/BluePrints/TeleportsShuffle.TeleportsShuffle_C'!
+[2025.06.14-03.07.14:938][439]LogScript: Warning: Script Msg called by: TeleportsShuffle_C /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.TeleportsShuffle_C_1
+[2025.06.14-03.07.14:938][439]LogScript: Warning: Script Msg: Attempted to access index 8 from array 'Waypoint' of length 0 in '/Game/ActualGame/BluePrints/TeleportsShuffle.TeleportsShuffle_C'!
+[2025.06.14-03.07.14:938][439]LogScript: Warning: Script Msg called by: TeleportsShuffle_C /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.TeleportsShuffle_C_1
+[2025.06.14-03.07.14:938][439]LogScript: Warning: Script Msg: Attempted to access index 9 from array 'Waypoint' of length 0 in '/Game/ActualGame/BluePrints/TeleportsShuffle.TeleportsShuffle_C'!
+[2025.06.14-03.07.14:938][439]LogScript: Warning: Script Msg called by: TeleportsShuffle_C /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.TeleportsShuffle_C_1
+[2025.06.14-03.07.14:940][439]PIE: Server logged in
+[2025.06.14-03.07.14:942][439]PIE: Play in editor total start time 0.21 seconds.
+[2025.06.14-03.07.18:898][487]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.14-03.07.18:898][487]LogWorld: BeginTearingDown for /Game/ActualGame/UEDPIE_0_GameLevel
+[2025.06.14-03.07.18:898][487]LogWorld: UWorld::CleanupWorld for GameLevel, bSessionEnded=true, bCleanupResources=true
+[2025.06.14-03.07.18:898][487]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.14-03.07.18:904][487]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.06.14-03.07.18:910][487]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.14-03.07.18:938][487]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.14-03.07.18:938][487]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2025.06.14-03.07.18:938][487]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15, StreamState=4
+[2025.06.14-03.07.18:939][487]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15, StreamState=2
+[2025.06.14-03.07.18:947][487]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2025.06.14-03.07.19:023][488]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2025.06.14-03.07.19:052][488]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2025.06.14-03.07.28:720][918]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.06.14-03.07.28:726][918]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.06.14-03.07.28:726][918]LogPlayLevel: Creating play world package: /Game/ActualGame/UEDPIE_0_GameLevel
+[2025.06.14-03.07.28:728][918]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002915s)
+[2025.06.14-03.07.28:729][918]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ActualGame/GameLevel.GameLevel to /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel (0.002947s)
+[2025.06.14-03.07.28:758][918]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2025.06.14-03.07.28:762][918]LogChaosDD: Creating Chaos Debug Draw Scene for world GameLevel
+[2025.06.14-03.07.28:764][918]LogPlayLevel: PIE: World Init took: (0.001728s)
+[2025.06.14-03.07.28:764][918]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2025.06.14-03.07.28:764][918]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.06.14-03.07.28:764][918]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.06.14-03.07.28:764][918]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.06.14-03.07.28:764][918]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.06.14-03.07.28:764][918]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.06.14-03.07.28:764][918]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.06.14-03.07.28:764][918]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.06.14-03.07.28:764][918]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.06.14-03.07.28:764][918]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.06.14-03.07.28:764][918]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.06.14-03.07.28:764][918]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.06.14-03.07.28:767][918]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.06.14-03.07.28:849][918]LogAudioMixer: Display: Using Audio Hardware Device Speakers (3- Logitech PRO X Wireless Gaming Headset)
+[2025.06.14-03.07.28:849][918]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.06.14-03.07.28:849][918]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.06.14-03.07.28:849][918]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.06.14-03.07.28:850][918]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2025.06.14-03.07.28:850][918]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=16
+[2025.06.14-03.07.28:852][918]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2025.06.14-03.07.28:852][918]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2025.06.14-03.07.28:852][918]LogInit: FAudioDevice initialized with ID 16.
+[2025.06.14-03.07.28:852][918]LogAudio: Display: Audio Device (ID: 16) registered with world 'GameLevel'.
+[2025.06.14-03.07.28:852][918]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2025.06.14-03.07.28:863][918]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.06.14-03.07.28:871][918]LogWorld: Bringing World /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel up for play (max tick rate 0) at 2025.06.13-23.07.28
+[2025.06.14-03.07.28:871][918]LogWorld: Bringing up level for play took: 0.000913
+[2025.06.14-03.07.28:873][918]LogOnline: OSS: Created online subsystem instance for: :Context_32
+[2025.06.14-03.07.28:878][918]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Waypoint' of length 0 in '/Game/ActualGame/BluePrints/TeleportsShuffle.TeleportsShuffle_C'!
+[2025.06.14-03.07.28:878][918]LogScript: Warning: Script Msg called by: TeleportsShuffle_C /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.TeleportsShuffle_C_1
+[2025.06.14-03.07.28:878][918]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Waypoint' of length 0 in '/Game/ActualGame/BluePrints/TeleportsShuffle.TeleportsShuffle_C'!
+[2025.06.14-03.07.28:878][918]LogScript: Warning: Script Msg called by: TeleportsShuffle_C /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.TeleportsShuffle_C_1
+[2025.06.14-03.07.28:878][918]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Waypoint' of length 0 in '/Game/ActualGame/BluePrints/TeleportsShuffle.TeleportsShuffle_C'!
+[2025.06.14-03.07.28:878][918]LogScript: Warning: Script Msg called by: TeleportsShuffle_C /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.TeleportsShuffle_C_1
+[2025.06.14-03.07.28:878][918]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'Waypoint' of length 0 in '/Game/ActualGame/BluePrints/TeleportsShuffle.TeleportsShuffle_C'!
+[2025.06.14-03.07.28:878][918]LogScript: Warning: Script Msg called by: TeleportsShuffle_C /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.TeleportsShuffle_C_1
+[2025.06.14-03.07.28:878][918]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'Waypoint' of length 0 in '/Game/ActualGame/BluePrints/TeleportsShuffle.TeleportsShuffle_C'!
+[2025.06.14-03.07.28:878][918]LogScript: Warning: Script Msg called by: TeleportsShuffle_C /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.TeleportsShuffle_C_1
+[2025.06.14-03.07.28:878][918]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'Waypoint' of length 0 in '/Game/ActualGame/BluePrints/TeleportsShuffle.TeleportsShuffle_C'!
+[2025.06.14-03.07.28:878][918]LogScript: Warning: Script Msg called by: TeleportsShuffle_C /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.TeleportsShuffle_C_1
+[2025.06.14-03.07.28:878][918]LogScript: Warning: Script Msg: Attempted to access index 6 from array 'Waypoint' of length 0 in '/Game/ActualGame/BluePrints/TeleportsShuffle.TeleportsShuffle_C'!
+[2025.06.14-03.07.28:878][918]LogScript: Warning: Script Msg called by: TeleportsShuffle_C /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.TeleportsShuffle_C_1
+[2025.06.14-03.07.28:878][918]LogScript: Warning: Script Msg: Attempted to access index 7 from array 'Waypoint' of length 0 in '/Game/ActualGame/BluePrints/TeleportsShuffle.TeleportsShuffle_C'!
+[2025.06.14-03.07.28:878][918]LogScript: Warning: Script Msg called by: TeleportsShuffle_C /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.TeleportsShuffle_C_1
+[2025.06.14-03.07.28:878][918]LogScript: Warning: Script Msg: Attempted to access index 8 from array 'Waypoint' of length 0 in '/Game/ActualGame/BluePrints/TeleportsShuffle.TeleportsShuffle_C'!
+[2025.06.14-03.07.28:878][918]LogScript: Warning: Script Msg called by: TeleportsShuffle_C /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.TeleportsShuffle_C_1
+[2025.06.14-03.07.28:878][918]LogScript: Warning: Script Msg: Attempted to access index 9 from array 'Waypoint' of length 0 in '/Game/ActualGame/BluePrints/TeleportsShuffle.TeleportsShuffle_C'!
+[2025.06.14-03.07.28:878][918]LogScript: Warning: Script Msg called by: TeleportsShuffle_C /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.TeleportsShuffle_C_1
+[2025.06.14-03.07.28:879][918]PIE: Server logged in
+[2025.06.14-03.07.28:880][918]PIE: Play in editor total start time 0.155 seconds.
+[2025.06.14-03.07.32:054][950]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9362.271484
+[2025.06.14-03.07.32:307][953]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.14-03.07.32:308][953]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9362.440430, Update Interval: 357.454773
+[2025.06.14-03.07.45:319][176]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.14-03.07.45:319][176]LogWorld: BeginTearingDown for /Game/ActualGame/UEDPIE_0_GameLevel
+[2025.06.14-03.07.45:319][176]LogWorld: UWorld::CleanupWorld for GameLevel, bSessionEnded=true, bCleanupResources=true
+[2025.06.14-03.07.45:319][176]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.14-03.07.45:324][176]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.06.14-03.07.45:330][176]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.14-03.07.45:356][176]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.14-03.07.45:356][176]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2025.06.14-03.07.45:356][176]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16, StreamState=4
+[2025.06.14-03.07.45:358][176]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16, StreamState=2
+[2025.06.14-03.07.45:365][176]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2025.06.14-03.07.45:446][177]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2025.06.14-03.07.45:474][177]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.06.14-03.08.00:787][ 50]LogSceneOutliner: Outliner Column Item Label does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2025.06.14-03.08.00:787][ 50]LogSceneOutliner: Outliner Column Type does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2025.06.14-03.08.05:191][309]LogSceneOutliner: Outliner Column Item Label does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2025.06.14-03.08.05:191][309]LogSceneOutliner: Outliner Column Type does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2025.06.14-03.09.00:339][600]LogSceneOutliner: Outliner Column Item Label does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2025.06.14-03.09.00:339][600]LogSceneOutliner: Outliner Column Type does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2025.06.14-03.09.04:854][863]LogSceneOutliner: Outliner Column Item Label does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2025.06.14-03.09.04:854][863]LogSceneOutliner: Outliner Column Type does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2025.06.14-03.09.09:337][125]LogSceneOutliner: Outliner Column Item Label does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2025.06.14-03.09.09:337][125]LogSceneOutliner: Outliner Column Type does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2025.06.14-03.09.13:340][357]LogSceneOutliner: Outliner Column Item Label does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2025.06.14-03.09.13:340][357]LogSceneOutliner: Outliner Column Type does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2025.06.14-03.09.16:758][553]LogSceneOutliner: Outliner Column Item Label does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2025.06.14-03.09.16:758][553]LogSceneOutliner: Outliner Column Type does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2025.06.14-03.09.21:820][849]LogSceneOutliner: Outliner Column Item Label does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2025.06.14-03.09.21:821][849]LogSceneOutliner: Outliner Column Type does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2025.06.14-03.09.26:356][115]LogSceneOutliner: Outliner Column Item Label does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2025.06.14-03.09.26:356][115]LogSceneOutliner: Outliner Column Type does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2025.06.14-03.09.31:420][411]LogSceneOutliner: Outliner Column Item Label does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2025.06.14-03.09.31:420][411]LogSceneOutliner: Outliner Column Type does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2025.06.14-03.09.36:921][734]LogSceneOutliner: Outliner Column Item Label does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2025.06.14-03.09.36:922][734]LogSceneOutliner: Outliner Column Type does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2025.06.14-03.09.46:535][301]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.14-03.09.46:623][301]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ActualGame/GameLevel" FILE="../../../../../../Unreal engine projects/GameParadeJam/Content/ActualGame/GameLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.06.14-03.09.46:666][301]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.06.14-03.09.46:692][301]LogSavePackage: Moving output files for package: /Game/ActualGame/GameLevel
+[2025.06.14-03.09.46:692][301]LogSavePackage: Moving '../../../../../../Unreal engine projects/GameParadeJam/Saved/GameLevel005EEDC74C5FDE1C64CD94A40C6F5448.tmp' to '../../../../../../Unreal engine projects/GameParadeJam/Content/ActualGame/GameLevel.umap'
+[2025.06.14-03.09.46:698][301]LogFileHelpers: Saving map 'GameLevel' took 0.075
+[2025.06.14-03.09.46:710][301]LogFileHelpers: InternalPromptForCheckoutAndSave took 174.401 ms (total: 5.84 sec)
+[2025.06.14-03.09.46:771][301]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.14-03.09.46:771][301]LogContentValidation: Enabled validators:
+[2025.06.14-03.09.46:771][301]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.14-03.09.46:771][301]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.14-03.09.46:771][301]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.14-03.09.46:771][301]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.14-03.09.46:771][301]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.14-03.09.46:771][301]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.14-03.09.46:771][301]AssetCheck: /Game/ActualGame/GameLevel Validating asset
+[2025.06.14-03.09.48:052][379]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.06.14-03.09.48:058][379]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.06.14-03.09.48:058][379]LogPlayLevel: Creating play world package: /Game/ActualGame/UEDPIE_0_GameLevel
+[2025.06.14-03.09.48:062][379]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003624s)
+[2025.06.14-03.09.48:062][379]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ActualGame/GameLevel.GameLevel to /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel (0.003656s)
+[2025.06.14-03.09.48:091][379]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2025.06.14-03.09.48:093][379]LogChaosDD: Creating Chaos Debug Draw Scene for world GameLevel
+[2025.06.14-03.09.48:096][379]LogPlayLevel: PIE: World Init took: (0.001605s)
+[2025.06.14-03.09.48:097][379]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2025.06.14-03.09.48:097][379]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.06.14-03.09.48:097][379]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.06.14-03.09.48:097][379]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.06.14-03.09.48:097][379]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.06.14-03.09.48:097][379]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.06.14-03.09.48:097][379]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.06.14-03.09.48:097][379]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.06.14-03.09.48:097][379]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.06.14-03.09.48:097][379]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.06.14-03.09.48:097][379]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.06.14-03.09.48:097][379]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.06.14-03.09.48:099][379]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.06.14-03.09.48:309][379]LogAudioMixer: Display: Using Audio Hardware Device Speakers (3- Logitech PRO X Wireless Gaming Headset)
+[2025.06.14-03.09.48:310][379]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.06.14-03.09.48:310][379]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.06.14-03.09.48:310][379]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.06.14-03.09.48:310][379]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2025.06.14-03.09.48:310][379]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=17
+[2025.06.14-03.09.48:312][379]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2025.06.14-03.09.48:312][379]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2025.06.14-03.09.48:312][379]LogInit: FAudioDevice initialized with ID 17.
+[2025.06.14-03.09.48:312][379]LogAudio: Display: Audio Device (ID: 17) registered with world 'GameLevel'.
+[2025.06.14-03.09.48:312][379]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 17
+[2025.06.14-03.09.48:316][379]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.06.14-03.09.48:323][379]LogWorld: Bringing World /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel up for play (max tick rate 0) at 2025.06.13-23.09.48
+[2025.06.14-03.09.48:323][379]LogWorld: Bringing up level for play took: 0.000918
+[2025.06.14-03.09.48:326][379]LogOnline: OSS: Created online subsystem instance for: :Context_33
+[2025.06.14-03.09.48:330][379]PIE: Server logged in
+[2025.06.14-03.09.48:332][379]PIE: Play in editor total start time 0.275 seconds.
+[2025.06.14-03.10.43:008][602]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.14-03.10.43:008][602]LogWorld: BeginTearingDown for /Game/ActualGame/UEDPIE_0_GameLevel
+[2025.06.14-03.10.43:009][602]LogWorld: UWorld::CleanupWorld for GameLevel, bSessionEnded=true, bCleanupResources=true
+[2025.06.14-03.10.43:009][602]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.14-03.10.43:015][602]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.06.14-03.10.43:020][602]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.14-03.10.43:047][602]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.14-03.10.43:047][602]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 17
+[2025.06.14-03.10.43:047][602]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17, StreamState=4
+[2025.06.14-03.10.43:050][602]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17, StreamState=2
+[2025.06.14-03.10.43:056][602]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2025.06.14-03.10.43:137][603]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2025.06.14-03.10.43:166][603]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2025.06.14-03.12.07:353][731]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.06.14-03.12.07:359][731]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.06.14-03.12.07:359][731]LogPlayLevel: Creating play world package: /Game/ActualGame/UEDPIE_0_GameLevel
+[2025.06.14-03.12.07:363][731]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002965s)
+[2025.06.14-03.12.07:363][731]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ActualGame/GameLevel.GameLevel to /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel (0.002998s)
+[2025.06.14-03.12.07:391][731]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2025.06.14-03.12.07:395][731]LogChaosDD: Creating Chaos Debug Draw Scene for world GameLevel
+[2025.06.14-03.12.07:398][731]LogPlayLevel: PIE: World Init took: (0.001660s)
+[2025.06.14-03.12.07:398][731]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2025.06.14-03.12.07:398][731]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.06.14-03.12.07:398][731]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.06.14-03.12.07:399][731]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.06.14-03.12.07:399][731]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.06.14-03.12.07:399][731]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.06.14-03.12.07:399][731]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.06.14-03.12.07:399][731]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.06.14-03.12.07:399][731]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.06.14-03.12.07:399][731]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.06.14-03.12.07:399][731]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.06.14-03.12.07:399][731]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.06.14-03.12.07:400][731]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.06.14-03.12.07:503][731]LogAudioMixer: Display: Using Audio Hardware Device Speakers (3- Logitech PRO X Wireless Gaming Headset)
+[2025.06.14-03.12.07:503][731]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.06.14-03.12.07:503][731]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.06.14-03.12.07:503][731]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.06.14-03.12.07:505][731]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2025.06.14-03.12.07:505][731]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=18
+[2025.06.14-03.12.07:507][731]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2025.06.14-03.12.07:507][731]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2025.06.14-03.12.07:507][731]LogInit: FAudioDevice initialized with ID 18.
+[2025.06.14-03.12.07:507][731]LogAudio: Display: Audio Device (ID: 18) registered with world 'GameLevel'.
+[2025.06.14-03.12.07:507][731]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 18
+[2025.06.14-03.12.07:518][731]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.06.14-03.12.07:529][731]LogWorld: Bringing World /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel up for play (max tick rate 0) at 2025.06.13-23.12.07
+[2025.06.14-03.12.07:529][731]LogWorld: Bringing up level for play took: 0.001022
+[2025.06.14-03.12.07:533][731]LogOnline: OSS: Created online subsystem instance for: :Context_34
+[2025.06.14-03.12.07:537][731]PIE: Server logged in
+[2025.06.14-03.12.07:538][731]PIE: Play in editor total start time 0.18 seconds.
+[2025.06.14-03.13.03:929][669]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.14-03.13.03:929][669]LogWorld: BeginTearingDown for /Game/ActualGame/UEDPIE_0_GameLevel
+[2025.06.14-03.13.03:930][669]LogWorld: UWorld::CleanupWorld for GameLevel, bSessionEnded=true, bCleanupResources=true
+[2025.06.14-03.13.03:930][669]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.14-03.13.03:955][669]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.06.14-03.13.03:963][669]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.14-03.13.03:993][669]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.06.14-03.13.03:993][669]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 18
+[2025.06.14-03.13.03:993][669]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18, StreamState=4
+[2025.06.14-03.13.03:995][669]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18, StreamState=2
+[2025.06.14-03.13.03:998][669]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.14-03.13.04:003][669]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2025.06.14-03.13.04:086][670]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2025.06.14-03.13.04:113][670]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.06.14-03.13.40:094][701]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.06.14-03.13.40:101][701]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.06.14-03.13.40:101][701]LogPlayLevel: Creating play world package: /Game/ActualGame/UEDPIE_0_GameLevel
+[2025.06.14-03.13.40:104][701]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003347s)
+[2025.06.14-03.13.40:104][701]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ActualGame/GameLevel.GameLevel to /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel (0.003378s)
+[2025.06.14-03.13.40:131][701]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.06.14-03.13.40:139][701]LogChaosDD: Creating Chaos Debug Draw Scene for world GameLevel
+[2025.06.14-03.13.40:140][701]LogPlayLevel: PIE: World Init took: (0.001640s)
+[2025.06.14-03.13.40:141][701]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2025.06.14-03.13.40:141][701]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.06.14-03.13.40:141][701]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.06.14-03.13.40:141][701]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.06.14-03.13.40:141][701]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.06.14-03.13.40:141][701]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.06.14-03.13.40:141][701]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.06.14-03.13.40:141][701]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.06.14-03.13.40:141][701]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.06.14-03.13.40:141][701]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.06.14-03.13.40:141][701]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.06.14-03.13.40:141][701]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.06.14-03.13.40:143][701]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.06.14-03.13.40:272][701]LogAudioMixer: Display: Using Audio Hardware Device Speakers (3- Logitech PRO X Wireless Gaming Headset)
+[2025.06.14-03.13.40:272][701]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.06.14-03.13.40:272][701]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.06.14-03.13.40:272][701]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.06.14-03.13.40:273][701]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2025.06.14-03.13.40:273][701]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=19
+[2025.06.14-03.13.40:275][701]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2025.06.14-03.13.40:275][701]LogInit: FAudioDevice initialized with ID 19.
+[2025.06.14-03.13.40:275][701]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2025.06.14-03.13.40:275][701]LogAudio: Display: Audio Device (ID: 19) registered with world 'GameLevel'.
+[2025.06.14-03.13.40:275][701]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 19
+[2025.06.14-03.13.40:286][701]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.06.14-03.13.40:297][701]LogWorld: Bringing World /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel up for play (max tick rate 0) at 2025.06.13-23.13.40
+[2025.06.14-03.13.40:297][701]LogWorld: Bringing up level for play took: 0.001072
+[2025.06.14-03.13.40:299][701]LogOnline: OSS: Created online subsystem instance for: :Context_35
+[2025.06.14-03.13.40:304][701]PIE: Server logged in
+[2025.06.14-03.13.40:306][701]PIE: Play in editor total start time 0.205 seconds.
+[2025.06.14-03.13.59:969][761]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.14-03.13.59:969][761]LogWorld: BeginTearingDown for /Game/ActualGame/UEDPIE_0_GameLevel
+[2025.06.14-03.13.59:969][761]LogWorld: UWorld::CleanupWorld for GameLevel, bSessionEnded=true, bCleanupResources=true
+[2025.06.14-03.13.59:970][761]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.14-03.13.59:975][761]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.06.14-03.13.59:981][761]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.14-03.14.00:008][761]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.14-03.14.00:008][761]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 19
+[2025.06.14-03.14.00:008][761]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19, StreamState=4
+[2025.06.14-03.14.00:010][761]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19, StreamState=2
+[2025.06.14-03.14.00:018][761]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2025.06.14-03.14.00:094][762]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2025.06.14-03.14.00:121][762]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.06.14-03.14.14:223][478]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9764.354492
+[2025.06.14-03.14.14:316][484]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.14-03.14.14:316][484]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9764.432617, Update Interval: 344.867706
+[2025.06.14-03.20.41:993][744]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10152.119141
+[2025.06.14-03.20.42:108][751]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.14-03.20.42:108][751]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10152.217773, Update Interval: 334.214294
+[2025.06.14-03.22.25:022][533]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.14-03.22.25:065][533]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ActualGame/BluePrints/TeleportsShuffle] ([2] browsable assets)...
+[2025.06.14-03.22.25:065][533]OBJ SavePackage: Finished generating thumbnails for package [/Game/ActualGame/BluePrints/TeleportsShuffle]
+[2025.06.14-03.22.25:065][533]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ActualGame/BluePrints/TeleportsShuffle" FILE="../../../../../../Unreal engine projects/GameParadeJam/Content/ActualGame/BluePrints/TeleportsShuffle.uasset" SILENT=true
+[2025.06.14-03.22.25:079][533]LogSavePackage: Moving output files for package: /Game/ActualGame/BluePrints/TeleportsShuffle
+[2025.06.14-03.22.25:080][533]LogSavePackage: Moving '../../../../../../Unreal engine projects/GameParadeJam/Saved/TeleportsShuffle2121F0D64AEADC469BB6C98C62F1EACC.tmp' to '../../../../../../Unreal engine projects/GameParadeJam/Content/ActualGame/BluePrints/TeleportsShuffle.uasset'
+[2025.06.14-03.22.25:092][533]LogFileHelpers: InternalPromptForCheckoutAndSave took 70.702 ms (total: 5.91 sec)
+[2025.06.14-03.22.25:163][533]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.14-03.22.25:163][533]LogContentValidation: Enabled validators:
+[2025.06.14-03.22.25:163][533]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.14-03.22.25:163][533]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.14-03.22.25:163][533]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.14-03.22.25:163][533]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.14-03.22.25:163][533]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.14-03.22.25:163][533]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.14-03.22.25:163][533]AssetCheck: /Game/ActualGame/BluePrints/TeleportsShuffle Validating asset
+[2025.06.14-03.22.25:779][562]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2025.06.14-03.22.27:491][643]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.06.14-03.22.27:496][643]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.06.14-03.22.27:496][643]LogPlayLevel: Creating play world package: /Game/ActualGame/UEDPIE_0_GameLevel
+[2025.06.14-03.22.27:499][643]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002927s)
+[2025.06.14-03.22.27:499][643]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ActualGame/GameLevel.GameLevel to /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel (0.002960s)
+[2025.06.14-03.22.27:526][643]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2025.06.14-03.22.27:532][643]LogChaosDD: Creating Chaos Debug Draw Scene for world GameLevel
+[2025.06.14-03.22.27:533][643]LogPlayLevel: PIE: World Init took: (0.001640s)
+[2025.06.14-03.22.27:534][643]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2025.06.14-03.22.27:534][643]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.06.14-03.22.27:534][643]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.06.14-03.22.27:534][643]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.06.14-03.22.27:534][643]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.06.14-03.22.27:534][643]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.06.14-03.22.27:534][643]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.06.14-03.22.27:534][643]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.06.14-03.22.27:535][643]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.06.14-03.22.27:535][643]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.06.14-03.22.27:535][643]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.06.14-03.22.27:535][643]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.06.14-03.22.27:537][643]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.06.14-03.22.27:731][643]LogAudioMixer: Display: Using Audio Hardware Device Speakers (3- Logitech PRO X Wireless Gaming Headset)
+[2025.06.14-03.22.27:731][643]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.06.14-03.22.27:731][643]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.06.14-03.22.27:731][643]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.06.14-03.22.27:732][643]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2025.06.14-03.22.27:732][643]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=20
+[2025.06.14-03.22.27:734][643]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2025.06.14-03.22.27:734][643]LogInit: FAudioDevice initialized with ID 20.
+[2025.06.14-03.22.27:734][643]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2025.06.14-03.22.27:734][643]LogAudio: Display: Audio Device (ID: 20) registered with world 'GameLevel'.
+[2025.06.14-03.22.27:734][643]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 20
+[2025.06.14-03.22.27:744][643]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.06.14-03.22.27:754][643]LogWorld: Bringing World /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel up for play (max tick rate 0) at 2025.06.13-23.22.27
+[2025.06.14-03.22.27:754][643]LogWorld: Bringing up level for play took: 0.000893
+[2025.06.14-03.22.27:756][643]LogOnline: OSS: Created online subsystem instance for: :Context_36
+[2025.06.14-03.22.27:761][643]PIE: Server logged in
+[2025.06.14-03.22.27:763][643]PIE: Play in editor total start time 0.268 seconds.
+[2025.06.14-03.22.46:339][852]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.14-03.22.46:339][852]LogWorld: BeginTearingDown for /Game/ActualGame/UEDPIE_0_GameLevel
+[2025.06.14-03.22.46:339][852]LogWorld: UWorld::CleanupWorld for GameLevel, bSessionEnded=true, bCleanupResources=true
+[2025.06.14-03.22.46:340][852]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.14-03.22.46:450][852]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.06.14-03.22.46:456][852]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.14-03.22.46:486][852]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.14-03.22.46:487][852]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 20
+[2025.06.14-03.22.46:487][852]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20, StreamState=4
+[2025.06.14-03.22.46:489][852]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20, StreamState=2
+[2025.06.14-03.22.46:497][852]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2025.06.14-03.22.46:612][853]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2025.06.14-03.22.46:641][853]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.06.14-03.23.27:255][968]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2025.06.14-03.23.27:811][998]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.14-03.23.27:896][998]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ActualGame/BluePrints/TeleportsShuffle] ([2] browsable assets)...
+[2025.06.14-03.23.27:896][998]OBJ SavePackage: Finished generating thumbnails for package [/Game/ActualGame/BluePrints/TeleportsShuffle]
+[2025.06.14-03.23.27:896][998]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ActualGame/BluePrints/TeleportsShuffle" FILE="../../../../../../Unreal engine projects/GameParadeJam/Content/ActualGame/BluePrints/TeleportsShuffle.uasset" SILENT=true
+[2025.06.14-03.23.27:910][998]LogSavePackage: Moving output files for package: /Game/ActualGame/BluePrints/TeleportsShuffle
+[2025.06.14-03.23.27:910][998]LogSavePackage: Moving '../../../../../../Unreal engine projects/GameParadeJam/Saved/TeleportsShuffleB2A712694A51B1F10B2C21B589D3AF18.tmp' to '../../../../../../Unreal engine projects/GameParadeJam/Content/ActualGame/BluePrints/TeleportsShuffle.uasset'
+[2025.06.14-03.23.27:923][998]LogFileHelpers: InternalPromptForCheckoutAndSave took 111.535 ms (total: 6.02 sec)
+[2025.06.14-03.23.27:982][998]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.14-03.23.27:983][998]LogContentValidation: Enabled validators:
+[2025.06.14-03.23.27:983][998]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.14-03.23.27:983][998]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.14-03.23.27:983][998]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.14-03.23.27:983][998]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.14-03.23.27:983][998]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.14-03.23.27:983][998]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.14-03.23.27:983][998]AssetCheck: /Game/ActualGame/BluePrints/TeleportsShuffle Validating asset
+[2025.06.14-03.23.31:804][228]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.06.14-03.23.31:809][228]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.06.14-03.23.31:809][228]LogPlayLevel: Creating play world package: /Game/ActualGame/UEDPIE_0_GameLevel
+[2025.06.14-03.23.31:812][228]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002957s)
+[2025.06.14-03.23.31:812][228]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ActualGame/GameLevel.GameLevel to /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel (0.002985s)
+[2025.06.14-03.23.31:842][228]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2025.06.14-03.23.31:849][228]LogChaosDD: Creating Chaos Debug Draw Scene for world GameLevel
+[2025.06.14-03.23.31:850][228]LogPlayLevel: PIE: World Init took: (0.001768s)
+[2025.06.14-03.23.31:851][228]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2025.06.14-03.23.31:851][228]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.06.14-03.23.31:851][228]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.06.14-03.23.31:851][228]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.06.14-03.23.31:851][228]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.06.14-03.23.31:851][228]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.06.14-03.23.31:851][228]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.06.14-03.23.31:851][228]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.06.14-03.23.31:851][228]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.06.14-03.23.31:851][228]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.06.14-03.23.31:851][228]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.06.14-03.23.31:851][228]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.06.14-03.23.31:853][228]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.06.14-03.23.32:038][228]LogAudioMixer: Display: Using Audio Hardware Device Speakers (3- Logitech PRO X Wireless Gaming Headset)
+[2025.06.14-03.23.32:038][228]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.06.14-03.23.32:038][228]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.06.14-03.23.32:038][228]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.06.14-03.23.32:039][228]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=21
+[2025.06.14-03.23.32:039][228]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=21
+[2025.06.14-03.23.32:041][228]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=21
+[2025.06.14-03.23.32:041][228]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=21
+[2025.06.14-03.23.32:041][228]LogInit: FAudioDevice initialized with ID 21.
+[2025.06.14-03.23.32:041][228]LogAudio: Display: Audio Device (ID: 21) registered with world 'GameLevel'.
+[2025.06.14-03.23.32:041][228]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 21
+[2025.06.14-03.23.32:053][228]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.06.14-03.23.32:062][228]LogWorld: Bringing World /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel up for play (max tick rate 0) at 2025.06.13-23.23.32
+[2025.06.14-03.23.32:062][228]LogWorld: Bringing up level for play took: 0.000932
+[2025.06.14-03.23.32:064][228]LogOnline: OSS: Created online subsystem instance for: :Context_37
+[2025.06.14-03.23.32:069][228]PIE: Server logged in
+[2025.06.14-03.23.32:071][228]PIE: Play in editor total start time 0.263 seconds.
+[2025.06.14-03.23.46:619][394]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.14-03.23.46:619][394]LogWorld: BeginTearingDown for /Game/ActualGame/UEDPIE_0_GameLevel
+[2025.06.14-03.23.46:620][394]LogWorld: UWorld::CleanupWorld for GameLevel, bSessionEnded=true, bCleanupResources=true
+[2025.06.14-03.23.46:620][394]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.14-03.23.46:743][394]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.06.14-03.23.46:750][394]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.14-03.23.46:780][394]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.14-03.23.46:780][394]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 21
+[2025.06.14-03.23.46:780][394]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21, StreamState=4
+[2025.06.14-03.23.46:782][394]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21, StreamState=2
+[2025.06.14-03.23.46:791][394]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2025.06.14-03.23.46:882][395]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2025.06.14-03.23.46:913][395]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2025.06.14-03.24.42:423][595]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2025.06.14-03.24.43:047][626]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.14-03.24.43:097][626]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ActualGame/BluePrints/TeleportsShuffle] ([2] browsable assets)...
+[2025.06.14-03.24.43:097][626]OBJ SavePackage: Finished generating thumbnails for package [/Game/ActualGame/BluePrints/TeleportsShuffle]
+[2025.06.14-03.24.43:097][626]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ActualGame/BluePrints/TeleportsShuffle" FILE="../../../../../../Unreal engine projects/GameParadeJam/Content/ActualGame/BluePrints/TeleportsShuffle.uasset" SILENT=true
+[2025.06.14-03.24.43:110][626]LogSavePackage: Moving output files for package: /Game/ActualGame/BluePrints/TeleportsShuffle
+[2025.06.14-03.24.43:111][626]LogSavePackage: Moving '../../../../../../Unreal engine projects/GameParadeJam/Saved/TeleportsShuffle0974F0D34572FCF94D3D618B717CAA9E.tmp' to '../../../../../../Unreal engine projects/GameParadeJam/Content/ActualGame/BluePrints/TeleportsShuffle.uasset'
+[2025.06.14-03.24.43:123][626]LogFileHelpers: InternalPromptForCheckoutAndSave took 75.996 ms (total: 6.10 sec)
+[2025.06.14-03.24.43:177][626]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.14-03.24.43:177][626]LogContentValidation: Enabled validators:
+[2025.06.14-03.24.43:177][626]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.14-03.24.43:177][626]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.14-03.24.43:177][626]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.14-03.24.43:177][626]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.14-03.24.43:177][626]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.14-03.24.43:177][626]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.14-03.24.43:177][626]AssetCheck: /Game/ActualGame/BluePrints/TeleportsShuffle Validating asset
+[2025.06.14-03.24.44:475][704]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.06.14-03.24.44:480][704]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.06.14-03.24.44:480][704]LogPlayLevel: Creating play world package: /Game/ActualGame/UEDPIE_0_GameLevel
+[2025.06.14-03.24.44:483][704]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003691s)
+[2025.06.14-03.24.44:484][704]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ActualGame/GameLevel.GameLevel to /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel (0.003732s)
+[2025.06.14-03.24.44:516][704]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2025.06.14-03.24.44:520][704]LogChaosDD: Creating Chaos Debug Draw Scene for world GameLevel
+[2025.06.14-03.24.44:523][704]LogPlayLevel: PIE: World Init took: (0.001761s)
+[2025.06.14-03.24.44:524][704]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2025.06.14-03.24.44:524][704]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.06.14-03.24.44:524][704]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.06.14-03.24.44:524][704]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.06.14-03.24.44:524][704]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.06.14-03.24.44:524][704]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.06.14-03.24.44:524][704]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.06.14-03.24.44:524][704]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.06.14-03.24.44:524][704]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.06.14-03.24.44:524][704]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.06.14-03.24.44:524][704]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.06.14-03.24.44:524][704]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.06.14-03.24.44:526][704]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.06.14-03.24.44:690][704]LogAudioMixer: Display: Using Audio Hardware Device Speakers (3- Logitech PRO X Wireless Gaming Headset)
+[2025.06.14-03.24.44:690][704]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.06.14-03.24.44:690][704]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.06.14-03.24.44:690][704]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.06.14-03.24.44:691][704]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2025.06.14-03.24.44:691][704]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=22
+[2025.06.14-03.24.44:692][704]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2025.06.14-03.24.44:692][704]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2025.06.14-03.24.44:692][704]LogInit: FAudioDevice initialized with ID 22.
+[2025.06.14-03.24.44:692][704]LogAudio: Display: Audio Device (ID: 22) registered with world 'GameLevel'.
+[2025.06.14-03.24.44:692][704]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 22
+[2025.06.14-03.24.44:696][704]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.06.14-03.24.44:705][704]LogWorld: Bringing World /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel up for play (max tick rate 0) at 2025.06.13-23.24.44
+[2025.06.14-03.24.44:705][704]LogWorld: Bringing up level for play took: 0.000886
+[2025.06.14-03.24.44:707][704]LogOnline: OSS: Created online subsystem instance for: :Context_38
+[2025.06.14-03.24.44:711][704]PIE: Server logged in
+[2025.06.14-03.24.44:713][704]PIE: Play in editor total start time 0.234 seconds.
+[2025.06.14-03.25.05:519][996]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.14-03.25.05:519][996]LogWorld: BeginTearingDown for /Game/ActualGame/UEDPIE_0_GameLevel
+[2025.06.14-03.25.05:520][996]LogWorld: UWorld::CleanupWorld for GameLevel, bSessionEnded=true, bCleanupResources=true
+[2025.06.14-03.25.05:520][996]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.14-03.25.05:539][996]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.06.14-03.25.05:546][996]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.14-03.25.05:573][996]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.14-03.25.05:573][996]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 22
+[2025.06.14-03.25.05:573][996]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22, StreamState=4
+[2025.06.14-03.25.05:575][996]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22, StreamState=2
+[2025.06.14-03.25.05:583][996]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2025.06.14-03.25.05:667][997]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2025.06.14-03.25.05:695][997]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2025.06.14-03.25.31:216][354]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.06.14-03.25.31:221][354]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.06.14-03.25.31:221][354]LogPlayLevel: Creating play world package: /Game/ActualGame/UEDPIE_0_GameLevel
+[2025.06.14-03.25.31:224][354]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002882s)
+[2025.06.14-03.25.31:224][354]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ActualGame/GameLevel.GameLevel to /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel (0.002910s)
+[2025.06.14-03.25.31:251][354]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2025.06.14-03.25.31:256][354]LogChaosDD: Creating Chaos Debug Draw Scene for world GameLevel
+[2025.06.14-03.25.31:257][354]LogPlayLevel: PIE: World Init took: (0.001608s)
+[2025.06.14-03.25.31:258][354]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2025.06.14-03.25.31:258][354]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.06.14-03.25.31:258][354]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.06.14-03.25.31:258][354]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.06.14-03.25.31:258][354]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.06.14-03.25.31:258][354]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.06.14-03.25.31:258][354]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.06.14-03.25.31:258][354]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.06.14-03.25.31:258][354]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.06.14-03.25.31:258][354]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.06.14-03.25.31:258][354]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.06.14-03.25.31:258][354]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.06.14-03.25.31:261][354]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.06.14-03.25.31:396][354]LogAudioMixer: Display: Using Audio Hardware Device Speakers (3- Logitech PRO X Wireless Gaming Headset)
+[2025.06.14-03.25.31:397][354]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.06.14-03.25.31:397][354]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.06.14-03.25.31:397][354]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.06.14-03.25.31:397][354]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=23
+[2025.06.14-03.25.31:397][354]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=23
+[2025.06.14-03.25.31:399][354]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=23
+[2025.06.14-03.25.31:399][354]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=23
+[2025.06.14-03.25.31:399][354]LogInit: FAudioDevice initialized with ID 23.
+[2025.06.14-03.25.31:399][354]LogAudio: Display: Audio Device (ID: 23) registered with world 'GameLevel'.
+[2025.06.14-03.25.31:399][354]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 23
+[2025.06.14-03.25.31:410][354]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.06.14-03.25.31:419][354]LogWorld: Bringing World /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel up for play (max tick rate 0) at 2025.06.13-23.25.31
+[2025.06.14-03.25.31:422][354]LogWorld: Bringing up level for play took: 0.000989
+[2025.06.14-03.25.31:424][354]LogOnline: OSS: Created online subsystem instance for: :Context_39
+[2025.06.14-03.25.31:428][354]PIE: Server logged in
+[2025.06.14-03.25.31:430][354]PIE: Play in editor total start time 0.209 seconds.
+[2025.06.14-03.25.51:609][609]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.14-03.25.51:609][609]LogWorld: BeginTearingDown for /Game/ActualGame/UEDPIE_0_GameLevel
+[2025.06.14-03.25.51:609][609]LogWorld: UWorld::CleanupWorld for GameLevel, bSessionEnded=true, bCleanupResources=true
+[2025.06.14-03.25.51:609][609]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.14-03.25.51:614][609]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.06.14-03.25.51:621][609]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.14-03.25.51:650][609]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.06.14-03.25.51:650][609]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 23
+[2025.06.14-03.25.51:650][609]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23, StreamState=4
+[2025.06.14-03.25.51:652][609]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23, StreamState=2
+[2025.06.14-03.25.51:657][609]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.14-03.25.51:660][609]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2025.06.14-03.25.51:758][610]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2025.06.14-03.25.51:785][610]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.06.14-03.26.15:096][877]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2025.06.14-03.26.15:878][913]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.14-03.26.15:943][913]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ActualGame/BluePrints/TeleportsShuffle] ([2] browsable assets)...
+[2025.06.14-03.26.15:943][913]OBJ SavePackage: Finished generating thumbnails for package [/Game/ActualGame/BluePrints/TeleportsShuffle]
+[2025.06.14-03.26.15:943][913]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ActualGame/BluePrints/TeleportsShuffle" FILE="../../../../../../Unreal engine projects/GameParadeJam/Content/ActualGame/BluePrints/TeleportsShuffle.uasset" SILENT=true
+[2025.06.14-03.26.15:957][913]LogSavePackage: Moving output files for package: /Game/ActualGame/BluePrints/TeleportsShuffle
+[2025.06.14-03.26.15:957][913]LogSavePackage: Moving '../../../../../../Unreal engine projects/GameParadeJam/Saved/TeleportsShuffle40D63FA04890939198AC13A7EF8DE520.tmp' to '../../../../../../Unreal engine projects/GameParadeJam/Content/ActualGame/BluePrints/TeleportsShuffle.uasset'
+[2025.06.14-03.26.15:970][913]LogFileHelpers: InternalPromptForCheckoutAndSave took 91.056 ms (total: 6.19 sec)
+[2025.06.14-03.26.16:026][913]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.14-03.26.16:026][913]LogContentValidation: Enabled validators:
+[2025.06.14-03.26.16:026][913]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.14-03.26.16:026][913]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.14-03.26.16:026][913]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.14-03.26.16:026][913]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.14-03.26.16:026][913]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.14-03.26.16:026][913]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.14-03.26.16:026][913]AssetCheck: /Game/ActualGame/BluePrints/TeleportsShuffle Validating asset
+[2025.06.14-03.26.29:495][667]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.14-03.26.29:577][667]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ActualGame/BluePrints/TeleportsShuffle] ([2] browsable assets)...
+[2025.06.14-03.26.29:578][667]OBJ SavePackage: Finished generating thumbnails for package [/Game/ActualGame/BluePrints/TeleportsShuffle]
+[2025.06.14-03.26.29:578][667]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ActualGame/BluePrints/TeleportsShuffle" FILE="../../../../../../Unreal engine projects/GameParadeJam/Content/ActualGame/BluePrints/TeleportsShuffle.uasset" SILENT=true
+[2025.06.14-03.26.29:590][667]LogSavePackage: Moving output files for package: /Game/ActualGame/BluePrints/TeleportsShuffle
+[2025.06.14-03.26.29:590][667]LogSavePackage: Moving '../../../../../../Unreal engine projects/GameParadeJam/Saved/TeleportsShuffle8F330DC84253EA9DD18D7E96BC3274CB.tmp' to '../../../../../../Unreal engine projects/GameParadeJam/Content/ActualGame/BluePrints/TeleportsShuffle.uasset'
+[2025.06.14-03.26.29:602][667]LogFileHelpers: InternalPromptForCheckoutAndSave took 107.904 ms (total: 6.29 sec)
+[2025.06.14-03.26.29:665][667]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.14-03.26.29:665][667]LogContentValidation: Enabled validators:
+[2025.06.14-03.26.29:665][667]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.14-03.26.29:665][667]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.14-03.26.29:665][667]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.14-03.26.29:665][667]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.14-03.26.29:665][667]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.14-03.26.29:665][667]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.14-03.26.29:665][667]AssetCheck: /Game/ActualGame/BluePrints/TeleportsShuffle Validating asset
+[2025.06.14-03.26.30:556][722]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.06.14-03.26.30:562][722]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.06.14-03.26.30:562][722]LogPlayLevel: Creating play world package: /Game/ActualGame/UEDPIE_0_GameLevel
+[2025.06.14-03.26.30:565][722]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003033s)
+[2025.06.14-03.26.30:565][722]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ActualGame/GameLevel.GameLevel to /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel (0.003070s)
+[2025.06.14-03.26.30:596][722]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2025.06.14-03.26.30:602][722]LogChaosDD: Creating Chaos Debug Draw Scene for world GameLevel
+[2025.06.14-03.26.30:604][722]LogPlayLevel: PIE: World Init took: (0.001695s)
+[2025.06.14-03.26.30:605][722]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2025.06.14-03.26.30:605][722]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.06.14-03.26.30:605][722]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.06.14-03.26.30:605][722]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.06.14-03.26.30:605][722]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.06.14-03.26.30:605][722]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.06.14-03.26.30:605][722]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.06.14-03.26.30:605][722]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.06.14-03.26.30:605][722]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.06.14-03.26.30:605][722]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.06.14-03.26.30:605][722]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.06.14-03.26.30:605][722]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.06.14-03.26.30:608][722]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.06.14-03.26.30:725][722]LogAudioMixer: Display: Using Audio Hardware Device Speakers (3- Logitech PRO X Wireless Gaming Headset)
+[2025.06.14-03.26.30:725][722]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.06.14-03.26.30:725][722]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.06.14-03.26.30:725][722]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.06.14-03.26.30:725][722]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=24
+[2025.06.14-03.26.30:725][722]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=24
+[2025.06.14-03.26.30:727][722]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=24
+[2025.06.14-03.26.30:727][722]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=24
+[2025.06.14-03.26.30:727][722]LogInit: FAudioDevice initialized with ID 24.
+[2025.06.14-03.26.30:727][722]LogAudio: Display: Audio Device (ID: 24) registered with world 'GameLevel'.
+[2025.06.14-03.26.30:728][722]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 24
+[2025.06.14-03.26.30:731][722]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.06.14-03.26.30:739][722]LogWorld: Bringing World /Game/ActualGame/UEDPIE_0_GameLevel.GameLevel up for play (max tick rate 0) at 2025.06.13-23.26.30
+[2025.06.14-03.26.30:740][722]LogWorld: Bringing up level for play took: 0.000912
+[2025.06.14-03.26.30:741][722]LogOnline: OSS: Created online subsystem instance for: :Context_40
+[2025.06.14-03.26.30:746][722]PIE: Server logged in
+[2025.06.14-03.26.30:748][722]PIE: Play in editor total start time 0.186 seconds.
+[2025.06.14-03.26.48:119][921]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.14-03.26.48:119][921]LogWorld: BeginTearingDown for /Game/ActualGame/UEDPIE_0_GameLevel
+[2025.06.14-03.26.48:120][921]LogWorld: UWorld::CleanupWorld for GameLevel, bSessionEnded=true, bCleanupResources=true
+[2025.06.14-03.26.48:120][921]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.14-03.26.48:253][921]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.06.14-03.26.48:260][921]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.14-03.26.48:291][921]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.14-03.26.48:291][921]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 24
+[2025.06.14-03.26.48:291][921]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24, StreamState=4
+[2025.06.14-03.26.48:294][921]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24, StreamState=2
+[2025.06.14-03.26.48:302][921]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2025.06.14-03.26.48:390][922]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2025.06.14-03.26.48:419][922]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2025.06.14-03.27.14:873][945]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10545.079102
+[2025.06.14-03.27.15:878][948]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.14-03.27.15:879][948]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10545.746094, Update Interval: 318.096863
