@@ -57,7 +57,8 @@
 				"A:/Unreal engine projects/GameParadeJam/Content/ActualGame/SubLevels/Room4.umap",
 				"A:/Unreal engine projects/GameParadeJam/Content/ActualGame/SubLevels/Room5.umap",
 				"A:/Unreal engine projects/GameParadeJam/Content/ActualGame/BluePrints/RoomOrder.uasset",
-				"A:/Unreal engine projects/GameParadeJam/Content/ActualGame/BluePrints/Teleporter.uasset"
+				"A:/Unreal engine projects/GameParadeJam/Content/ActualGame/BluePrints/Teleporter.uasset",
+				"A:/Unreal engine projects/GameParadeJam/Content/ActualGame/BluePrints/TeleportsShuffle.uasset"
 			]
 		}
 	]
